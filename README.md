@@ -11,6 +11,7 @@
 
 <p align="center">
   <a href="https://osg.kudratov.uz">Website</a> ·
+  <a href="https://demo-osg.kudratov.uz"><b>Live dashboard demo</b></a> ·
   <a href="docs/DEVELOPMENT.md">Development guide</a> ·
   <a href="docs/SPEC-v2.md">Spec</a>
 </p>
@@ -44,6 +45,8 @@ OSG puts one new word in front of you at **08:00, 12:00 and 18:00** — as a not
 ## Admin dashboard
 
 A small web dashboard manages the word lists and shows how the app is used.
+
+**👉 Try it: [demo-osg.kudratov.uz](https://demo-osg.kudratov.uz)** (sign in with `demo` / `demo`; sample data, read-only).
 
 <p align="center">
   <img src="docs/images/dashboard/dashboard.png" width="49%" alt="Dashboard: active devices, platforms, versions, language pairs" />
@@ -111,6 +114,13 @@ flutter test
 cd admin-panel
 npm install
 npm run dev        # http://localhost:5173/panel/ (proxies the API on :8000)
+```
+
+**Dashboard demo build** (static, no backend, read-only):
+```bash
+cd admin-panel
+python3 scripts/make-demo-data.py http://127.0.0.1:8000 <ADMIN_API_KEY>   # optional: refresh demo-public/demo-data/ from a backend with demo data
+npm run build:demo                                                         # -> dist-demo/, serve as static files
 ```
 
 More detail (scheduling, widgets, sync, environment variables, endpoints): [docs/DEVELOPMENT.md](docs/DEVELOPMENT.md).

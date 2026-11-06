@@ -1,4 +1,5 @@
 <script setup>
+import { DEMO } from '../demo'
 import { computed, onBeforeUnmount, onMounted, ref, watch } from 'vue'
 import { useRoute, useRouter } from 'vue-router'
 import { session, logout } from '../auth'
@@ -146,6 +147,11 @@ function signOut() {
         </div>
       </header>
 
+      <div v-if="DEMO" class="demo-bar" role="note">
+        <strong>Demo</strong> · sample data, read-only ·
+        <a href="https://osg.kudratov.uz" target="_blank" rel="noopener">About OSG</a> ·
+        <a href="https://github.com/kudratov25/osg-words" target="_blank" rel="noopener">Source on GitHub</a>
+      </div>
       <main class="content">
         <slot />
       </main>
@@ -154,6 +160,8 @@ function signOut() {
 </template>
 
 <style scoped>
+.demo-bar { padding: 8px 20px; font-size: 13px; color: var(--text-secondary, #555); border-bottom: 1px solid var(--border, rgba(127,127,127,.2)); background: var(--surface-2, rgba(127,127,127,.06)); }
+.demo-bar a { color: inherit; text-decoration: underline; }
 .shell { --side-w: 272px; --header-h: 64px; min-height: 100vh; }
 .shell.collapsed { --side-w: 76px; }
 

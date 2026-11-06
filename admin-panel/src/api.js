@@ -1,4 +1,5 @@
 import { session, logout, setSession } from './auth'
+import { DEMO, demoRequest } from './demo'
 
 export class ApiError extends Error {
   constructor(status, detail) {
@@ -39,6 +40,13 @@ export function setUnauthorizedHandler(fn) {
 }
 
 async function request(path, { method = 'GET', body, auth = true } = {}) {
+  if (DEMO) {
+    try {
+      return await demoRequest(path, method)
+    } catch (e) {
+      throw new ApiError(e?.status ?? 0, e?.detail ?? null)
+    }
+  }
   const headers = { Accept: 'application/json' }
   if (body !== undefined) headers['Content-Type'] = 'application/json'
   if (auth && session.data?.token) headers.Authorization = `Bearer ${session.data.token}`

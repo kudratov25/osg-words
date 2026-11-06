@@ -1,4 +1,5 @@
 <script setup>
+import { DEMO, DEMO_USER, DEMO_PASSWORD } from '../demo'
 import ThemeToggle from '../components/ThemeToggle.vue'
 import { ref, computed, onMounted } from 'vue'
 import { useRoute, useRouter } from 'vue-router'
@@ -7,8 +8,8 @@ import BrandMark from '../components/BrandMark.vue'
 
 const route = useRoute()
 const router = useRouter()
-const username = ref('')
-const password = ref('')
+const username = ref(DEMO ? DEMO_USER : '')
+const password = ref(DEMO ? DEMO_PASSWORD : '')
 const loading = ref(false)
 const error = ref('')
 const usernameInput = ref(null)
@@ -51,6 +52,9 @@ async function submit() {
         <p class="muted">Sign in to manage words and see usage.</p>
       </div>
 
+      <div v-if="DEMO" class="alert alert-info">
+        <strong>Live demo</strong> with sample data, read-only. Sign in with <code>demo</code> / <code>demo</code>.
+      </div>
       <div v-if="expired && !error" class="alert alert-info">Your session ended. Please sign in again.</div>
       <div v-if="error" class="alert alert-error" role="alert">{{ error }}</div>
 
