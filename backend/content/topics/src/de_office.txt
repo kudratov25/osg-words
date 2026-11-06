@@ -1,0 +1,78 @@
+# Office / Business — German
+Besprechung|die|B1|Work|Die Besprechung dauert eine Stunde.|meeting|The meeting lasts an hour.|majlis|Majlis bir soat davom etadi.|совещание|Совещание длится час.
+Sitzung|die|B2|Work|Die Sitzung ist im Raum drei.|meeting / session|The meeting is in room three.|yig'ilish|Yig'ilish uchinchi xonada.|заседание|Заседание в комнате три.
+Tagesordnung|die|B2|Work|Was steht auf der Tagesordnung?|agenda|What's on the agenda?|kun tartibi|Kun tartibida nima bor?|повестка дня|Что на повестке дня?
+Protokoll|das|B2|Work|Wer schreibt das Protokoll?|minutes (of a meeting)|Who is taking the minutes?|bayonnoma|Bayonnomani kim yozadi?|протокол|Кто ведёт протокол?
+Bericht|der|B1|Work|Der Bericht ist fertig.|report|The report is finished.|hisobot|Hisobot tayyor.|отчёт|Отчёт готов.
+Unterlagen|die|B1|Work|Bitte bringen Sie alle Unterlagen mit.|documents / paperwork|Please bring all the documents.|hujjatlar|Iltimos, barcha hujjatlarni olib keling.|документы|Пожалуйста, принесите все документы.
+Dokument|das|A2|Work|Ich schicke dir das Dokument.|document|I'll send you the document.|hujjat|Senga hujjatni yuboraman.|документ|Я пришлю тебе документ.
+Formular|das|A2|Work|Füllen Sie bitte das Formular aus.|form|Please fill in the form.|ariza shakli (blanka)|Iltimos, blankani to'ldiring.|бланк / анкета|Заполните, пожалуйста, бланк.
+ausfüllen|-|A2|Work|Ich fülle den Antrag aus.|to fill in|I'm filling in the application.|to'ldirmoq|Men arizani to'ldiryapman.|заполнять|Я заполняю заявление.
+Antrag|der|B1|Work|Der Antrag wurde genehmigt.|application (form)|The application was approved.|ariza|Ariza tasdiqlandi.|заявление|Заявление одобрено.
+Vertrag|der|B1|Work|Ich unterschreibe den Vertrag.|contract|I'm signing the contract.|shartnoma|Men shartnomani imzolayapman.|договор|Я подписываю договор.
+Bewerbung|die|B1|Work|Ich schreibe eine Bewerbung.|job application|I'm writing a job application.|ishga ariza|Men ishga ariza yozyapman.|заявка на работу / резюме|Я пишу заявку на работу.
+Lebenslauf|der|B1|Work|Schick bitte deinen Lebenslauf.|CV / résumé|Please send your CV.|tarjimai hol (rezyume)|Iltimos, rezyumengni yubor.|резюме|Пришли, пожалуйста, своё резюме.
+Gehalt|das|B1|Money|Das Gehalt kommt am Ersten.|salary|The salary comes on the first.|maosh|Maosh oyning birinchi kuni keladi.|зарплата / оклад|Зарплата приходит первого числа.
+Abteilung|die|A2|Work|In welcher Abteilung arbeiten Sie?|department|Which department do you work in?|bo'lim|Qaysi bo'limda ishlaysiz?|отдел|В каком отделе вы работаете?
+Personalabteilung|die|B2|Work|Frag bei der Personalabteilung.|HR department|Ask the HR department.|kadrlar bo'limi|Kadrlar bo'limidan so'ra.|отдел кадров|Спроси в отделе кадров.
+Buchhaltung|die|B2|Work|Die Rechnung geht an die Buchhaltung.|accounting|The invoice goes to accounting.|buxgalteriya|Hisob-faktura buxgalteriyaga boradi.|бухгалтерия|Счёт идёт в бухгалтерию.
+Vorgesetzter|der|B2|Work|Mein Vorgesetzter ist im Urlaub.|supervisor / boss|My supervisor is on holiday.|rahbar|Rahbarim ta'tilda.|начальник / руководитель|Мой начальник в отпуске.
+Geschäftsführer|der|B2|Work|Der Geschäftsführer hält eine Rede.|managing director / CEO|The managing director gives a speech.|bosh direktor|Bosh direktor nutq so'zlaydi.|генеральный директор|Генеральный директор выступает с речью.
+Team|das|A2|Work|Unser Team ist klein.|team|Our team is small.|jamoa|Bizning jamoamiz kichik.|команда|Наша команда маленькая.
+Kunde|der|A1|Work|Der Kunde ruft um drei an.|client / customer|The client is calling at three.|mijoz|Mijoz uchda qo'ng'iroq qiladi.|клиент|Клиент позвонит в три.
+anrufen|-|A1|Work|Ich rufe Sie morgen an.|to call|I'll call you tomorrow.|qo'ng'iroq qilmoq|Sizga ertaga qo'ng'iroq qilaman.|звонить|Я позвоню вам завтра.
+zurückrufen|-|B1|Work|Können Sie mich zurückrufen?|to call back|Can you call me back?|qayta qo'ng'iroq qilmoq|Menga qayta qo'ng'iroq qila olasizmi?|перезвонить|Вы можете мне перезвонить?
+erreichen|-|B1|Work|Ich erreiche ihn nicht.|to reach (by phone)|I can't reach him.|bog'lanmoq|U bilan bog'lana olmayapman.|дозвониться|Я не могу до него дозвониться.
+Anruf|der|A2|Work|Danke für Ihren Anruf.|call|Thanks for your call.|qo'ng'iroq|Qo'ng'irog'ingiz uchun rahmat.|звонок|Спасибо за ваш звонок.
+Kalender|der|A2|Work|Ich trage den Termin in den Kalender ein.|calendar|I'm putting the appointment in the calendar.|taqvim|Uchrashuvni taqvimga yozaman.|календарь|Я заношу встречу в календарь.
+verschieben|-|B1|Work|Können wir das Treffen verschieben?|to postpone|Can we postpone the meeting?|qoldirmoq (boshqa vaqtga)|Uchrashuvni boshqa vaqtga qoldira olamizmi?|переносить|Можем перенести встречу?
+absagen|-|B1|Work|Ich muss den Termin absagen.|to cancel|I have to cancel the appointment.|bekor qilmoq|Uchrashuvni bekor qilishim kerak.|отменять|Мне нужно отменить встречу.
+Frist|die|B2|Work|Die Frist endet am Montag.|deadline|The deadline ends on Monday.|muddat|Muddat dushanba kuni tugaydi.|срок|Срок истекает в понедельник.
+dringend|-|B1|Work|Das ist dringend.|urgent|This is urgent.|shoshilinch|Bu shoshilinch.|срочный|Это срочно.
+erledigen|-|B1|Work|Ich erledige das heute.|to take care of / get done|I'll get it done today.|bajarmoq|Buni bugun bajaraman.|сделать / уладить|Я сделаю это сегодня.
+Aufgabe|die|A2|Work|Das ist eine wichtige Aufgabe.|task|That's an important task.|vazifa|Bu muhim vazifa.|задача|Это важная задача.
+Ziel|das|B1|Work|Unser Ziel ist klar.|goal|Our goal is clear.|maqsad|Bizning maqsadimiz aniq.|цель|Наша цель ясна.
+Präsentation|die|B1|Work|Ich halte morgen eine Präsentation.|presentation|I'm giving a presentation tomorrow.|taqdimot|Ertaga taqdimot qilaman.|презентация|Завтра я делаю презентацию.
+Tabelle|die|B1|Work|Die Zahlen stehen in der Tabelle.|table / spreadsheet|The figures are in the spreadsheet.|jadval|Raqamlar jadvalda.|таблица|Цифры в таблице.
+Unterschrift|die|A2|Work|Der Vertrag braucht Ihre Unterschrift.|signature|The contract needs your signature.|imzo|Shartnomaga imzongiz kerak.|подпись|Договору нужна ваша подпись.
+Stempel|der|B1|Work|Hier fehlt noch der Stempel.|stamp|The stamp is still missing here.|muhr|Bu yerda hali muhr yo'q.|печать / штамп|Здесь ещё не хватает печати.
+Schreibtisch|der|A1|Work|Mein Schreibtisch ist am Fenster.|desk|My desk is by the window.|yozuv stoli|Yozuv stolim deraza yonida.|письменный стол|Мой стол у окна.
+Kopierer|der|A2|Work|Der Kopierer ist wieder kaputt.|photocopier|The photocopier is broken again.|nusxa ko'chirish mashinasi|Nusxa ko'chirish mashinasi yana buzildi.|копировальный аппарат|Ксерокс опять сломался.
+kopieren|-|A2|Work|Kannst du das bitte kopieren?|to copy|Can you copy that, please?|nusxa olmoq|Iltimos, bundan nusxa ola olasanmi?|копировать|Можешь это скопировать?
+Rechnung|die|A2|Money|Die Rechnung ist noch offen.|invoice / bill|The invoice is still unpaid.|hisob-faktura|Hisob-faktura hali to'lanmagan.|счёт|Счёт ещё не оплачен.
+Angebot|das|B1|Work|Wir schicken Ihnen ein Angebot.|quote / offer|We'll send you a quote.|tijoriy taklif|Sizga tijoriy taklif yuboramiz.|коммерческое предложение|Мы пришлём вам предложение.
+Kosten|die|B1|Money|Die Kosten sind zu hoch.|costs|The costs are too high.|xarajatlar|Xarajatlar juda yuqori.|расходы|Расходы слишком высокие.
+Budget|das|B2|Money|Das Budget ist knapp.|budget|The budget is tight.|byudjet|Byudjet tor.|бюджет|Бюджет ограничен.
+Umsatz|der|B2|Money|Der Umsatz ist gestiegen.|revenue / sales|Revenue has gone up.|tushum|Tushum oshdi.|выручка|Выручка выросла.
+Gewinn|der|B2|Money|Die Firma macht Gewinn.|profit|The company makes a profit.|foyda|Kompaniya foyda ko'ryapti.|прибыль|Компания получает прибыль.
+Verhandlung|die|C1|Work|Die Verhandlung war schwierig.|negotiation|The negotiation was difficult.|muzokara|Muzokara qiyin o'tdi.|переговоры|Переговоры были трудными.
+Kündigung|die|B2|Work|Er hat die Kündigung bekommen.|notice (of dismissal) / resignation|He got his notice.|ishdan bo'shatish xati|U ishdan bo'shatish xatini oldi.|увольнение|Его уволили.
+Probezeit|die|B2|Work|Die Probezeit dauert sechs Monate.|probation period|The probation period lasts six months.|sinov muddati|Sinov muddati olti oy.|испытательный срок|Испытательный срок шесть месяцев.
+Arbeitszeit|die|A2|Work|Meine Arbeitszeit ist flexibel.|working hours|My working hours are flexible.|ish vaqti|Ish vaqtim moslashuvchan.|рабочее время|У меня гибкий график.
+Urlaubsantrag|der|B2|Work|Ich stelle einen Urlaubsantrag.|holiday request|I'm submitting a holiday request.|ta'til arizasi|Men ta'til arizasini beraman.|заявление на отпуск|Я подаю заявление на отпуск.
+krankmelden|-|B1|Work|Ich muss mich heute krankmelden.|to call in sick|I have to call in sick today.|kasal ekanini xabar qilmoq|Bugun kasal ekanimni xabar qilishim kerak.|сообщить о болезни|Мне сегодня нужно взять больничный.
+Kantine|die|A2|Work|Wir essen in der Kantine.|canteen|We eat in the canteen.|oshxona (ishxonada)|Biz ishxona oshxonasida ovqatlanamiz.|столовая|Мы едим в столовой.
+Empfang|der|B1|Work|Der Besuch wartet am Empfang.|reception (desk)|The visitor is waiting at reception.|qabulxona|Mehmon qabulxonada kutyapti.|ресепшен|Посетитель ждёт на ресепшене.
+Visitenkarte|die|B1|Work|Hier ist meine Visitenkarte.|business card|Here is my business card.|vizitka|Mana mening vizitkam.|визитка|Вот моя визитка.
+Geschäftsreise|die|B1|Work|Nächste Woche bin ich auf Geschäftsreise.|business trip|Next week I'm on a business trip.|xizmat safari|Keyingi hafta xizmat safarida bo'laman.|командировка|На следующей неделе я в командировке.
+Ablage|die|B2|Work|Leg die Briefe in die Ablage.|filing tray / filing|Put the letters in the filing tray.|hujjatlar javoni|Xatlarni hujjatlar javoniga qo'y.|лоток для бумаг|Положи письма в лоток.
+Mappe|die|B1|Work|Die Unterlagen sind in der blauen Mappe.|folder (paper)|The papers are in the blue folder.|papka|Hujjatlar ko'k papkada.|папка|Документы в синей папке.
+Kollege|der|A1|Work|Mein Kollege hilft mir.|colleague|My colleague helps me.|hamkasb|Hamkasbim menga yordam beradi.|коллега|Мой коллега мне помогает.
+Rückfrage|die|C1|Work|Bei Rückfragen rufen Sie mich an.|query / follow-up question|If you have any queries, call me.|qo'shimcha savol|Qo'shimcha savollar bo'lsa, menga qo'ng'iroq qiling.|уточняющий вопрос|По вопросам звоните мне.
+Anlage|die|B2|Work|In der Anlage finden Sie den Vertrag.|enclosure / attachment|Please find the contract attached.|ilova|Shartnoma ilovada.|приложение|Договор во вложении.
+Mitteilung|die|B2|Work|Wir haben eine wichtige Mitteilung.|notice / announcement|We have an important announcement.|xabarnoma|Bizda muhim xabarnoma bor.|сообщение / уведомление|У нас важное сообщение.
+Feedback|das|B1|Work|Danke für dein Feedback.|feedback|Thanks for your feedback.|fikr-mulohaza|Fikr-mulohazang uchun rahmat.|отзыв / обратная связь|Спасибо за обратную связь.
+Drucker|der|A2|Work|Der Drucker im Büro ist neu.|printer|The office printer is new.|printer|Ofisdagi printer yangi.|принтер|Принтер в офисе новый.
+Bürobedarf|der|B2|Work|Wir bestellen Bürobedarf.|office supplies|We're ordering office supplies.|ofis jihozlari|Biz ofis jihozlarini buyurtma qilyapmiz.|канцтовары|Мы заказываем канцтовары.
+Schulung|die|B1|Work|Die Schulung ist am Donnerstag.|training (course)|The training is on Thursday.|o'quv mashg'uloti|O'quv mashg'uloti payshanba kuni.|обучение|Обучение в четверг.
+Überstunden|die|B1|Work|Ich mache keine Überstunden mehr.|overtime|I'm not doing overtime any more.|qo'shimcha ish soatlari|Endi qo'shimcha soat ishlamayman.|сверхурочные|Я больше не работаю сверхурочно.
+Gleitzeit|die|B2|Work|Wir haben Gleitzeit.|flexitime|We have flexitime.|moslashuvchan ish vaqti|Bizda moslashuvchan ish vaqti.|скользящий график|У нас скользящий график.
+Arbeitsvertrag|der|B1|Work|Mein Arbeitsvertrag ist unbefristet.|employment contract|My employment contract is permanent.|mehnat shartnomasi|Mehnat shartnomam muddatsiz.|трудовой договор|Мой трудовой договор бессрочный.
+befristet|-|B2|Work|Die Stelle ist auf ein Jahr befristet.|fixed-term|The position is fixed-term for one year.|muddatli|Lavozim bir yil muddatli.|временный / срочный|Должность на год.
+Stelle|die|B1|Work|Ich habe eine neue Stelle.|job / position|I have a new job.|lavozim|Menda yangi lavozim bor.|место работы / должность|У меня новая должность.
+Stellenanzeige|die|B1|Work|Ich habe die Stellenanzeige gelesen.|job advert|I read the job advert.|ish e'loni|Men ish e'lonini o'qidim.|объявление о вакансии|Я прочитал объявление о вакансии.
+Vorstellungsgespräch|das|B1|Work|Mein Vorstellungsgespräch ist um zehn.|job interview|My job interview is at ten.|ish suhbati|Ish suhbatim o'nda.|собеседование|Моё собеседование в десять.
+Gehaltsabrechnung|die|B2|Money|Die Gehaltsabrechnung kommt per E-Mail.|payslip|The payslip comes by email.|ish haqi varaqasi|Ish haqi varaqasi elektron pochta orqali keladi.|расчётный лист|Расчётный лист приходит по почте.
+Steuernummer|die|B2|Money|Ich brauche Ihre Steuernummer.|tax number|I need your tax number.|soliq raqami|Menga soliq raqamingiz kerak.|налоговый номер|Мне нужен ваш налоговый номер.
+Ansprechpartner|der|B2|Work|Wer ist mein Ansprechpartner?|contact person|Who is my contact person?|mas'ul shaxs|Mening mas'ul shaxsim kim?|контактное лицо|Кто моё контактное лицо?
+Rundschreiben|das|C1|Work|Alle bekommen das Rundschreiben.|circular / memo|Everyone gets the memo.|sirkulyar xat|Hammaga sirkulyar xat yuboriladi.|циркуляр / рассылка|Все получают рассылку.

@@ -1,0 +1,69 @@
+# Medicine / Health care — German
+Patient|der|A2|Health|Der Patient wartet im Flur.|patient|The patient is waiting in the corridor.|bemor|Bemor yo'lakda kutyapti.|пациент|Пациент ждёт в коридоре.
+Patientin|die|A2|Health|Die Patientin hat Schmerzen.|patient (female)|The patient is in pain.|bemor (ayol)|Bemor ayolning og'rig'i bor.|пациентка|У пациентки боли.
+Ärztin|die|A1|Health|Die Ärztin kommt gleich.|doctor (female)|The doctor is coming right away.|shifokor (ayol)|Shifokor ayol hozir keladi.|врач (женщина)|Врач сейчас придёт.
+Krankenschwester|die|A2|Health|Die Krankenschwester misst den Blutdruck.|nurse|The nurse measures the blood pressure.|hamshira|Hamshira qon bosimini o'lchaydi.|медсестра|Медсестра измеряет давление.
+Pfleger|der|B1|Health|Der Pfleger hilft beim Waschen.|male nurse / carer|The nurse helps with washing.|hamshira (erkak)|Hamshira yuvinishda yordam beradi.|медбрат|Медбрат помогает умыться.
+Praxis|die|A2|Health|Die Praxis ist am Mittwoch geschlossen.|doctor's office / practice|The practice is closed on Wednesday.|klinika / qabulxona|Qabulxona chorshanba kuni yopiq.|врачебный кабинет / практика|Практика в среду закрыта.
+Sprechstunde|die|B1|Health|Die Sprechstunde beginnt um acht.|office hours (doctor)|Office hours start at eight.|qabul vaqti|Qabul vaqti sakkizda boshlanadi.|приёмные часы|Приём начинается в восемь.
+Wartezimmer|das|A2|Health|Bitte nehmen Sie im Wartezimmer Platz.|waiting room|Please take a seat in the waiting room.|kutish xonasi|Iltimos, kutish xonasida o'tiring.|зал ожидания|Пожалуйста, присядьте в зале ожидания.
+Versichertenkarte|die|B1|Health|Haben Sie Ihre Versichertenkarte dabei?|health insurance card|Do you have your insurance card with you?|sug'urta kartasi|Sug'urta kartangiz yoningizdami?|страховая карточка|У вас с собой страховая карточка?
+Krankenkasse|die|B1|Health|Die Krankenkasse bezahlt die Behandlung.|health insurance fund|The health insurance pays for the treatment.|tibbiy sug'urta kassasi|Tibbiy sug'urta davolanish uchun to'laydi.|больничная касса|Больничная касса оплачивает лечение.
+Rezept|das|A2|Health|Die Ärztin schreibt ein Rezept.|prescription|The doctor writes a prescription.|retsept|Shifokor retsept yozadi.|рецепт|Врач выписывает рецепт.
+Medikament|das|A2|Health|Nehmen Sie das Medikament zweimal täglich.|medication|Take the medication twice a day.|dori|Dorini kuniga ikki marta iching.|лекарство|Принимайте лекарство два раза в день.
+Tablette|die|A1|Health|Ich nehme eine Tablette.|tablet / pill|I take a tablet.|tabletka|Men bitta tabletka ichaman.|таблетка|Я принимаю таблетку.
+Spritze|die|A2|Health|Sie bekommen eine Spritze.|injection|You'll get an injection.|ukol|Sizga ukol qilinadi.|укол|Вам сделают укол.
+Schmerz|der|A2|Health|Wo haben Sie Schmerzen?|pain|Where do you have pain?|og'riq|Qayeringiz og'riyapti?|боль|Где у вас болит?
+Blutdruck|der|B1|Health|Ihr Blutdruck ist zu hoch.|blood pressure|Your blood pressure is too high.|qon bosimi|Qon bosimingiz juda yuqori.|давление|У вас слишком высокое давление.
+Blut|das|A2|Health|Wir nehmen Ihnen Blut ab.|blood|We'll take some blood.|qon|Sizdan qon olamiz.|кровь|Мы возьмём у вас кровь.
+Untersuchung|die|B1|Health|Die Untersuchung dauert zehn Minuten.|examination|The examination takes ten minutes.|tekshiruv|Tekshiruv o'n daqiqa davom etadi.|обследование|Обследование длится десять минут.
+untersuchen|-|B1|Health|Der Arzt untersucht das Kind.|to examine|The doctor examines the child.|tekshirmoq|Shifokor bolani tekshiradi.|осматривать|Врач осматривает ребёнка.
+Diagnose|die|B2|Health|Die Diagnose ist klar.|diagnosis|The diagnosis is clear.|tashxis|Tashxis aniq.|диагноз|Диагноз ясен.
+Behandlung|die|B1|Health|Die Behandlung hilft gut.|treatment|The treatment works well.|davolash|Davolash yaxshi yordam beryapti.|лечение|Лечение хорошо помогает.
+behandeln|-|B1|Health|Wir behandeln die Wunde.|to treat|We're treating the wound.|davolamoq|Biz yarani davolayapmiz.|лечить / обрабатывать|Мы обрабатываем рану.
+Wunde|die|B1|Health|Die Wunde blutet noch.|wound|The wound is still bleeding.|yara|Yara hali qon ketyapti.|рана|Рана ещё кровоточит.
+Verband|der|B1|Health|Wir wechseln den Verband.|bandage / dressing|We're changing the dressing.|bint / bog'lam|Bog'lamni almashtiramiz.|повязка|Мы меняем повязку.
+Pflaster|das|A2|Health|Hast du ein Pflaster?|plaster / band-aid|Do you have a plaster?|leykoplastir|Senda leykoplastir bormi?|пластырь|У тебя есть пластырь?
+Operation|die|B1|Health|Die Operation war erfolgreich.|operation / surgery|The operation was successful.|operatsiya|Operatsiya muvaffaqiyatli o'tdi.|операция|Операция прошла успешно.
+Station|die|B1|Health|Er liegt auf Station drei.|ward|He is on ward three.|bo'lim (kasalxonada)|U uchinchi bo'limda yotibdi.|отделение|Он лежит в третьем отделении.
+Notaufnahme|die|B1|Health|Wir fahren in die Notaufnahme.|emergency room|We're going to the emergency room.|shoshilinch yordam bo'limi|Shoshilinch yordam bo'limiga boryapmiz.|приёмный покой / неотложка|Мы едем в неотложку.
+Krankenwagen|der|A2|Health|Ruf sofort einen Krankenwagen!|ambulance|Call an ambulance right away!|tez yordam mashinasi|Darhol tez yordam chaqir!|скорая помощь|Срочно вызови скорую!
+Röntgenbild|das|B2|Health|Das Röntgenbild zeigt einen Bruch.|X-ray image|The X-ray shows a fracture.|rentgen surati|Rentgen surati sinishni ko'rsatyapti.|рентгеновский снимок|Снимок показывает перелом.
+Bruch|der|B2|Health|Der Arm hat einen Bruch.|fracture|The arm is fractured.|sinish|Qo'l singan.|перелом|У руки перелом.
+Husten|der|A2|Health|Ich habe seit Tagen Husten.|cough|I've had a cough for days.|yo'tal|Bir necha kundan beri yo'talyapman.|кашель|У меня уже несколько дней кашель.
+Erkältung|die|A2|Health|Ich habe eine Erkältung.|cold (illness)|I have a cold.|shamollash|Men shamollaganman.|простуда|У меня простуда.
+Grippe|die|A2|Health|Er hat die Grippe.|flu|He has the flu.|gripp|Unda gripp.|грипп|У него грипп.
+Übelkeit|die|B1|Health|Haben Sie Übelkeit?|nausea|Do you feel nauseous?|ko'ngil aynishi|Ko'nglingiz aynayaptimi?|тошнота|У вас тошнота?
+schwindlig|-|B1|Health|Mir ist schwindlig.|dizzy|I feel dizzy.|boshi aylanmoq|Boshim aylanyapti.|кружится голова|У меня кружится голова.
+atmen|-|A2|Health|Bitte tief atmen.|to breathe|Please breathe deeply.|nafas olmoq|Iltimos, chuqur nafas oling.|дышать|Пожалуйста, глубоко дышите.
+Herz|das|A2|Health|Das Herz schlägt normal.|heart|The heart is beating normally.|yurak|Yurak normal urayapti.|сердце|Сердце бьётся нормально.
+Lunge|die|B1|Health|Die Lunge ist frei.|lung|The lungs are clear.|o'pka|O'pka toza.|лёгкие|Лёгкие чистые.
+Magen|der|A2|Health|Mein Magen tut weh.|stomach|My stomach hurts.|oshqozon|Oshqozonim og'riyapti.|желудок|У меня болит желудок.
+Rücken|der|A2|Health|Ich habe Rückenschmerzen.|back|I have back pain.|bel / orqa|Belim og'riyapti.|спина|У меня болит спина.
+Haut|die|B1|Health|Die Haut ist sehr trocken.|skin|The skin is very dry.|teri|Teri juda quruq.|кожа|Кожа очень сухая.
+Impfung|die|B1|Health|Die Impfung schützt vor Grippe.|vaccination|The vaccination protects against flu.|emlash|Emlash grippdan himoya qiladi.|прививка|Прививка защищает от гриппа.
+Krankschreibung|die|B1|Health|Ich brauche eine Krankschreibung.|sick note|I need a sick note.|kasallik varaqasi|Menga kasallik varaqasi kerak.|больничный лист|Мне нужен больничный.
+Überweisung|die|B2|Health|Sie bekommen eine Überweisung zum Facharzt.|referral|You'll get a referral to a specialist.|yo'llanma|Sizga mutaxassisga yo'llanma beriladi.|направление|Вы получите направление к специалисту.
+Facharzt|der|B1|Health|Ich habe einen Termin beim Facharzt.|specialist (doctor)|I have an appointment with a specialist.|mutaxassis shifokor|Mutaxassis shifokorga qabulim bor.|врач-специалист|У меня приём у специалиста.
+Hausarzt|der|A2|Health|Mein Hausarzt ist sehr nett.|family doctor / GP|My GP is very nice.|oilaviy shifokor|Mening oilaviy shifokorim juda yoqimli.|семейный врач|Мой семейный врач очень приятный.
+Zahnarzt|der|A1|Health|Ich muss zum Zahnarzt.|dentist|I have to go to the dentist.|tish shifokori|Men tish shifokoriga borishim kerak.|зубной врач|Мне нужно к зубному.
+Nebenwirkung|die|B2|Health|Das Medikament hat keine Nebenwirkungen.|side effect|The medication has no side effects.|nojo'ya ta'sir|Dorining nojo'ya ta'siri yo'q.|побочный эффект|У лекарства нет побочных эффектов.
+Dosis|die|B2|Health|Die Dosis ist zu hoch.|dose|The dose is too high.|doza|Doza juda yuqori.|доза|Доза слишком высокая.
+Thermometer|das|A2|Health|Das Thermometer zeigt 39 Grad.|thermometer|The thermometer shows 39 degrees.|termometr|Termometr 39 darajani ko'rsatyapti.|градусник|Градусник показывает 39 градусов.
+Handschuhe|die|A2|Health|Zieh bitte Handschuhe an.|gloves|Please put on gloves.|qo'lqop|Iltimos, qo'lqop kiy.|перчатки|Надень, пожалуйста, перчатки.
+desinfizieren|-|B2|Health|Desinfizieren Sie die Hände.|to disinfect|Disinfect your hands.|dezinfeksiya qilmoq|Qo'llaringizni dezinfeksiya qiling.|дезинфицировать|Продезинфицируйте руки.
+Hygiene|die|B1|Health|Hygiene ist im Krankenhaus wichtig.|hygiene|Hygiene is important in hospital.|gigiyena|Kasalxonada gigiyena muhim.|гигиена|В больнице важна гигиена.
+Labor|das|B1|Health|Das Blut geht ins Labor.|laboratory|The blood goes to the lab.|laboratoriya|Qon laboratoriyaga yuboriladi.|лаборатория|Кровь отправят в лабораторию.
+Ergebnis|das|B1|Health|Das Ergebnis kommt morgen.|result|The result comes tomorrow.|natija|Natija ertaga chiqadi.|результат|Результат будет завтра.
+Gewicht|das|A2|Health|Wir messen Ihr Gewicht.|weight|We'll measure your weight.|vazn|Vazningizni o'lchaymiz.|вес|Мы измерим ваш вес.
+nüchtern|-|B2|Health|Kommen Sie bitte nüchtern zur Blutabnahme.|fasting / on an empty stomach|Please come fasting for the blood test.|och qoringa|Qon topshirishga och qoringa keling.|натощак|Приходите на анализ крови натощак.
+Schicht|die|A2|Work|Die Nachtschicht im Krankenhaus ist lang.|shift|The night shift in hospital is long.|smena|Kasalxonadagi tungi smena uzoq.|смена|Ночная смена в больнице длинная.
+Notfall|der|B1|Health|Das ist ein Notfall!|emergency|This is an emergency!|favqulodda holat|Bu favqulodda holat!|экстренный случай|Это экстренный случай!
+Schwangerschaft|die|B2|Health|Die Schwangerschaft verläuft gut.|pregnancy|The pregnancy is going well.|homiladorlik|Homiladorlik yaxshi kechyapti.|беременность|Беременность протекает хорошо.
+Allergiepass|der|C1|Health|Zeigen Sie bitte Ihren Allergiepass.|allergy card|Please show your allergy card.|allergiya pasporti|Iltimos, allergiya pasportingizni ko'rsating.|аллергологический паспорт|Покажите, пожалуйста, ваш аллергопаспорт.
+Entzündung|die|B2|Health|Das ist eine Entzündung.|inflammation|That's an inflammation.|yallig'lanish|Bu yallig'lanish.|воспаление|Это воспаление.
+Infusion|die|B2|Health|Der Patient bekommt eine Infusion.|IV drip / infusion|The patient is getting a drip.|tomchi dori (kapelnitsa)|Bemorga tomchi dori qo'yilmoqda.|капельница|Пациенту ставят капельницу.
+Rollstuhl|der|B1|Health|Bringen Sie bitte einen Rollstuhl.|wheelchair|Please bring a wheelchair.|nogironlar aravachasi|Iltimos, nogironlar aravachasini keltiring.|инвалидная коляска|Принесите, пожалуйста, коляску.
+entlassen|-|B2|Health|Morgen wird sie entlassen.|to discharge|She'll be discharged tomorrow.|kasalxonadan chiqarmoq|Ertaga uni kasalxonadan chiqarishadi.|выписывать|Завтра её выписывают.
+Aufnahme|die|B2|Health|Die Aufnahme ist im Erdgeschoss.|admission|Admissions is on the ground floor.|qabul bo'limi|Qabul bo'limi birinchi qavatda.|приём (пациентов)|Приём пациентов на первом этаже.
+Termin|der|A1|Health|Ich hätte gern einen Termin.|appointment|I'd like an appointment.|qabul vaqti|Men qabulga yozilmoqchiman.|запись / приём|Я хотел бы записаться на приём.

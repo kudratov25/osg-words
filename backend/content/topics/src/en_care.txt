@@ -1,0 +1,65 @@
+# Care work (elderly care / childcare) — English
+care|B1|Health|She needs care at home.|parvarish|Unga uyda parvarish kerak.|уход|Ей нужен уход на дому.
+carer|B1|Work|My mother is a carer.|parvarishchi|Onam parvarishchi.|сиделка|Моя мама работает сиделкой.
+caregiver|B1|Work|The caregiver visits every morning.|parvarishchi|Parvarishchi har kuni ertalab keladi.|сиделка / помощник по уходу|Сиделка приходит каждое утро.
+care home|B1|Health|My grandfather lives in a care home.|qariyalar uyi|Bobom qariyalar uyida yashaydi.|дом престарелых|Мой дедушка живёт в доме престарелых.
+nursing home|B1|Health|She works in a nursing home.|qariyalar parvarish uyi|U qariyalar parvarish uyida ishlaydi.|дом сестринского ухода|Она работает в доме престарелых.
+resident|B1|Work|The residents have lunch at twelve.|yashovchi|Yashovchilar o'n ikkida tushlik qilishadi.|проживающий|Проживающие обедают в двенадцать.
+family members|A2|Family|Family members can visit every day.|oila a'zolari|Oila a'zolari har kuni kelishi mumkin.|члены семьи|Члены семьи могут приходить каждый день.
+look after|A2|Work|I look after elderly people.|qaramoq|Men keksalarga qarayman.|ухаживать / присматривать|Я ухаживаю за пожилыми людьми.
+elderly|B1|Social|We help elderly people at home.|keksa|Biz keksalarga uyda yordam beramiz.|пожилой|Мы помогаем пожилым людям на дому.
+get dressed|A1|Work|I help him get dressed.|kiyinmoq|Men unga kiyinishga yordam beraman.|одеваться|Я помогаю ему одеться.
+feed|B1|Work|Can you feed Mrs Green, please?|ovqatlantirmoq|Iltimos, Grin xonimni ovqatlantira olasizmi?|кормить|Покормите, пожалуйста, миссис Грин.
+walker|B1|Health|He walks with a walker.|yurish moslamasi (xodunok)|U xodunok bilan yuradi.|ходунки|Он ходит с ходунками.
+wheelchair|B1|Health|I push her wheelchair to the garden.|nogironlar aravachasi|Uning aravachasini bog'ga itarib boraman.|инвалидная коляска|Я вывожу её коляску в сад.
+lie down|A2|Work|Would you like to lie down?|yotmoq|Yotmoqchimisiz?|прилечь|Хотите прилечь?
+nursing bed|B2|Health|The nursing bed goes up and down.|parvarish karavoti|Parvarish karavoti ko'tariladi va tushadi.|функциональная кровать|Функциональная кровать поднимается и опускается.
+reposition|C1|Health|We reposition the patient every two hours.|holatini o'zgartirmoq|Bemorning holatini har ikki soatda o'zgartiramiz.|менять положение|Мы меняем положение пациента каждые два часа.
+incontinence pad|C1|Health|Please change the incontinence pad.|taglik|Iltimos, taglikni almashtiring.|урологическая прокладка|Пожалуйста, смените прокладку.
+toilet|A1|Home|I'll help you to the toilet.|hojatxona|Hojatxonaga borishingizga yordam beraman.|туалет|Я помогу вам дойти до туалета.
+medication|B1|Health|I give out the medication at eight.|dori-darmon|Dori-darmonni sakkizda tarqataman.|лекарства|Я раздаю лекарства в восемь.
+care plan|B2|Work|Check the care plan before you start.|parvarish rejasi|Boshlashdan oldin parvarish rejasini tekshiring.|план ухода|Проверьте план ухода перед началом.
+handover|B2|Work|The handover is at two o'clock.|smena topshirish|Smena topshirish soat ikkida.|передача смены|Передача смены в два часа.
+records|B1|Work|Write everything in the records.|qaydlar|Hammasini qaydlarga yozing.|записи / документация|Записывайте всё в документацию.
+dementia|B2|Health|Mr Smith has dementia.|demensiya|Smit janob demensiyaga chalingan.|деменция|У мистера Смита деменция.
+confused|B1|Health|She is a little confused today.|chalkash|U bugun biroz chalkash.|растерянный|Сегодня она немного растеряна.
+patience|B1|Emotions|This job needs a lot of patience.|sabr|Bu ish ko'p sabr talab qiladi.|терпение|Эта работа требует много терпения.
+be patient|B1|Emotions|Please be patient with him.|sabrli bo'lmoq|Iltimos, unga sabrli bo'ling.|быть терпеливым|Пожалуйста, будьте с ним терпеливы.
+dignity|C1|Social|We treat everyone with dignity.|qadr-qimmat|Biz hammaga qadr-qimmat bilan munosabatda bo'lamiz.|достоинство|Мы относимся ко всем с достоинством.
+fall|A2|Health|She had a fall last night.|yiqilish|U kecha kechasi yiqilib tushdi.|падение|Вчера ночью она упала.
+call button|B1|Work|Press the call button if you need help.|chaqiruv tugmasi|Yordam kerak bo'lsa, chaqiruv tugmasini bosing.|кнопка вызова|Нажмите кнопку вызова, если нужна помощь.
+pulse|B1|Health|I'm checking your pulse.|puls|Pulsingizni tekshiryapman.|пульс|Я проверяю ваш пульс.
+blood sugar|B1|Health|We check his blood sugar twice a day.|qondagi qand|Qondagi qandini kuniga ikki marta tekshiramiz.|сахар в крови|Мы проверяем его сахар дважды в день.
+insulin|B2|Health|The insulin is in the fridge.|insulin|Insulin muzlatgichda.|инсулин|Инсулин в холодильнике.
+hearing aid|B1|Health|Her hearing aid needs a new battery.|eshitish apparati|Uning eshitish apparatiga yangi batareya kerak.|слуховой аппарат|Её слуховому аппарату нужна новая батарейка.
+dentures|B2|Health|Clean the dentures in the evening.|tish protezi|Tish protezini kechqurun tozalang.|зубные протезы|Чистите протезы вечером.
+accompany|B2|Work|I'll accompany you to the doctor.|hamroh bo'lmoq|Shifokorga sizga hamroh bo'laman.|сопровождать|Я провожу вас к врачу.
+home care|B2|Work|I work in home care.|uyda parvarish|Men uyda parvarish xizmatida ishlayman.|уход на дому|Я работаю в службе ухода на дому.
+home visit|B1|Work|I have six home visits today.|uyga tashrif|Bugun oltita uyga tashrifim bor.|визит на дом|Сегодня у меня шесть визитов на дом.
+loneliness|B2|Emotions|Loneliness is a big problem for old people.|yolg'izlik|Yolg'izlik keksalar uchun katta muammo.|одиночество|Одиночество — большая проблема для пожилых.
+comfort|B2|Emotions|I tried to comfort her.|tasalli bermoq|Men unga tasalli berishga harakat qildim.|утешать|Я пыталась её утешить.
+childcare|B2|Family|Childcare is expensive here.|bolalarga qarash|Bu yerda bolalarga qarash qimmat.|присмотр за детьми|Здесь присмотр за детьми дорогой.
+nursery|A2|Family|My daughter goes to nursery.|bog'cha|Qizim bog'chaga boradi.|детский сад|Моя дочь ходит в детский сад.
+babysitter|A2|Family|We need a babysitter on Friday.|enaga|Juma kuni bizga enaga kerak.|няня|В пятницу нам нужна няня.
+nanny|B1|Family|The nanny picks up the kids from school.|enaga|Enaga bolalarni maktabdan olib keladi.|няня|Няня забирает детей из школы.
+play|A1|Family|The children play in the garden.|o'ynamoq|Bolalar bog'da o'ynashadi.|играть|Дети играют в саду.
+nap|B1|Family|The baby takes a nap after lunch.|kunduzgi uyqu|Chaqaloq tushlikdan keyin uxlaydi.|дневной сон|После обеда малыш спит.
+nappy|B1|Family|I need to change the baby's nappy.|taglik|Chaqaloqning tagligini almashtirishim kerak.|подгузник|Мне нужно сменить малышу подгузник.
+protective clothing|B2|Work|Wear protective clothing in this room.|himoya kiyimi|Bu xonada himoya kiyimi kiying.|защитная одежда|В этой комнате носите защитную одежду.
+face mask|A2|Health|Please wear a face mask.|niqob|Iltimos, niqob taqing.|маска|Пожалуйста, наденьте маску.
+night duty|B1|Work|I'm on night duty this week.|tungi navbatchilik|Bu hafta tungi navbatchilikdaman.|ночное дежурство|На этой неделе я на ночном дежурстве.
+weekend shift|B1|Work|I work a weekend shift every month.|dam olish kunidagi smena|Har oy dam olish kunida smenada ishlayman.|смена в выходные|Каждый месяц я работаю одну смену в выходные.
+stress|B1|Emotions|Care work can cause a lot of stress.|stress|Parvarish ishi ko'p stressga sabab bo'lishi mumkin.|стресс|Работа по уходу может вызывать сильный стресс.
+burnout|C1|Health|Many carers suffer from burnout.|charchash (burnout)|Ko'p parvarishchilar kasbiy charchashdan aziyat chekadi.|выгорание|Многие сиделки страдают от выгорания.
+qualification|B2|Work|My qualification is recognised here.|malaka|Mening malakam bu yerda tan olingan.|квалификация|Моя квалификация здесь признана.
+skilled worker|B2|Work|The country needs skilled workers in care.|malakali ishchi|Mamlakatga parvarish sohasida malakali ishchilar kerak.|квалифицированный работник|Стране нужны квалифицированные работники в сфере ухода.
+personal hygiene|B2|Health|I help with personal hygiene.|shaxsiy gigiyena|Men shaxsiy gigiyenada yordam beraman.|личная гигиена|Я помогаю с личной гигиеной.
+bath|A1|Home|Would you like a bath today?|vanna|Bugun vanna qabul qilmoqchimisiz?|ванна|Хотите сегодня принять ванну?
+comb|B1|Work|I comb her hair every morning.|taramoq|Har kuni ertalab uning sochini tarayman.|расчёсывать|Каждое утро я расчёсываю ей волосы.
+shave|B1|Work|I help him shave.|soqol olmoq|Men unga soqol olishda yordam beraman.|бриться|Я помогаю ему бриться.
+mobility|C1|Health|Exercise helps with mobility.|harakatchanlik|Mashq harakatchanlikka yordam beradi.|подвижность|Упражнения помогают сохранить подвижность.
+independent|B1|Social|She wants to stay independent.|mustaqil|U mustaqil qolishni istaydi.|самостоятельный|Она хочет оставаться самостоятельной.
+support|A2|Work|We support people in their own homes.|qo'llab-quvvatlamoq|Biz odamlarni o'z uylarida qo'llab-quvvatlaymiz.|поддерживать|Мы поддерживаем людей в их собственных домах.
+senior|B1|Social|The seniors play cards in the afternoon.|keksa odam|Keksalar tushdan keyin karta o'ynashadi.|пожилой человек|Пожилые люди днём играют в карты.
+volunteer|B1|Social|I volunteer at a care home on Sundays.|ko'ngilli|Yakshanba kunlari qariyalar uyida ko'ngilli bo'lib ishlayman.|волонтёр|По воскресеньям я волонтёр в доме престарелых.
+first aid|B1|Health|All carers learn first aid.|birinchi yordam|Barcha parvarishchilar birinchi yordamni o'rganadi.|первая помощь|Все сиделки учатся оказывать первую помощь.

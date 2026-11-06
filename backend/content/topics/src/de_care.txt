@@ -1,0 +1,70 @@
+# Care work (elderly care / nursing) — German
+Pflege|die|B1|Health|Die Pflege von alten Menschen ist wichtig.|care / nursing|Caring for elderly people is important.|parvarish|Keksalarni parvarish qilish muhim.|уход|Уход за пожилыми людьми важен.
+Pflegekraft|die|B1|Work|Wir suchen eine Pflegekraft.|carer / nursing staff|We're looking for a carer.|parvarish xodimi|Biz parvarish xodimi qidiryapmiz.|сотрудник по уходу|Мы ищем сотрудника по уходу.
+Altenpfleger|der|B1|Work|Mein Bruder ist Altenpfleger.|elderly care nurse|My brother is an elderly care nurse.|keksalar parvarishchisi|Akam keksalar parvarishchisi.|сиделка / санитар по уходу за пожилыми|Мой брат работает по уходу за пожилыми.
+Pflegeheim|das|B1|Health|Meine Oma wohnt im Pflegeheim.|care home|My grandma lives in a care home.|qariyalar uyi|Buvim qariyalar uyida yashaydi.|дом престарелых|Моя бабушка живёт в доме престарелых.
+Bewohner|der|B1|Work|Die Bewohner essen um zwölf.|resident|The residents eat at twelve.|yashovchi|Yashovchilar o'n ikkida ovqatlanishadi.|жилец / проживающий|Проживающие обедают в двенадцать.
+Bewohnerin|die|B1|Work|Die Bewohnerin möchte spazieren gehen.|resident (female)|The resident would like to go for a walk.|yashovchi (ayol)|Yashovchi ayol sayr qilmoqchi.|проживающая|Проживающая хочет прогуляться.
+Angehörige|die|B2|Social|Die Angehörigen kommen am Sonntag.|relatives (family members)|The relatives are coming on Sunday.|qarindoshlar|Qarindoshlar yakshanba kuni kelishadi.|родственники|Родственники придут в воскресенье.
+pflegen|-|B1|Work|Sie pflegt ihre Mutter zu Hause.|to care for|She cares for her mother at home.|parvarish qilmoq|U onasini uyda parvarish qiladi.|ухаживать|Она ухаживает за мамой дома.
+waschen|-|A1|Work|Ich helfe Herrn Braun beim Waschen.|to wash|I help Mr Braun with washing.|yuvmoq|Men janob Braunga yuvinishda yordam beraman.|мыть|Я помогаю господину Брауну умыться.
+anziehen|-|A2|Work|Wir ziehen ihn jetzt an.|to dress (someone)|We're dressing him now.|kiyintirmoq|Hozir uni kiyintiramiz.|одевать|Сейчас мы его оденем.
+ausziehen|-|A2|Work|Bitte zieh die Schuhe aus.|to undress / take off|Please take off your shoes.|yechmoq|Iltimos, poyabzalingni yech.|снимать / раздевать|Сними, пожалуйста, обувь.
+füttern|-|B1|Work|Ich muss Frau Schulz füttern.|to feed|I have to feed Mrs Schulz.|ovqatlantirmoq|Men Shuls xonimni ovqatlantirishim kerak.|кормить|Мне нужно покормить госпожу Шульц.
+Mahlzeit|die|B1|Food|Die Mahlzeit ist warm.|meal|The meal is warm.|ovqat (taom)|Ovqat issiq.|приём пищи / еда|Еда тёплая.
+trinken|-|A1|Health|Sie müssen mehr trinken.|to drink|You need to drink more.|ichmoq|Siz ko'proq suv ichishingiz kerak.|пить|Вам нужно больше пить.
+Rollator|der|B1|Health|Er geht mit dem Rollator.|walker / rollator|He walks with a walker.|yurish aravachasi (rollator)|U rollator bilan yuradi.|ходунки|Он ходит с ходунками.
+Rollstuhl|der|B1|Health|Ich schiebe den Rollstuhl.|wheelchair|I push the wheelchair.|nogironlar aravachasi|Men nogironlar aravachasini itaraman.|инвалидная коляска|Я везу инвалидную коляску.
+aufstehen|-|A1|Work|Möchten Sie jetzt aufstehen?|to get up|Would you like to get up now?|turmoq|Hozir turmoqchimisiz?|вставать|Хотите сейчас встать?
+hinlegen|-|B1|Work|Sie möchte sich hinlegen.|to lie down|She would like to lie down.|yotmoq|U yotmoqchi.|ложиться|Она хочет прилечь.
+Pflegebett|das|B2|Health|Das Pflegebett ist elektrisch.|nursing bed|The nursing bed is electric.|parvarish karavoti|Parvarish karavoti elektrli.|функциональная кровать|Функциональная кровать электрическая.
+lagern|-|C1|Health|Wir lagern den Patienten alle zwei Stunden um.|to reposition (a patient)|We reposition the patient every two hours.|holatini o'zgartirmoq (bemor)|Har ikki soatda bemorning holatini o'zgartiramiz.|перекладывать / менять положение|Мы меняем положение пациента каждые два часа.
+Windel|die|B1|Health|Die Windel muss gewechselt werden.|nappy / incontinence pad|The pad needs changing.|taglik|Taglikni almashtirish kerak.|подгузник|Нужно сменить подгузник.
+Toilette|die|A1|Home|Ich begleite Sie zur Toilette.|toilet|I'll take you to the toilet.|hojatxona|Sizni hojatxonaga olib boraman.|туалет|Я провожу вас в туалет.
+Medikamente|die|A2|Health|Ich gebe die Medikamente um acht.|medications|I give the medications at eight.|dorilar|Men dorilarni sakkizda beraman.|лекарства|Я даю лекарства в восемь.
+Dokumentation|die|B2|Work|Die Dokumentation ist sehr wichtig.|documentation / records|Documentation is very important.|hujjatlashtirish|Hujjatlashtirish juda muhim.|документация|Документация очень важна.
+Pflegeplan|der|B2|Work|Laut Pflegeplan duscht er am Dienstag.|care plan|According to the care plan, he showers on Tuesday.|parvarish rejasi|Parvarish rejasiga ko'ra u seshanba kuni dush qabul qiladi.|план ухода|По плану ухода он принимает душ во вторник.
+Übergabe|die|B2|Work|Die Übergabe ist um 14 Uhr.|handover|The handover is at 2 pm.|smena topshirish|Smena topshirish soat 14 da.|передача смены|Передача смены в 14 часов.
+Demenz|die|B2|Health|Frau Klein hat Demenz.|dementia|Mrs Klein has dementia.|demensiya|Klein xonim demensiyaga chalingan.|деменция|У госпожи Кляйн деменция.
+verwirrt|-|B1|Health|Er ist heute etwas verwirrt.|confused|He's a bit confused today.|chalkash holatda|U bugun biroz chalkash holatda.|растерянный / спутанный|Он сегодня немного растерян.
+Geduld|die|B1|Emotions|In der Pflege braucht man Geduld.|patience|You need patience in care work.|sabr|Parvarishda sabr kerak.|терпение|В уходе нужно терпение.
+geduldig|-|B1|Emotions|Sei bitte geduldig mit ihr.|patient (adj.)|Please be patient with her.|sabrli|Iltimos, unga sabrli bo'l.|терпеливый|Будь с ней терпелив.
+Würde|die|C1|Social|Wir achten die Würde jedes Menschen.|dignity|We respect every person's dignity.|qadr-qimmat|Biz har bir insonning qadr-qimmatini hurmat qilamiz.|достоинство|Мы уважаем достоинство каждого человека.
+Sturz|der|B2|Health|Nach dem Sturz hat sie Schmerzen.|fall|She's in pain after the fall.|yiqilish|Yiqilishdan keyin uning og'rig'i bor.|падение|После падения у неё боли.
+stürzen|-|B1|Health|Pass auf, dass er nicht stürzt.|to fall|Make sure he doesn't fall.|yiqilmoq|Yiqilib tushmasligiga e'tibor ber.|упасть|Следи, чтобы он не упал.
+Notruf|der|B1|Health|Drücken Sie den Notruf.|emergency call (button)|Press the emergency button.|favqulodda chaqiruv|Favqulodda chaqiruv tugmasini bosing.|экстренный вызов|Нажмите кнопку экстренного вызова.
+Klingel|die|A2|Work|Die Klingel in Zimmer fünf läutet.|call bell|The call bell in room five is ringing.|chaqiruv tugmasi|Beshinchi xonadagi chaqiruv tugmasi chalinyapti.|кнопка вызова|В пятой палате звонок.
+Puls|der|B1|Health|Ich messe den Puls.|pulse|I'm taking the pulse.|puls|Men pulsni o'lchayman.|пульс|Я измеряю пульс.
+Temperatur|die|A2|Health|Die Temperatur ist normal.|temperature|The temperature is normal.|harorat|Harorat normal.|температура|Температура нормальная.
+Zucker|der|A2|Health|Er hat Zucker und braucht Insulin.|diabetes (colloquial)|He has diabetes and needs insulin.|qand kasalligi|Uning qand kasalligi bor, insulin kerak.|сахарный диабет (разг.)|У него диабет, ему нужен инсулин.
+Insulin|das|B2|Health|Das Insulin liegt im Kühlschrank.|insulin|The insulin is in the fridge.|insulin|Insulin muzlatgichda.|инсулин|Инсулин в холодильнике.
+Hörgerät|das|B1|Health|Sein Hörgerät ist leer.|hearing aid|His hearing aid battery is flat.|eshitish apparati|Uning eshitish apparati quvvati tugagan.|слуховой аппарат|Его слуховой аппарат разрядился.
+Gebiss|das|B2|Health|Wir putzen das Gebiss am Abend.|dentures|We clean the dentures in the evening.|tish protezi|Tish protezini kechqurun tozalaymiz.|зубной протез|Мы чистим протез вечером.
+Spaziergang|der|A2|Health|Nach dem Essen machen wir einen Spaziergang.|walk|After the meal we go for a walk.|sayr|Ovqatdan keyin sayr qilamiz.|прогулка|После еды мы идём на прогулку.
+begleiten|-|B1|Work|Ich begleite sie zum Arzt.|to accompany|I'm accompanying her to the doctor.|hamroh bo'lmoq|Men uni shifokorga kuzatib boraman.|сопровождать|Я провожаю её к врачу.
+Betreuung|die|B2|Work|Die Betreuung am Nachmittag macht Spaß.|care / supervision (social)|Afternoon care is fun.|g'amxo'rlik|Tushdan keyingi g'amxo'rlik qiziqarli.|присмотр / сопровождение|Дневной присмотр — это интересно.
+ambulant|-|C1|Work|Ich arbeite im ambulanten Pflegedienst.|outpatient / home (care)|I work in home care.|uyda ko'rsatiladigan|Men uyda parvarish xizmatida ishlayman.|амбулаторный / на дому|Я работаю в службе ухода на дому.
+Pflegedienst|der|B2|Work|Der Pflegedienst kommt zweimal am Tag.|home care service|The home care service comes twice a day.|parvarish xizmati|Parvarish xizmati kuniga ikki marta keladi.|служба ухода|Служба ухода приходит дважды в день.
+Hausbesuch|der|B1|Work|Heute habe ich fünf Hausbesuche.|home visit|I have five home visits today.|uyga tashrif|Bugun beshta uyga tashrifim bor.|визит на дом|Сегодня у меня пять визитов на дом.
+Einsamkeit|die|B2|Emotions|Viele alte Menschen leiden unter Einsamkeit.|loneliness|Many old people suffer from loneliness.|yolg'izlik|Ko'p keksalar yolg'izlikdan aziyat chekadi.|одиночество|Многие пожилые люди страдают от одиночества.
+zuhören|-|A2|Social|Manchmal muss man einfach zuhören.|to listen|Sometimes you just have to listen.|tinglamoq|Ba'zan shunchaki tinglash kerak.|слушать|Иногда нужно просто выслушать.
+trösten|-|B2|Emotions|Ich tröste die weinende Frau.|to comfort|I comfort the crying woman.|tasalli bermoq|Men yig'layotgan ayolga tasalli beraman.|утешать|Я утешаю плачущую женщину.
+Kinderbetreuung|die|B2|Family|Die Kinderbetreuung beginnt um sieben.|childcare|Childcare starts at seven.|bolalarga qarash|Bolalarga qarash yettida boshlanadi.|присмотр за детьми|Присмотр за детьми начинается в семь.
+Kita|die|A2|Family|Mein Sohn geht in die Kita.|daycare / nursery|My son goes to daycare.|bolalar bog'chasi|O'g'lim bog'chaga boradi.|детский сад|Мой сын ходит в детский сад.
+Erzieherin|die|B1|Work|Die Erzieherin liest eine Geschichte vor.|nursery teacher|The nursery teacher reads a story.|tarbiyachi|Tarbiyachi ertak o'qib beradi.|воспитательница|Воспитательница читает сказку.
+spielen|-|A1|Family|Die Kinder spielen draußen.|to play|The children are playing outside.|o'ynamoq|Bolalar tashqarida o'ynayapti.|играть|Дети играют на улице.
+Schutzkleidung|die|B2|Work|Bei Infektionen tragen wir Schutzkleidung.|protective clothing|We wear protective clothing for infections.|himoya kiyimi|Infeksiya bo'lganda himoya kiyimi kiyamiz.|защитная одежда|При инфекциях мы носим защитную одежду.
+Maske|die|A2|Health|Bitte setzen Sie eine Maske auf.|mask|Please put on a mask.|niqob|Iltimos, niqob taqing.|маска|Пожалуйста, наденьте маску.
+Nachtdienst|der|B1|Work|Diese Woche habe ich Nachtdienst.|night duty|This week I'm on night duty.|tungi navbatchilik|Bu hafta menda tungi navbatchilik.|ночное дежурство|На этой неделе у меня ночные дежурства.
+Wochenenddienst|der|B2|Work|Ich habe jeden zweiten Wochenenddienst.|weekend duty|I work every other weekend.|dam olish kunidagi navbatchilik|Men har ikki haftada dam olish kuni navbatchilik qilaman.|дежурство в выходные|Я дежурю каждые вторые выходные.
+Belastung|die|C1|Work|Die Arbeit ist eine große Belastung.|strain / burden|The work is a great strain.|og'ir yuk (zo'riqish)|Bu ish katta zo'riqish.|нагрузка|Работа — большая нагрузка.
+Anerkennung|die|C1|Work|Ich warte auf die Anerkennung meines Abschlusses.|recognition (of qualifications)|I'm waiting for my degree to be recognised.|tan olinish|Diplomim tan olinishini kutyapman.|признание (диплома)|Я жду признания моего диплома.
+Fachkraft|die|B2|Work|Deutschland sucht Fachkräfte in der Pflege.|skilled worker|Germany is looking for skilled care workers.|malakali mutaxassis|Germaniya parvarish sohasida malakali mutaxassislar qidiryapti.|квалифицированный специалист|Германия ищет специалистов по уходу.
+Körperpflege|die|B2|Health|Ich helfe bei der Körperpflege.|personal hygiene|I help with personal hygiene.|shaxsiy gigiyena|Men shaxsiy gigiyenada yordam beraman.|личная гигиена|Я помогаю с личной гигиеной.
+Seniorin|die|B1|Social|Die Seniorin liest gern Zeitung.|senior (female)|The elderly lady likes reading the newspaper.|keksa ayol|Keksa ayol gazeta o'qishni yaxshi ko'radi.|пожилая женщина|Пожилая женщина любит читать газету.
+Senior|der|B1|Social|Der Senior erzählt von früher.|senior (male)|The elderly man talks about the old days.|keksa odam|Keksa odam o'tmish haqida gapirib beradi.|пожилой человек|Пожилой мужчина рассказывает о прошлом.
+Pflegegrad|der|C1|Health|Sie hat Pflegegrad drei.|care level (degree of need)|She has care level three.|parvarish darajasi|Uning parvarish darajasi uchinchi.|степень ухода|У неё третья степень ухода.
+Hilfsmittel|das|B2|Health|Die Kasse bezahlt die Hilfsmittel.|aids (walking aids etc.)|Insurance pays for the aids.|yordamchi vositalar|Sug'urta yordamchi vositalar uchun to'laydi.|вспомогательные средства|Касса оплачивает вспомогательные средства.
+Blutzucker|der|B1|Health|Ich messe den Blutzucker.|blood sugar|I'm measuring the blood sugar.|qondagi qand|Qondagi qandni o'lchayman.|сахар в крови|Я измеряю сахар в крови.
+duschen|-|A1|Work|Möchten Sie heute duschen?|to shower|Would you like to shower today?|dush qabul qilmoq|Bugun dush qabul qilmoqchimisiz?|принимать душ|Хотите сегодня принять душ?
+kämmen|-|B1|Work|Ich kämme ihr die Haare.|to comb|I comb her hair.|taramoq|Uning sochini tarayman.|расчёсывать|Я расчёсываю ей волосы.

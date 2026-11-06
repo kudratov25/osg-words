@@ -1,0 +1,66 @@
+# Office / Business — English
+agenda|B2|Work|What's on the agenda today?|kun tartibi|Bugun kun tartibida nima bor?|повестка дня|Что сегодня на повестке дня?
+minutes|B2|Work|Who is taking the minutes?|bayonnoma|Bayonnomani kim yozyapti?|протокол|Кто ведёт протокол?
+documents|A2|Work|Please bring all your documents.|hujjatlar|Iltimos, barcha hujjatlaringizni olib keling.|документы|Пожалуйста, принесите все документы.
+form|A2|Work|Fill in this form, please.|blanka|Iltimos, shu blankani to'ldiring.|бланк|Заполните, пожалуйста, этот бланк.
+fill in|A2|Work|I filled in the application.|to'ldirmoq|Men arizani to'ldirdim.|заполнять|Я заполнил заявление.
+application|B1|Work|Your application was successful.|ariza|Arizangiz qabul qilindi.|заявление / заявка|Ваша заявка одобрена.
+apply|B1|Work|I applied for a new job.|ariza bermoq|Men yangi ishga ariza berdim.|подавать заявку|Я подал заявку на новую работу.
+job interview|B1|Work|My job interview is at ten.|ish suhbati|Ish suhbatim o'nda.|собеседование|Моё собеседование в десять.
+department|A2|Work|Which department do you work in?|bo'lim|Qaysi bo'limda ishlaysiz?|отдел|В каком отделе вы работаете?
+HR|B1|Work|Ask HR about your holiday days.|kadrlar bo'limi|Ta'til kunlaringiz haqida kadrlar bo'limidan so'rang.|отдел кадров|Спросите в отделе кадров про отпуск.
+accounting|B2|Work|Send the invoice to accounting.|buxgalteriya|Hisob-fakturani buxgalteriyaga yuboring.|бухгалтерия|Отправьте счёт в бухгалтерию.
+manager|A2|Work|My manager is very supportive.|menejer|Menejerim meni juda qo'llab-quvvatlaydi.|менеджер / руководитель|Мой руководитель меня очень поддерживает.
+CEO|B2|Work|The CEO gave a speech.|bosh direktor|Bosh direktor nutq so'zladi.|генеральный директор|Генеральный директор выступил с речью.
+team|A2|Work|Our team has six people.|jamoa|Jamoamizda olti kishi bor.|команда|В нашей команде шесть человек.
+client|B1|Work|The client wants a meeting.|mijoz|Mijoz uchrashuv istaydi.|клиент|Клиент хочет встречу.
+call back|A2|Work|Can you call me back later?|qayta qo'ng'iroq qilmoq|Keyinroq qayta qo'ng'iroq qila olasizmi?|перезвонить|Можете перезвонить мне позже?
+reach|B1|Work|I couldn't reach him by phone.|bog'lanmoq|U bilan telefon orqali bog'lana olmadim.|дозвониться|Я не смог до него дозвониться.
+postpone|B1|Work|Let's postpone the meeting.|qoldirmoq|Keling, uchrashuvni qoldiramiz.|перенести|Давайте перенесём встречу.
+cancel|A2|Work|I have to cancel my appointment.|bekor qilmoq|Uchrashuvni bekor qilishim kerak.|отменить|Мне нужно отменить встречу.
+urgent|B1|Work|This email is urgent.|shoshilinch|Bu xat shoshilinch.|срочный|Это письмо срочное.
+priority|B2|Work|This project is our top priority.|ustuvorlik|Bu loyiha bizning asosiy ustuvorligimiz.|приоритет|Этот проект — наш главный приоритет.
+presentation|B1|Work|I'm giving a presentation tomorrow.|taqdimot|Ertaga taqdimot qilaman.|презентация|Завтра я делаю презентацию.
+stamp|B1|Work|This document needs a stamp.|muhr|Bu hujjatga muhr kerak.|печать|На этот документ нужна печать.
+desk|A1|Work|My desk is next to the window.|stol|Stolim deraza yonida.|рабочий стол|Мой стол у окна.
+photocopier|B1|Work|The photocopier is jammed.|nusxa ko'chirish mashinasi|Nusxa ko'chirish mashinasi tiqilib qoldi.|ксерокс|Ксерокс зажевал бумагу.
+copy|A2|Work|Can you make five copies?|nusxa|Beshta nusxa qila olasizmi?|копия|Можете сделать пять копий?
+invoice|B1|Money|We sent the invoice yesterday.|hisob-faktura|Hisob-fakturani kecha yubordik.|счёт-фактура|Мы отправили счёт вчера.
+quote|B2|Work|Can you send us a quote?|narx taklifi|Bizga narx taklifini yubora olasizmi?|коммерческое предложение|Можете прислать нам предложение?
+costs|B1|Money|We need to cut costs.|xarajatlar|Xarajatlarni kamaytirishimiz kerak.|расходы|Нам нужно сократить расходы.
+profit|B2|Money|The company made a profit this year.|foyda|Kompaniya bu yil foyda ko'rdi.|прибыль|В этом году компания получила прибыль.
+revenue|C1|Money|Revenue grew by ten percent.|tushum|Tushum o'n foizga oshdi.|выручка|Выручка выросла на десять процентов.
+negotiate|C1|Work|We need to negotiate the price.|muzokara olib bormoq|Narx bo'yicha muzokara qilishimiz kerak.|вести переговоры|Нам нужно договориться о цене.
+resign|B2|Work|She resigned last month.|ishdan bo'shamoq|U o'tgan oy ishdan bo'shadi.|уволиться|Она уволилась в прошлом месяце.
+probation period|B2|Work|The probation period is three months.|sinov muddati|Sinov muddati uch oy.|испытательный срок|Испытательный срок три месяца.
+working hours|A2|Work|My working hours are nine to five.|ish vaqti|Ish vaqtim to'qqizdan beshgacha.|рабочие часы|Я работаю с девяти до пяти.
+annual leave|B2|Work|I have twenty days of annual leave.|yillik ta'til|Yigirma kunlik yillik ta'tilim bor.|ежегодный отпуск|У меня двадцать дней отпуска.
+day off|A2|Work|Tomorrow is my day off.|dam olish kuni|Ertaga mening dam olish kunim.|выходной|Завтра у меня выходной.
+call in sick|B1|Work|I had to call in sick today.|kasal ekanini xabar qilmoq|Bugun kasal ekanimni xabar qilishim kerak edi.|сообщить, что заболел|Сегодня мне пришлось сказаться больным.
+canteen|A2|Work|We have lunch in the canteen.|oshxona (ishxonada)|Tushlikni ishxona oshxonasida qilamiz.|столовая|Мы обедаем в столовой.
+business card|B1|Work|Here's my business card.|vizitka|Mana mening vizitkam.|визитка|Вот моя визитка.
+business trip|B1|Work|I'm going on a business trip to London.|xizmat safari|Londonga xizmat safariga ketyapman.|командировка|Я еду в командировку в Лондон.
+binder|B1|Work|Put the letters in the blue binder.|papka|Xatlarni ko'k papkaga soling.|папка|Положите письма в синюю папку.
+contact person|B2|Work|Who is my contact person?|mas'ul shaxs|Mening mas'ul shaxsim kim?|контактное лицо|Кто моё контактное лицо?
+attached|B1|Work|Please find the report attached.|ilova qilingan|Hisobot ilova qilingan.|во вложении|Отчёт во вложении.
+reply|A2|Work|Thanks for your quick reply.|javob|Tez javobingiz uchun rahmat.|ответ|Спасибо за быстрый ответ.
+forward|B1|Work|Can you forward me that email?|yuborib qo'ymoq (forward)|O'sha xatni menga yuborib qo'ya olasizmi?|переслать|Можете переслать мне это письмо?
+schedule|B1|Work|Let me check my schedule.|jadval|Jadvalimni tekshirib ko'ray.|расписание / график|Дайте проверю своё расписание.
+workload|B2|Work|My workload is very heavy this week.|ish hajmi|Bu hafta ish hajmim juda katta.|нагрузка|На этой неделе у меня большая нагрузка.
+colleague|A2|Work|My colleague is on holiday.|hamkasb|Hamkasbim ta'tilda.|коллега|Мой коллега в отпуске.
+feedback|B1|Work|Thanks for the feedback.|fikr-mulohaza|Fikr-mulohaza uchun rahmat.|обратная связь|Спасибо за обратную связь.
+deadline extension|C1|Work|We asked for a deadline extension.|muddatni uzaytirish|Biz muddatni uzaytirishni so'radik.|продление срока|Мы попросили продлить срок.
+office supplies|B2|Work|We're out of office supplies.|ofis jihozlari|Ofis jihozlarimiz tugadi.|канцтовары|У нас закончились канцтовары.
+training|B1|Work|There's a training session on Thursday.|o'quv mashg'uloti|Payshanba kuni o'quv mashg'uloti bor.|обучение|В четверг обучение.
+overtime|B1|Work|I don't want to work overtime.|qo'shimcha ish|Men qo'shimcha ishlashni xohlamayman.|сверхурочная работа|Я не хочу работать сверхурочно.
+flexitime|C1|Work|Our company offers flexitime.|moslashuvchan ish vaqti|Kompaniyamiz moslashuvchan ish vaqtini taklif qiladi.|гибкий график|Наша компания предлагает гибкий график.
+job advert|B1|Work|I saw the job advert online.|ish e'loni|Ish e'lonini internetda ko'rdim.|объявление о вакансии|Я увидел вакансию в интернете.
+position|B1|Work|The position is still open.|lavozim|Lavozim hali bo'sh.|должность|Должность всё ещё свободна.
+payslip|B2|Money|Check your payslip every month.|ish haqi varaqasi|Har oy ish haqi varaqangizni tekshiring.|расчётный лист|Проверяйте расчётный лист каждый месяц.
+tax number|B2|Money|I need your tax number.|soliq raqami|Menga soliq raqamingiz kerak.|ИНН / налоговый номер|Мне нужен ваш ИНН.
+announcement|B2|Work|The boss made an announcement.|e'lon|Rahbar e'lon qildi.|объявление|Начальник сделал объявление.
+Dear Sir or Madam|B1|Work|Dear Sir or Madam, I am writing to apply for the job.|Hurmatli janob yoki xonim|Hurmatli janob yoki xonim, men ushbu ishga ariza berish uchun yozyapman.|Уважаемые господа|Уважаемые господа, я пишу, чтобы подать заявку на работу.
+Kind regards|B1|Work|Kind regards, Sara Khan.|Hurmat bilan|Hurmat bilan, Sara Khan.|С уважением|С уважением, Сара Хан.
+headquarters|B2|Work|Our headquarters are in Berlin.|bosh ofis|Bizning bosh ofisimiz Berlinda.|штаб-квартира|Наша штаб-квартира в Берлине.
+conference room|B1|Work|The meeting is in the conference room.|majlislar zali|Majlis majlislar zalida.|конференц-зал|Встреча в конференц-зале.
+receptionist|B1|Work|The receptionist will show you the way.|qabulxona xodimi|Qabulxona xodimi sizga yo'l ko'rsatadi.|секретарь на ресепшене|Секретарь покажет вам дорогу.

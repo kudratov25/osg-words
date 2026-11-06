@@ -1,0 +1,66 @@
+# Hospitality (hotel / restaurant) — English
+reception|A2|Travel|Please ask at reception.|qabulxona|Iltimos, qabulxonadan so'rang.|ресепшен|Пожалуйста, спросите на ресепшене.
+receptionist|A2|Work|The receptionist gave us the keys.|qabulxona xodimi|Qabulxona xodimi bizga kalitlarni berdi.|администратор|Администратор дал нам ключи.
+single room|A2|Travel|I'd like a single room for two nights.|bir kishilik xona|Ikki kechaga bir kishilik xona kerak.|одноместный номер|Мне нужен одноместный номер на две ночи.
+double room|A2|Travel|The double room has a sea view.|ikki kishilik xona|Ikki kishilik xonadan dengiz ko'rinadi.|двухместный номер|Из двухместного номера видно море.
+reservation|A2|Travel|I have a reservation for tonight.|bron|Bugun kechga bronim bor.|бронь|У меня бронь на сегодня.
+booking|A2|Travel|Can I change my booking?|bron|Bronimni o'zgartirsam bo'ladimi?|бронирование|Можно изменить бронирование?
+check in|A2|Travel|You can check in after two.|joylashmoq|Soat ikkidan keyin joylashishingiz mumkin.|заселиться|Заселиться можно после двух.
+check out|A2|Travel|We need to check out by eleven.|xonani bo'shatmoq|Soat o'n birgacha xonani bo'shatishimiz kerak.|выселиться|Нам нужно выехать до одиннадцати.
+room key|A2|Travel|I lost my room key.|xona kaliti|Xona kalitimni yo'qotdim.|ключ от номера|Я потерял ключ от номера.
+lift|A2|Travel|The lift is next to the stairs.|lift|Lift zinapoya yonida.|лифт|Лифт рядом с лестницей.
+room service|B1|Travel|I ordered breakfast from room service.|xonaga xizmat|Nonushtani xonaga xizmatdan buyurtma qildim.|обслуживание номеров|Я заказал завтрак в номер.
+housekeeping|B1|Work|Housekeeping cleans the rooms every day.|xonalarni tozalash xizmati|Tozalash xizmati xonalarni har kuni tozalaydi.|служба уборки|Служба уборки убирает номера каждый день.
+towel|A1|Home|Can I have another towel?|sochiq|Yana bitta sochiq bera olasizmi?|полотенце|Можно ещё одно полотенце?
+bed linen|B1|Home|We change the bed linen every day.|choyshab|Choyshabni har kuni almashtiramiz.|постельное бельё|Мы меняем постельное бельё каждый день.
+waiter|A1|Work|The waiter brought our drinks.|ofitsiant|Ofitsiant ichimliklarimizni olib keldi.|официант|Официант принёс наши напитки.
+waitress|A1|Work|The waitress was very kind.|ofitsiant (ayol)|Ofitsiant ayol juda mehribon edi.|официантка|Официантка была очень любезной.
+starter|A2|Food|I'll have the salad as a starter.|zakuska|Zakuska sifatida salat olaman.|закуска|На закуску я возьму салат.
+main course|A2|Food|What would you like for your main course?|asosiy taom|Asosiy taomga nima xohlaysiz?|основное блюдо|Что вы хотите на основное блюдо?
+dish|A2|Food|This dish is very popular.|taom|Bu taom juda mashhur.|блюдо|Это блюдо очень популярно.
+dish of the day|B1|Food|The dish of the day is chicken soup.|kun taomi|Kun taomi tovuq sho'rvasi.|блюдо дня|Блюдо дня — куриный суп.
+chef|A2|Work|The chef is from Italy.|bosh oshpaz|Bosh oshpaz Italiyadan.|шеф-повар|Шеф-повар из Италии.
+sauce|A2|Food|The sauce is a bit too salty.|sous|Sous biroz sho'r.|соус|Соус немного пересолен.
+side dish|B1|Food|Rice comes as a side dish.|garnir|Garnir sifatida guruch beriladi.|гарнир|На гарнир подаётся рис.
+serve|B1|Work|We serve dinner from six.|tortmoq (taom)|Kechki ovqatni oltidan tortamiz.|подавать|Мы подаём ужин с шести.
+clear the table|B1|Work|Can I clear the table?|stolni yig'ishtirmoq|Stolni yig'ishtirsam bo'ladimi?|убрать со стола|Можно убрать со стола?
+set the table|A2|Work|Please set the table for six.|dasturxon tuzamoq|Iltimos, olti kishiga stol tuzing.|накрыть на стол|Пожалуйста, накройте стол на шестерых.
+cutlery|B1|Food|The cutlery is in the drawer.|qoshiq-sanchqilar|Qoshiq-sanchqilar tortmada.|столовые приборы|Приборы в ящике.
+fork|A1|Food|Could I have a clean fork?|sanchqi|Toza sanchqi bera olasizmi?|вилка|Можно чистую вилку?
+spoon|A1|Food|I need a spoon for my soup.|qoshiq|Sho'rvam uchun qoshiq kerak.|ложка|Мне нужна ложка для супа.
+glass|A1|Food|A glass of water, please.|stakan|Bir stakan suv, iltimos.|стакан|Стакан воды, пожалуйста.
+napkin|A2|Food|Here's a napkin.|salfetka|Mana salfetka.|салфетка|Вот салфетка.
+tray|B1|Work|Carry the cups on a tray.|patnis|Chashkalarni patnisda olib bor.|поднос|Неси чашки на подносе.
+vegetarian|B1|Food|Do you have any vegetarian dishes?|vegetarian|Sizda vegetarian taomlar bormi?|вегетарианский|У вас есть вегетарианские блюда?
+gluten-free|B2|Food|This bread is gluten-free.|glyutensiz|Bu non glyutensiz.|без глютена|Этот хлеб без глютена.
+full board|B1|Travel|Full board includes three meals a day.|to'liq ovqatlanish|To'liq ovqatlanish kuniga uch mahal ovqatni o'z ichiga oladi.|полный пансион|Полный пансион включает три приёма пищи.
+half board|B1|Travel|We booked half board.|yarim ovqatlanish|Biz yarim ovqatlanishni bron qildik.|полупансион|Мы забронировали полупансион.
+buffet|A2|Food|Breakfast is a buffet.|shved stoli|Nonushta shved stoli shaklida.|шведский стол|Завтрак — шведский стол.
+fully booked|B1|Travel|Sorry, we're fully booked tonight.|to'liq band|Kechirasiz, bugun hamma joy band.|всё занято|Извините, на сегодня всё занято.
+vacancy|B2|Travel|Do you have any vacancies?|bo'sh xona|Bo'sh xonalaringiz bormi?|свободный номер|У вас есть свободные номера?
+minibar|B1|Travel|Drinks from the minibar are extra.|minibar|Minibardagi ichimliklar alohida to'lanadi.|мини-бар|Напитки из мини-бара оплачиваются отдельно.
+dishwasher|A2|Home|Load the dishwasher, please.|idish yuvish mashinasi|Iltimos, idish yuvish mashinasini to'ldiring.|посудомоечная машина|Загрузи посудомойку, пожалуйста.
+wash up|B1|Work|I have to wash up after the shift.|idish yuvmoq|Smenadan keyin idish yuvishim kerak.|мыть посуду|После смены мне нужно помыть посуду.
+fry|B1|Food|Fry the onions for five minutes.|qovurmoq|Piyozni besh daqiqa qovuring.|жарить|Обжарьте лук пять минут.
+frying pan|A2|Food|The frying pan is very hot.|tova|Tova juda issiq.|сковорода|Сковорода очень горячая.
+pot|A2|Food|Put the pasta in the pot.|qozon|Makaronni qozonga soling.|кастрюля|Положи пасту в кастрюлю.
+bartender|A2|Work|The bartender makes great cocktails.|barmen|Barmen ajoyib kokteyllar tayyorlaydi.|бармен|Бармен делает отличные коктейли.
+portion|A2|Food|The portions here are huge.|porsiya|Bu yerda porsiyalar juda katta.|порция|Здесь огромные порции.
+wake-up call|B2|Travel|I'd like a wake-up call at six.|uyg'otish qo'ng'irog'i|Oltida uyg'otish qo'ng'irog'ini xohlayman.|звонок-будильник|Разбудите меня, пожалуйста, в шесть.
+view|A2|Travel|The room has a beautiful view.|manzara|Xonadan chiroyli manzara ko'rinadi.|вид|Из номера красивый вид.
+host|B1|Social|Our host welcomed us at the door.|mezbon|Mezbonimiz bizni eshik oldida kutib oldi.|хозяин|Хозяин встретил нас у двери.
+hospitality|C1|Social|Thank you for your hospitality.|mehmondo'stlik|Mehmondo'stligingiz uchun rahmat.|гостеприимство|Спасибо за гостеприимство.
+supplier|B2|Work|Our supplier delivers fresh fish.|yetkazib beruvchi|Yetkazib beruvchimiz yangi baliq olib keladi.|поставщик|Наш поставщик привозит свежую рыбу.
+catering|B2|Work|We do catering for weddings.|keytering|Biz to'ylar uchun keytering xizmatini ko'rsatamiz.|кейтеринг|Мы обслуживаем свадьбы.
+lobby|B1|Travel|Let's meet in the lobby.|foye|Foyeda uchrashamiz.|лобби / холл|Встретимся в холле.
+concierge|C1|Travel|The concierge booked a taxi for us.|konsyerj|Konsyerj biz uchun taksi chaqirdi.|консьерж|Консьерж заказал нам такси.
+apron|B1|Work|Wear an apron in the kitchen.|fartuk|Oshxonada fartuk taqing.|фартук|В кухне носите фартук.
+bill|A1|Money|Can we have the bill, please?|hisob|Hisobni bersangiz?|счёт|Можно счёт, пожалуйста?
+split the bill|B1|Money|Shall we split the bill?|hisobni bo'lishmoq|Hisobni bo'lishamizmi?|разделить счёт|Разделим счёт?
+service charge|B2|Money|A service charge is included.|xizmat haqi|Xizmat haqi kiritilgan.|плата за обслуживание|Плата за обслуживание включена.
+book a table|A2|Food|I'd like to book a table for four.|stol bron qilmoq|To'rt kishiga stol bron qilmoqchiman.|забронировать столик|Я хотел бы забронировать столик на четверых.
+kitchen porter|C1|Work|The kitchen porter washes the pots.|oshxona yordamchisi|Oshxona yordamchisi qozonlarni yuvadi.|кухонный рабочий|Кухонный рабочий моет кастрюли.
+take an order|A2|Work|The waiter is taking our order.|buyurtma olmoq|Ofitsiant buyurtmamizni olyapti.|принять заказ|Официант принимает наш заказ.
+guest room|B1|Travel|The guest room is ready.|mehmon xonasi|Mehmon xonasi tayyor.|гостевая комната|Гостевая комната готова.
+overnight stay|B1|Travel|An overnight stay costs eighty dollars.|tunash|Bir kecha tunash sakson dollar.|ночёвка|Ночёвка стоит восемьдесят долларов.
+cocktail|B1|Food|Would you like a cocktail?|kokteyl|Kokteyl xohlaysizmi?|коктейль|Хотите коктейль?

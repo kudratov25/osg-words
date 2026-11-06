@@ -1,0 +1,66 @@
+# Logistics / Driving — German
+Lkw|der|A2|Work|Der Lkw ist voll beladen.|truck / lorry|The truck is fully loaded.|yuk mashinasi|Yuk mashinasi to'la yuklangan.|грузовик|Грузовик полностью загружен.
+Fahrer|der|A1|Work|Der Fahrer macht eine Pause.|driver|The driver is taking a break.|haydovchi|Haydovchi tanaffus qilyapti.|водитель|Водитель делает перерыв.
+Führerschein|der|A2|Travel|Hast du einen Führerschein?|driving licence|Do you have a driving licence?|haydovchilik guvohnomasi|Senda haydovchilik guvohnomasi bormi?|водительские права|У тебя есть права?
+Lager|das|B1|Work|Die Ware liegt im Lager.|warehouse|The goods are in the warehouse.|ombor|Tovar omborda.|склад|Товар на складе.
+Lagerist|der|B1|Work|Der Lagerist prüft die Paletten.|warehouse worker|The warehouse worker checks the pallets.|omborchi|Omborchi paddonlarni tekshiradi.|кладовщик|Кладовщик проверяет поддоны.
+Palette|die|B1|Work|Auf der Palette sind 40 Kartons.|pallet|There are 40 boxes on the pallet.|poddon|Poddonda 40 ta quti bor.|паллета / поддон|На поддоне 40 коробок.
+Gabelstapler|der|B1|Work|Ich fahre den Gabelstapler.|forklift|I drive the forklift.|avtoyuklagich|Men avtoyuklagich haydayman.|погрузчик|Я вожу погрузчик.
+laden|-|B1|Work|Wir laden den Lkw um sechs.|to load|We load the truck at six.|yuklamoq|Yuk mashinasini oltida yuklaymiz.|загружать|Мы грузим грузовик в шесть.
+entladen|-|B1|Work|Der Lkw wird gerade entladen.|to unload|The truck is being unloaded.|tushirmoq (yuk)|Yuk mashinasidan yuk tushirilmoqda.|разгружать|Грузовик сейчас разгружают.
+Ladung|die|B1|Work|Die Ladung ist zu schwer.|load / cargo|The load is too heavy.|yuk|Yuk juda og'ir.|груз|Груз слишком тяжёлый.
+Sendung|die|B1|Work|Die Sendung ist unterwegs.|shipment / consignment|The shipment is on its way.|jo'natma|Jo'natma yo'lda.|отправление / посылка|Отправление в пути.
+Lieferung|die|A2|Work|Die Lieferung kommt heute.|delivery|The delivery comes today.|yetkazib berish|Yetkazib berish bugun.|доставка|Доставка сегодня.
+liefern|-|A2|Work|Wir liefern bis 18 Uhr.|to deliver|We deliver until 6 pm.|yetkazib bermoq|Soat 18 gacha yetkazib beramiz.|доставлять|Мы доставляем до 18 часов.
+Empfänger|der|B1|Work|Der Empfänger ist nicht zu Hause.|recipient|The recipient isn't at home.|qabul qiluvchi|Qabul qiluvchi uyda yo'q.|получатель|Получателя нет дома.
+Absender|der|B1|Work|Der Absender steht oben links.|sender|The sender is at the top left.|jo'natuvchi|Jo'natuvchi yuqori chap tomonda yozilgan.|отправитель|Отправитель указан слева вверху.
+Unterschrift|die|A2|Work|Ich brauche hier Ihre Unterschrift.|signature|I need your signature here.|imzo|Bu yerda imzongiz kerak.|подпись|Мне нужна здесь ваша подпись.
+unterschreiben|-|A2|Work|Bitte hier unterschreiben.|to sign|Please sign here.|imzolamoq|Iltimos, shu yerga imzo qo'ying.|подписывать|Пожалуйста, распишитесь здесь.
+Route|die|B1|Work|Die Route ist heute lang.|route|The route is long today.|yo'nalish|Bugun yo'nalish uzun.|маршрут|Сегодня маршрут длинный.
+Navi|das|A2|Travel|Das Navi zeigt einen Stau.|sat nav / GPS|The sat nav shows a traffic jam.|navigator|Navigator tirbandlikni ko'rsatyapti.|навигатор|Навигатор показывает пробку.
+Stau|der|A2|Travel|Auf der Autobahn ist Stau.|traffic jam|There's a traffic jam on the motorway.|tirbandlik|Avtomagistralda tirbandlik.|пробка|На автобане пробка.
+Autobahn|die|A2|Travel|Wir fahren über die Autobahn.|motorway|We're taking the motorway.|avtomagistral|Avtomagistral orqali boramiz.|автобан / автомагистраль|Мы едем по автобану.
+Ausfahrt|die|B1|Travel|Nimm die nächste Ausfahrt.|exit (motorway)|Take the next exit.|chiqish yo'li|Keyingi chiqish yo'liga bur.|съезд|Сверни на следующий съезд.
+Tankstelle|die|A2|Travel|Ich muss zur Tankstelle.|petrol station|I have to go to the petrol station.|yoqilg'i quyish shoxobchasi|Men yoqilg'i quyish shoxobchasiga borishim kerak.|заправка|Мне нужно на заправку.
+tanken|-|A2|Travel|Ich tanke Diesel.|to refuel|I'm filling up with diesel.|yoqilg'i quymoq|Men dizel quyaman.|заправляться|Я заправляюсь дизелем.
+Parkplatz|der|A1|Travel|Hier ist kein Parkplatz frei.|parking space|There's no free parking space here.|to'xtash joyi|Bu yerda bo'sh to'xtash joyi yo'q.|парковка|Здесь нет свободного места.
+parken|-|A1|Travel|Wo darf ich parken?|to park|Where can I park?|mashina qo'ymoq|Mashinani qayerga qo'ysam bo'ladi?|парковаться|Где можно припарковаться?
+Ampel|die|A2|Travel|Die Ampel ist rot.|traffic light|The traffic light is red.|svetofor|Svetofor qizil.|светофор|Светофор красный.
+Kreuzung|die|A2|Travel|An der Kreuzung links abbiegen.|crossroads / junction|Turn left at the junction.|chorraha|Chorrahadan chapga buriling.|перекрёсток|На перекрёстке поверните налево.
+abbiegen|-|B1|Travel|Hier dürfen Sie nicht abbiegen.|to turn|You can't turn here.|burilmoq|Bu yerda burilish mumkin emas.|поворачивать|Здесь нельзя поворачивать.
+Geschwindigkeit|die|B1|Travel|Die Geschwindigkeit ist auf 80 begrenzt.|speed|The speed is limited to 80.|tezlik|Tezlik 80 bilan cheklangan.|скорость|Скорость ограничена 80.
+Lenkzeit|die|C1|Work|Meine Lenkzeit ist fast vorbei.|driving time (legal)|My driving time is almost up.|haydash vaqti (me'yor)|Haydash vaqtim deyarli tugadi.|время управления|Моё время за рулём почти закончилось.
+Ruhezeit|die|B2|Work|Nach neun Stunden brauche ich Ruhezeit.|rest period|After nine hours I need a rest period.|dam olish vaqti|To'qqiz soatdan keyin dam olishim kerak.|время отдыха|После девяти часов мне нужен отдых.
+Fahrtenschreiber|der|C1|Work|Der Fahrtenschreiber zeichnet alles auf.|tachograph|The tachograph records everything.|taxograf|Taxograf hammasini yozib boradi.|тахограф|Тахограф всё записывает.
+Spedition|die|B2|Work|Ich arbeite bei einer Spedition.|freight forwarder / haulage company|I work for a haulage company.|ekspeditorlik kompaniyasi|Men ekspeditorlik kompaniyasida ishlayman.|экспедиторская компания|Я работаю в транспортной компании.
+Zoll|der|B2|Work|Die Ware wartet beim Zoll.|customs|The goods are waiting at customs.|bojxona|Tovar bojxonada kutyapti.|таможня|Товар ждёт на таможне.
+Frachtbrief|der|C1|Work|Der Frachtbrief liegt im Fahrerhaus.|consignment note / waybill|The waybill is in the cab.|yuk xati|Yuk xati kabinada.|транспортная накладная|Накладная лежит в кабине.
+Lieferschein|der|B2|Work|Unterschreiben Sie bitte den Lieferschein.|delivery note|Please sign the delivery note.|yetkazib berish varaqasi|Iltimos, yetkazib berish varaqasiga imzo qo'ying.|накладная|Подпишите, пожалуйста, накладную.
+Paket|das|A1|Work|Ich habe ein Paket für Sie.|parcel|I have a parcel for you.|posilka|Sizga posilka bor.|посылка|У меня для вас посылка.
+Zusteller|der|B1|Work|Der Zusteller kommt jeden Morgen.|delivery driver / courier|The courier comes every morning.|kuryer|Kuryer har kuni ertalab keladi.|курьер|Курьер приходит каждое утро.
+Kurier|der|A2|Work|Der Kurier bringt die Dokumente.|courier|The courier brings the documents.|kuryer|Kuryer hujjatlarni olib keladi.|курьер|Курьер привозит документы.
+Adresse|die|A1|Work|Die Adresse ist falsch.|address|The address is wrong.|manzil|Manzil noto'g'ri.|адрес|Адрес неверный.
+Hausnummer|die|A1|Work|Welche Hausnummer ist das?|house number|What house number is that?|uy raqami|Bu qaysi uy raqami?|номер дома|Какой это номер дома?
+Klingel|die|A2|Home|Die Klingel funktioniert nicht.|doorbell|The doorbell doesn't work.|qo'ng'iroq (eshik)|Eshik qo'ng'irog'i ishlamayapti.|звонок (дверной)|Звонок не работает.
+zerbrechlich|-|B1|Work|Vorsicht, das Paket ist zerbrechlich!|fragile|Careful, the parcel is fragile!|sinuvchan|Ehtiyot bo'ling, posilka sinuvchan!|хрупкий|Осторожно, посылка хрупкая!
+beschädigt|-|B1|Work|Der Karton ist beschädigt.|damaged|The box is damaged.|shikastlangan|Quti shikastlangan.|повреждённый|Коробка повреждена.
+Gewicht|das|A2|Work|Das Gewicht ist 20 Kilo.|weight|The weight is 20 kilos.|vazn|Vazni 20 kilo.|вес|Вес 20 килограммов.
+wiegen|-|A2|Work|Wir wiegen jedes Paket.|to weigh|We weigh every parcel.|tortmoq (tarozida)|Har bir posilkani tortamiz.|взвешивать|Мы взвешиваем каждую посылку.
+Rampe|die|B2|Work|Fahr bitte an Rampe vier.|loading dock|Please drive to dock four.|yuklash maydonchasi|Iltimos, to'rtinchi yuklash maydonchasiga yur.|рампа|Подъезжай, пожалуйста, к рампе четыре.
+Container|der|B1|Work|Der Container kommt aus China.|container|The container comes from China.|konteyner|Konteyner Xitoydan keladi.|контейнер|Контейнер из Китая.
+Bestand|der|B2|Work|Der Bestand ist zu niedrig.|stock / inventory level|Stock is too low.|zaxira (qoldiq)|Zaxira juda kam.|запас / остаток|Запас слишком низкий.
+Kommissionierung|die|C1|Work|Ich arbeite in der Kommissionierung.|order picking|I work in order picking.|buyurtma yig'ish|Men buyurtma yig'ish bo'limida ishlayman.|комплектация заказов|Я работаю на комплектации заказов.
+Scanner|der|A2|Work|Der Scanner liest den Code.|scanner|The scanner reads the code.|skaner|Skaner kodni o'qiydi.|сканер|Сканер считывает код.
+pünktlich|-|A2|Work|Der Lkw ist pünktlich.|on time|The truck is on time.|o'z vaqtida|Yuk mashinasi o'z vaqtida keldi.|вовремя|Грузовик пришёл вовремя.
+Verspätung|die|B1|Work|Wir haben eine Stunde Verspätung.|delay|We're one hour late.|kechikish|Bizda bir soat kechikish bor.|опоздание / задержка|У нас опоздание на час.
+Reifen|der|A2|Travel|Der Reifen ist platt.|tyre|The tyre is flat.|shina|Shina teshilgan.|шина|Шина спущена.
+Panne|die|B1|Travel|Ich habe eine Panne.|breakdown|I've broken down.|yo'lda buzilish|Mashinam yo'lda buzildi.|поломка|У меня поломка.
+Werkstatt|die|B1|Travel|Der Lkw ist in der Werkstatt.|garage / workshop|The truck is at the garage.|ustaxona|Yuk mashinasi ustaxonada.|автомастерская|Грузовик в мастерской.
+Kennzeichen|das|B1|Travel|Wie ist Ihr Kennzeichen?|number plate|What's your number plate?|davlat raqami|Mashinangiz raqami qanday?|номерной знак|Какой у вас номер?
+Fahrzeug|das|B1|Travel|Das Fahrzeug ist neu.|vehicle|The vehicle is new.|transport vositasi|Transport vositasi yangi.|транспортное средство|Транспортное средство новое.
+Anhänger|der|B1|Work|Der Anhänger ist leer.|trailer|The trailer is empty.|tirkama|Tirkama bo'sh.|прицеп|Прицеп пустой.
+rückwärts|-|B1|Travel|Fahr langsam rückwärts.|backwards / in reverse|Reverse slowly.|orqaga|Sekin orqaga yur.|задним ходом|Сдавай назад медленно.
+Schicht|die|A2|Work|Die Nachtschicht im Lager beginnt um zehn.|shift|The night shift in the warehouse starts at ten.|smena|Ombordagi tungi smena o'nda boshlanadi.|смена|Ночная смена на складе начинается в десять.
+Lieferzeit|die|B1|Work|Die Lieferzeit beträgt drei Tage.|delivery time|Delivery takes three days.|yetkazib berish muddati|Yetkazib berish muddati uch kun.|срок доставки|Срок доставки три дня.
+Sendungsnummer|die|B1|Work|Hier ist Ihre Sendungsnummer.|tracking number|Here is your tracking number.|jo'natma raqami|Mana jo'natma raqamingiz.|трек-номер|Вот ваш трек-номер.
+Ware|die|A2|Work|Die Ware ist angekommen.|goods|The goods have arrived.|tovar|Tovar keldi.|товар|Товар прибыл.

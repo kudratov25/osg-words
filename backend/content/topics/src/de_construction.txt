@@ -1,0 +1,69 @@
+# Construction — German
+Baustelle|die|A2|Work|Ich arbeite auf einer Baustelle.|construction site|I work on a construction site.|qurilish maydoni|Men qurilish maydonida ishlayman.|стройка|Я работаю на стройке.
+Bauarbeiter|der|A2|Work|Der Bauarbeiter trägt einen Helm.|construction worker|The construction worker wears a helmet.|quruvchi|Quruvchi dubulg'a kiyib yuradi.|строитель|Строитель носит каску.
+Helm|der|A2|Work|Ohne Helm darfst du nicht rein.|helmet / hard hat|You can't go in without a helmet.|dubulg'a (kaska)|Kaskasiz kirish mumkin emas.|каска|Без каски входить нельзя.
+Sicherheitsschuhe|die|B1|Work|Zieh deine Sicherheitsschuhe an.|safety shoes|Put on your safety shoes.|himoya poyabzali|Himoya poyabzalingni kiy.|защитная обувь|Надень защитную обувь.
+Warnweste|die|B1|Work|Die Warnweste ist gelb.|high-visibility vest|The hi-vis vest is yellow.|signal jilet|Signal jilet sariq rangda.|сигнальный жилет|Сигнальный жилет жёлтый.
+Werkzeug|das|A2|Work|Das Werkzeug liegt im Auto.|tool(s)|The tools are in the car.|asbob|Asboblar mashinada.|инструмент|Инструмент в машине.
+Hammer|der|A1|Work|Gib mir bitte den Hammer.|hammer|Please give me the hammer.|bolg'a|Iltimos, menga bolg'ani ber.|молоток|Дай мне, пожалуйста, молоток.
+Nagel|der|A2|Work|Der Nagel ist zu kurz.|nail|The nail is too short.|mix|Mix juda kalta.|гвоздь|Гвоздь слишком короткий.
+Schraube|die|A2|Work|Mir fehlt eine Schraube.|screw|I'm missing a screw.|vint (shurup)|Menga bitta shurup yetishmayapti.|шуруп / винт|Мне не хватает одного шурупа.
+Schraubenzieher|der|B1|Work|Wo ist der Schraubenzieher?|screwdriver|Where's the screwdriver?|otvyortka|Otvyortka qayerda?|отвёртка|Где отвёртка?
+Bohrmaschine|die|B1|Work|Die Bohrmaschine ist sehr laut.|drill|The drill is very loud.|drel|Drel juda shovqinli.|дрель|Дрель очень громкая.
+bohren|-|B1|Work|Wir bohren ein Loch in die Wand.|to drill|We're drilling a hole in the wall.|teshmoq (drel bilan)|Devorni teshyapmiz.|сверлить|Мы сверлим дыру в стене.
+Leiter|die|A2|Work|Die Leiter steht an der Wand.|ladder|The ladder is against the wall.|narvon|Narvon devorga suyalgan.|лестница (стремянка)|Лестница стоит у стены.
+Gerüst|das|B2|Work|Das Gerüst ist sicher.|scaffolding|The scaffolding is safe.|havoza|Havoza xavfsiz.|строительные леса|Леса надёжные.
+Kran|der|B1|Work|Der Kran hebt die Steine.|crane|The crane lifts the stones.|kran|Kran toshlarni ko'taradi.|кран|Кран поднимает камни.
+Bagger|der|B1|Work|Der Bagger gräbt ein Loch.|excavator / digger|The digger is digging a hole.|ekskavator|Ekskavator chuqur qazyapti.|экскаватор|Экскаватор роет яму.
+Zement|der|B1|Work|Wir brauchen noch drei Sack Zement.|cement|We need three more bags of cement.|sement|Bizga yana uch qop sement kerak.|цемент|Нам нужно ещё три мешка цемента.
+Beton|der|B1|Work|Der Beton muss trocknen.|concrete|The concrete has to dry.|beton|Beton qurishi kerak.|бетон|Бетон должен высохнуть.
+Ziegel|der|B1|Work|Die Mauer ist aus Ziegeln.|brick|The wall is made of bricks.|g'isht|Devor g'ishtdan qilingan.|кирпич|Стена из кирпича.
+Mauer|die|B1|Work|Wir bauen eine neue Mauer.|wall (outside / masonry)|We're building a new wall.|devor (g'isht)|Biz yangi devor quryapmiz.|стена (каменная)|Мы строим новую стену.
+Wand|die|A1|Home|Die Wand ist weiß.|wall|The wall is white.|devor|Devor oq.|стена|Стена белая.
+Decke|die|A2|Home|Die Decke ist sehr hoch.|ceiling|The ceiling is very high.|ship|Ship juda baland.|потолок|Потолок очень высокий.
+Boden|der|A2|Home|Der Boden ist noch nass.|floor|The floor is still wet.|pol|Pol hali nam.|пол|Пол ещё мокрый.
+Dach|das|A2|Home|Das Dach ist undicht.|roof|The roof leaks.|tom|Tom chakka o'tkazyapti.|крыша|Крыша протекает.
+Fundament|das|B2|Work|Das Fundament ist fertig.|foundation|The foundation is finished.|poydevor|Poydevor tayyor.|фундамент|Фундамент готов.
+Stockwerk|das|A2|Work|Das Haus hat vier Stockwerke.|floor / storey|The house has four storeys.|qavat|Uy to'rt qavatli.|этаж|В доме четыре этажа.
+Treppe|die|A2|Home|Die Treppe ist noch nicht fertig.|stairs|The stairs aren't finished yet.|zinapoya|Zinapoya hali tayyor emas.|лестница|Лестница ещё не готова.
+Holz|das|A2|Work|Der Tisch ist aus Holz.|wood|The table is made of wood.|yog'och|Stol yog'ochdan.|дерево (материал)|Стол из дерева.
+Brett|das|B1|Work|Wir brauchen ein langes Brett.|board / plank|We need a long board.|taxta|Bizga uzun taxta kerak.|доска|Нам нужна длинная доска.
+Stahl|der|B2|Work|Die Träger sind aus Stahl.|steel|The beams are made of steel.|po'lat|To'sinlar po'latdan.|сталь|Балки из стали.
+Rohr|das|B1|Work|Das Rohr ist kaputt.|pipe|The pipe is broken.|quvur|Quvur singan.|труба|Труба сломана.
+Klempner|der|B1|Work|Der Klempner repariert die Heizung.|plumber|The plumber is repairing the heating.|santexnik|Santexnik isitish tizimini tuzatyapti.|сантехник|Сантехник чинит отопление.
+Elektriker|der|A2|Work|Der Elektriker kommt am Montag.|electrician|The electrician is coming on Monday.|elektrik|Elektrik dushanba kuni keladi.|электрик|Электрик придёт в понедельник.
+Maler|der|A2|Work|Der Maler streicht die Wände.|painter|The painter paints the walls.|bo'yoqchi|Bo'yoqchi devorlarni bo'yayapti.|маляр|Маляр красит стены.
+streichen|-|B1|Work|Wir streichen das Zimmer blau.|to paint (walls)|We're painting the room blue.|bo'yamoq|Xonani ko'k rangga bo'yayapmiz.|красить|Мы красим комнату в синий.
+Farbe|die|A1|Work|Die Farbe ist noch nicht trocken.|paint / colour|The paint isn't dry yet.|bo'yoq|Bo'yoq hali qurimagan.|краска|Краска ещё не высохла.
+Strom|der|A2|Work|Wir haben keinen Strom.|electricity / power|We have no power.|elektr toki|Bizda elektr yo'q.|электричество|У нас нет электричества.
+Steckdose|die|A2|Home|Die Steckdose ist neben der Tür.|socket|The socket is next to the door.|rozetka|Rozetka eshik yonida.|розетка|Розетка рядом с дверью.
+Schalter|der|B1|Home|Der Schalter funktioniert nicht.|switch|The switch doesn't work.|o'chirgich|O'chirgich ishlamayapti.|выключатель|Выключатель не работает.
+messen|-|A2|Work|Miss bitte die Länge.|to measure|Please measure the length.|o'lchamoq|Iltimos, uzunlikni o'lcha.|измерять|Измерь, пожалуйста, длину.
+Zollstock|der|B2|Work|Hast du einen Zollstock?|folding ruler|Do you have a folding ruler?|buklanadigan o'lchagich|Senda buklanadigan o'lchagich bormi?|складной метр|У тебя есть складной метр?
+Meter|der|A1|Work|Die Wand ist drei Meter lang.|metre|The wall is three metres long.|metr|Devor uch metr uzunlikda.|метр|Стена длиной три метра.
+schwer|-|A1|Work|Der Sack ist sehr schwer.|heavy|The bag is very heavy.|og'ir|Qop juda og'ir.|тяжёлый|Мешок очень тяжёлый.
+tragen|-|A2|Work|Wir tragen die Steine zusammen.|to carry|We carry the stones together.|ko'tarib bormoq|Toshlarni birga ko'taramiz.|нести|Мы несём камни вместе.
+heben|-|B1|Work|Heb das nicht allein!|to lift|Don't lift that on your own!|ko'tarmoq|Buni yolg'iz ko'tarma!|поднимать|Не поднимай это один!
+bauen|-|A1|Work|Wir bauen ein Haus.|to build|We're building a house.|qurmoq|Biz uy quryapmiz.|строить|Мы строим дом.
+reparieren|-|A2|Work|Kannst du das Fenster reparieren?|to repair|Can you repair the window?|ta'mirlamoq|Derazani ta'mirlay olasanmi?|ремонтировать|Можешь починить окно?
+Renovierung|die|B2|Work|Die Renovierung dauert zwei Monate.|renovation|The renovation takes two months.|ta'mirlash|Ta'mirlash ikki oy davom etadi.|ремонт|Ремонт продлится два месяца.
+Bauplan|der|B2|Work|Schau auf den Bauplan.|building plan|Look at the building plan.|qurilish rejasi|Qurilish rejasiga qara.|строительный план|Посмотри на строительный план.
+Polier|der|C1|Work|Der Polier verteilt die Arbeit.|site foreman|The foreman assigns the work.|ish boshqaruvchisi (prorab)|Prorab ishni taqsimlaydi.|прораб|Прораб распределяет работу.
+Arbeitsschutz|der|B2|Work|Arbeitsschutz ist Pflicht.|occupational safety|Occupational safety is mandatory.|mehnat xavfsizligi|Mehnat xavfsizligi majburiy.|охрана труда|Охрана труда обязательна.
+Unfall|der|A2|Work|Gestern gab es einen Unfall.|accident|There was an accident yesterday.|baxtsiz hodisa|Kecha baxtsiz hodisa bo'ldi.|несчастный случай|Вчера был несчастный случай.
+gefährlich|-|A2|Work|Die Arbeit auf dem Dach ist gefährlich.|dangerous|Work on the roof is dangerous.|xavfli|Tomda ishlash xavfli.|опасный|Работа на крыше опасна.
+Vorsicht|die|A2|Work|Vorsicht, die Stufe!|caution / watch out|Watch out, the step!|ehtiyot bo'l|Ehtiyot bo'l, zinapoya!|осторожно|Осторожно, ступенька!
+Handschuh|der|A2|Work|Mein Handschuh ist kaputt.|glove|My glove is torn.|qo'lqop|Qo'lqopim yirtilgan.|перчатка|Моя перчатка порвалась.
+Schubkarre|die|B1|Work|Fahr den Sand mit der Schubkarre.|wheelbarrow|Move the sand with the wheelbarrow.|zambil arava (tachka)|Qumni tachkada tashi.|тачка|Перевези песок на тачке.
+Sand|der|A2|Work|Der Sand ist nass.|sand|The sand is wet.|qum|Qum nam.|песок|Песок мокрый.
+Schaufel|die|B1|Work|Nimm die Schaufel.|shovel|Take the shovel.|belkurak|Belkurakni ol.|лопата|Возьми лопату.
+Säge|die|B1|Work|Die Säge ist stumpf.|saw|The saw is blunt.|arra|Arra o'tmas.|пила|Пила тупая.
+Fliese|die|B1|Home|Die Fliesen im Bad sind neu.|tile|The tiles in the bathroom are new.|kafel|Hammomdagi kafellar yangi.|плитка|Плитка в ванной новая.
+Dämmung|die|C1|Work|Die Dämmung spart Energie.|insulation|The insulation saves energy.|issiqlik izolyatsiyasi|Izolyatsiya energiyani tejaydi.|утепление / изоляция|Утепление экономит энергию.
+Material|das|A2|Work|Das Material kommt morgen.|material|The material arrives tomorrow.|material|Material ertaga keladi.|материал|Материал придёт завтра.
+Feierabend|der|A2|Work|Um vier ist Feierabend.|end of the working day|Work finishes at four.|ish kuni tugashi|To'rtda ish tugaydi.|конец рабочего дня|В четыре конец рабочего дня.
+Überstunden|die|B1|Work|Diese Woche mache ich Überstunden.|overtime|I'm doing overtime this week.|qo'shimcha ish soatlari|Bu hafta qo'shimcha soat ishlayapman.|сверхурочные|На этой неделе я работаю сверхурочно.
+Lohn|der|B1|Money|Der Lohn kommt am Monatsende.|wage(s)|Wages come at the end of the month.|ish haqi|Ish haqi oy oxirida keladi.|зарплата|Зарплата приходит в конце месяца.
+Abriss|der|C1|Work|Der Abriss beginnt nächste Woche.|demolition|The demolition starts next week.|buzish|Buzish keyingi hafta boshlanadi.|снос|Снос начнётся на следующей неделе.
+Kies|der|B2|Work|Wir brauchen eine Ladung Kies.|gravel|We need a load of gravel.|shag'al|Bizga bir yuk shag'al kerak.|гравий|Нам нужен груз гравия.
+Fenster|das|A1|Home|Das Fenster ist eingebaut.|window|The window has been fitted.|deraza|Deraza o'rnatildi.|окно|Окно установлено.

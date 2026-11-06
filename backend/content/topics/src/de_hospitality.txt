@@ -1,0 +1,72 @@
+# Hospitality (hotel / restaurant) — German
+Rezeption|die|A2|Travel|Bitte melden Sie sich an der Rezeption.|reception|Please check in at reception.|qabulxona (resepshn)|Iltimos, qabulxonada ro'yxatdan o'ting.|ресепшен|Пожалуйста, обратитесь на ресепшен.
+Gast|der|A1|Work|Der Gast möchte ein ruhiges Zimmer.|guest|The guest would like a quiet room.|mehmon|Mehmon tinch xona istaydi.|гость|Гость хочет тихий номер.
+Einzelzimmer|das|A2|Travel|Ich hätte gern ein Einzelzimmer.|single room|I'd like a single room.|bir kishilik xona|Menga bir kishilik xona kerak.|одноместный номер|Я хотел бы одноместный номер.
+Doppelzimmer|das|A2|Travel|Das Doppelzimmer kostet 90 Euro.|double room|The double room costs 90 euros.|ikki kishilik xona|Ikki kishilik xona 90 yevro turadi.|двухместный номер|Двухместный номер стоит 90 евро.
+Reservierung|die|A2|Travel|Ich habe eine Reservierung auf den Namen Karimov.|reservation|I have a reservation under the name Karimov.|bron|Karimov nomiga bronim bor.|бронь|У меня бронь на имя Каримов.
+reservieren|-|A2|Travel|Ich möchte einen Tisch reservieren.|to reserve / book|I'd like to reserve a table.|bron qilmoq|Men stol bron qilmoqchiman.|бронировать|Я хочу забронировать столик.
+einchecken|-|A2|Travel|Sie können ab 14 Uhr einchecken.|to check in|You can check in from 2 pm.|joylashmoq (check-in)|Soat 14 dan joylashishingiz mumkin.|заселяться|Заселиться можно с 14 часов.
+auschecken|-|A2|Travel|Wir checken morgen früh aus.|to check out|We're checking out tomorrow morning.|chiqib ketmoq (check-out)|Ertaga ertalab chiqib ketamiz.|выселяться|Мы выезжаем завтра утром.
+Zimmerschlüssel|der|A2|Travel|Hier ist Ihr Zimmerschlüssel.|room key|Here is your room key.|xona kaliti|Mana xonangiz kaliti.|ключ от номера|Вот ваш ключ от номера.
+Aufzug|der|A2|Travel|Der Aufzug ist rechts.|lift / elevator|The lift is on the right.|lift|Lift o'ng tomonda.|лифт|Лифт справа.
+Zimmerservice|der|B1|Travel|Der Zimmerservice bringt das Frühstück.|room service|Room service brings breakfast.|xonaga xizmat|Xonaga xizmat nonushtani olib keladi.|обслуживание номеров|Обслуживание номеров приносит завтрак.
+Zimmermädchen|das|B1|Work|Das Zimmermädchen putzt das Zimmer.|housekeeper / maid|The housekeeper cleans the room.|xona tozalovchi|Xona tozalovchi xonani tozalayapti.|горничная|Горничная убирает номер.
+Handtuch|das|A1|Home|Ich brauche noch ein Handtuch.|towel|I need another towel.|sochiq|Menga yana bitta sochiq kerak.|полотенце|Мне нужно ещё одно полотенце.
+Bettwäsche|die|B1|Home|Wir wechseln die Bettwäsche.|bed linen|We're changing the bed linen.|choyshab|Choyshabni almashtiramiz.|постельное бельё|Мы меняем постельное бельё.
+Kellner|der|A1|Work|Der Kellner bringt die Karte.|waiter|The waiter brings the menu.|ofitsiant|Ofitsiant menyuni olib keladi.|официант|Официант приносит меню.
+Kellnerin|die|A1|Work|Die Kellnerin ist sehr schnell.|waitress|The waitress is very quick.|ofitsiant (ayol)|Ofitsiant ayol juda tez.|официантка|Официантка очень быстрая.
+Speisekarte|die|A1|Food|Kann ich die Speisekarte haben?|menu|Can I have the menu?|menyu|Menyuni bersangiz?|меню|Можно меню?
+Getränkekarte|die|A2|Food|Hier ist die Getränkekarte.|drinks menu|Here is the drinks menu.|ichimliklar menyusi|Mana ichimliklar menyusi.|карта напитков|Вот карта напитков.
+Vorspeise|die|A2|Food|Als Vorspeise nehme ich die Suppe.|starter|I'll have the soup as a starter.|bosh taom oldi (zakuska)|Zakuska sifatida sho'rva olaman.|закуска|На закуску я возьму суп.
+Hauptgericht|das|A2|Food|Das Hauptgericht kommt gleich.|main course|The main course is coming soon.|asosiy taom|Asosiy taom hozir keladi.|основное блюдо|Основное блюдо сейчас будет.
+Nachtisch|der|A2|Food|Möchten Sie einen Nachtisch?|dessert|Would you like a dessert?|shirinlik|Shirinlik xohlaysizmi?|десерт|Хотите десерт?
+Gericht|das|A2|Food|Das Gericht ist sehr scharf.|dish|The dish is very spicy.|taom|Taom juda achchiq.|блюдо|Блюдо очень острое.
+Tagesgericht|das|B1|Food|Das Tagesgericht ist Fisch.|dish of the day|The dish of the day is fish.|kun taomi|Kun taomi baliq.|блюдо дня|Блюдо дня — рыба.
+Koch|der|A1|Work|Der Koch arbeitet in der Küche.|cook / chef|The cook works in the kitchen.|oshpaz|Oshpaz oshxonada ishlaydi.|повар|Повар работает на кухне.
+Köchin|die|A1|Work|Die Köchin macht die Soße.|cook (female)|The cook is making the sauce.|oshpaz (ayol)|Oshpaz ayol sous tayyorlayapti.|повариха|Повариха делает соус.
+Soße|die|A2|Food|Die Soße ist zu salzig.|sauce|The sauce is too salty.|sous|Sous juda sho'r.|соус|Соус слишком солёный.
+Beilage|die|B1|Food|Als Beilage gibt es Reis.|side dish|There's rice as a side dish.|garnir|Garnir sifatida guruch bor.|гарнир|На гарнир рис.
+Trinkgeld|das|A2|Money|Wir geben zehn Prozent Trinkgeld.|tip|We give a ten percent tip.|choychaqa|Biz o'n foiz choychaqa beramiz.|чаевые|Мы оставляем десять процентов чаевых.
+zusammen|-|A1|Money|Zahlen Sie zusammen oder getrennt?|together|Are you paying together or separately?|birga|Birga to'laysizmi yoki alohida?|вместе|Платите вместе или раздельно?
+getrennt|-|A2|Money|Wir zahlen getrennt, bitte.|separately|We'll pay separately, please.|alohida|Iltimos, alohida to'laymiz.|раздельно|Мы платим раздельно, пожалуйста.
+servieren|-|B1|Work|Wir servieren das Essen um zwölf.|to serve|We serve the food at twelve.|tortmoq (taom)|Taomni soat o'n ikkida tortamiz.|подавать|Мы подаём еду в двенадцать.
+abräumen|-|B1|Work|Kann ich schon abräumen?|to clear the table|May I clear the table?|stolni yig'ishtirmoq|Stolni yig'ishtirsam bo'ladimi?|убирать со стола|Можно уже убрать со стола?
+decken|-|B1|Work|Bitte deck den Tisch für vier Personen.|to set (the table)|Please set the table for four people.|dasturxon tuzamoq|Iltimos, to'rt kishiga stol tuz.|накрывать на стол|Пожалуйста, накрой стол на четверых.
+Besteck|das|A2|Food|Das Besteck liegt auf dem Tisch.|cutlery|The cutlery is on the table.|qoshiq-sanchqi|Qoshiq-sanchqilar stol ustida.|столовые приборы|Приборы лежат на столе.
+Gabel|die|A1|Food|Ich brauche eine Gabel.|fork|I need a fork.|sanchqi|Menga sanchqi kerak.|вилка|Мне нужна вилка.
+Messer|das|A1|Food|Das Messer ist sehr scharf.|knife|The knife is very sharp.|pichoq|Pichoq juda o'tkir.|нож|Нож очень острый.
+Löffel|der|A1|Food|Bringen Sie mir bitte einen Löffel.|spoon|Please bring me a spoon.|qoshiq|Iltimos, menga qoshiq keltiring.|ложка|Принесите мне, пожалуйста, ложку.
+Glas|das|A1|Food|Ein Glas Wasser, bitte.|glass|A glass of water, please.|stakan|Bir stakan suv, iltimos.|стакан|Стакан воды, пожалуйста.
+Serviette|die|A2|Food|Die Serviette ist aus Papier.|napkin|The napkin is made of paper.|salfetka|Salfetka qog'ozdan.|салфетка|Салфетка бумажная.
+Bestellung|die|A2|Work|Ich nehme Ihre Bestellung auf.|order|I'll take your order.|buyurtma|Buyurtmangizni qabul qilaman.|заказ|Я приму ваш заказ.
+Allergie|die|B1|Food|Haben Sie eine Allergie?|allergy|Do you have an allergy?|allergiya|Sizda allergiya bormi?|аллергия|У вас есть аллергия?
+glutenfrei|-|B2|Food|Haben Sie glutenfreies Brot?|gluten-free|Do you have gluten-free bread?|glyutensiz|Sizda glyutensiz non bormi?|без глютена|У вас есть хлеб без глютена?
+Vollpension|die|B1|Travel|Wir haben Vollpension gebucht.|full board|We've booked full board.|to'liq ovqatlanish|Biz to'liq ovqatlanishni bron qildik.|полный пансион|Мы забронировали полный пансион.
+Halbpension|die|B1|Travel|Halbpension heißt Frühstück und Abendessen.|half board|Half board means breakfast and dinner.|yarim ovqatlanish|Yarim ovqatlanish nonushta va kechki ovqat degani.|полупансион|Полупансион — это завтрак и ужин.
+Buffet|das|A2|Food|Das Frühstück ist ein Buffet.|buffet|Breakfast is a buffet.|shved stoli|Nonushta shved stoli.|шведский стол|Завтрак — шведский стол.
+Übernachtung|die|B1|Travel|Eine Übernachtung kostet 70 Euro.|overnight stay|One night costs 70 euros.|tunash|Bir tunash 70 yevro turadi.|ночёвка|Одна ночь стоит 70 евро.
+belegt|-|B1|Travel|Leider sind alle Zimmer belegt.|occupied / fully booked|Unfortunately all rooms are taken.|band|Afsuski, barcha xonalar band.|занято|К сожалению, все номера заняты.
+frei|-|A1|Travel|Haben Sie noch ein Zimmer frei?|available / free|Do you still have a room available?|bo'sh|Sizda bo'sh xona bormi?|свободный|У вас есть свободный номер?
+Minibar|die|B1|Travel|Die Getränke aus der Minibar kosten extra.|minibar|Drinks from the minibar cost extra.|minibar|Minibardagi ichimliklar alohida pullik.|мини-бар|Напитки из мини-бара за отдельную плату.
+Gastronomie|die|B2|Work|Ich arbeite seit fünf Jahren in der Gastronomie.|hospitality / catering industry|I've worked in catering for five years.|umumiy ovqatlanish sohasi|Men besh yildan beri umumiy ovqatlanish sohasida ishlayman.|общепит / гастрономия|Я пять лет работаю в общепите.
+Spülmaschine|die|A2|Home|Stell die Teller in die Spülmaschine.|dishwasher|Put the plates in the dishwasher.|idish yuvish mashinasi|Likopchalarni idish yuvish mashinasiga qo'y.|посудомоечная машина|Поставь тарелки в посудомойку.
+spülen|-|B1|Work|Heute muss ich spülen.|to wash up|I have to wash up today.|idish yuvmoq|Bugun men idish yuvishim kerak.|мыть посуду|Сегодня мне мыть посуду.
+Zutat|die|B1|Food|Alle Zutaten sind frisch.|ingredient|All ingredients are fresh.|masalliq|Barcha masalliqlar yangi.|ингредиент|Все ингредиенты свежие.
+frisch|-|A2|Food|Der Fisch ist heute frisch.|fresh|The fish is fresh today.|yangi (taza)|Baliq bugun yangi.|свежий|Рыба сегодня свежая.
+braten|-|B1|Food|Ich brate das Fleisch.|to fry / roast|I'm frying the meat.|qovurmoq|Men go'shtni qovuryapman.|жарить|Я жарю мясо.
+Pfanne|die|A2|Food|Die Pfanne ist heiß.|frying pan|The pan is hot.|tova|Tova issiq.|сковорода|Сковорода горячая.
+Topf|der|A2|Food|Die Suppe ist im Topf.|pot|The soup is in the pot.|qozon / kastryul|Sho'rva kastryulda.|кастрюля|Суп в кастрюле.
+Gästezimmer|das|B1|Travel|Das Gästezimmer ist fertig.|guest room|The guest room is ready.|mehmon xonasi|Mehmon xonasi tayyor.|гостевая комната|Гостевая комната готова.
+Beschwerde|die|B1|Work|Der Gast hat eine Beschwerde.|complaint|The guest has a complaint.|shikoyat|Mehmonning shikoyati bor.|жалоба|У гостя жалоба.
+Weckruf|der|B2|Travel|Ich möchte einen Weckruf um sechs.|wake-up call|I'd like a wake-up call at six.|uyg'otish qo'ng'irog'i|Oltida uyg'otish qo'ng'irog'ini xohlayman.|звонок-будильник|Я хочу, чтобы меня разбудили в шесть.
+Gepäck|das|A2|Travel|Wir bringen Ihr Gepäck aufs Zimmer.|luggage|We'll bring your luggage to the room.|yuk / bagaj|Yukingizni xonaga olib chiqamiz.|багаж|Мы отнесём ваш багаж в номер.
+Aussicht|die|B1|Travel|Das Zimmer hat eine schöne Aussicht.|view|The room has a nice view.|manzara|Xonadan chiroyli manzara ko'rinadi.|вид|Из номера красивый вид.
+Gastgeber|der|B2|Social|Der Gastgeber begrüßt die Gäste.|host|The host welcomes the guests.|mezbon|Mezbon mehmonlarni kutib oladi.|хозяин / принимающая сторона|Хозяин приветствует гостей.
+Kühlraum|der|B2|Work|Das Fleisch liegt im Kühlraum.|cold room|The meat is in the cold room.|sovutish xonasi|Go'sht sovutish xonasida.|холодильная камера|Мясо в холодильной камере.
+Lieferant|der|B2|Work|Der Lieferant kommt um sieben.|supplier|The supplier comes at seven.|yetkazib beruvchi|Yetkazib beruvchi yettida keladi.|поставщик|Поставщик приходит в семь.
+Theke|die|B1|Work|Die Getränke stehen an der Theke.|bar counter|The drinks are at the bar.|bar peshtaxtasi|Ichimliklar bar peshtaxtasida.|барная стойка|Напитки у стойки.
+Gutschein|der|A2|Money|Der Gast zahlt mit einem Gutschein.|voucher|The guest pays with a voucher.|kupon|Mehmon kupon bilan to'laydi.|сертификат / ваучер|Гость платит сертификатом.
+Gastfreundschaft|die|C1|Social|Danke für Ihre Gastfreundschaft.|hospitality|Thank you for your hospitality.|mehmondo'stlik|Mehmondo'stligingiz uchun rahmat.|гостеприимство|Спасибо за ваше гостеприимство.
+Barkeeper|der|A2|Work|Der Barkeeper mixt einen Cocktail.|bartender|The bartender mixes a cocktail.|barmen|Barmen kokteyl tayyorlayapti.|бармен|Бармен смешивает коктейль.
+Tischreservierung|die|B1|Food|Ihre Tischreservierung ist für 19 Uhr.|table reservation|Your table reservation is for 7 pm.|stol broni|Stol broningiz soat 19 ga.|бронь столика|Ваш столик забронирован на 19 часов.
+Portion|die|A2|Food|Die Portion ist sehr groß.|portion|The portion is very big.|porsiya|Porsiya juda katta.|порция|Порция очень большая.

@@ -1,0 +1,68 @@
+# Retail / Sales — English
+cashier|A2|Work|The cashier gave me my change.|kassir|Kassir menga qaytimni berdi.|кассир|Кассир дал мне сдачу.
+till|B1|Work|Please count the money in the till.|kassa apparati|Iltimos, kassadagi pulni sanab chiq.|касса (аппарат)|Пожалуйста, пересчитай деньги в кассе.
+shelf|A2|Work|Put the boxes on the top shelf.|javon|Qutilarni yuqori javonga qo'y.|полка|Поставь коробки на верхнюю полку.
+stock|B1|Work|We have this model in stock.|zaxira (omborda mavjud)|Bu model omborda mavjud.|запас / наличие|Эта модель есть в наличии.
+out of stock|B1|Shopping|Sorry, this size is out of stock.|tugagan (mavjud emas)|Kechirasiz, bu o'lcham tugagan.|нет в наличии|Извините, этого размера нет в наличии.
+restock|B2|Work|We restock the shelves every morning.|qayta to'ldirmoq|Har kuni ertalab javonlarni qayta to'ldiramiz.|пополнять запас|Мы пополняем полки каждое утро.
+stockroom|B1|Work|The new shoes are in the stockroom.|ombor xonasi|Yangi poyabzallar ombor xonasida.|подсобка / склад|Новая обувь на складе.
+aisle|B1|Shopping|The rice is in aisle four.|qator (do'konda)|Guruch to'rtinchi qatorda.|ряд / проход|Рис в четвёртом ряду.
+fitting room|A2|Shopping|The fitting room is on the left.|kiyinish xonasi|Kiyinish xonasi chap tomonda.|примерочная|Примерочная слева.
+price tag|A2|Shopping|The price tag is missing.|narx yorlig'i|Narx yorlig'i yo'q.|ценник|Ценника нет.
+barcode|B1|Work|The scanner can't read the barcode.|shtrix-kod|Skaner shtrix-kodni o'qiy olmayapti.|штрихкод|Сканер не может считать штрихкод.
+scan|A2|Work|I'll scan your items now.|skanerlamoq|Hozir mahsulotlaringizni skanerlayman.|сканировать|Сейчас я отсканирую ваши товары.
+bag|A1|Shopping|Would you like a bag?|paket|Sizga paket kerakmi?|пакет|Вам нужен пакет?
+shopping cart|A2|Shopping|My shopping cart is full.|xarid aravachasi|Xarid aravachasim to'la.|тележка|Моя тележка полная.
+basket|A1|Shopping|Take a basket at the entrance.|savat|Kirishda savat oling.|корзина|Возьмите корзину у входа.
+queue|A2|Shopping|There's a long queue at the checkout.|navbat|Kassada uzun navbat bor.|очередь|На кассе длинная очередь.
+special offer|B1|Shopping|This coffee is on special offer.|maxsus taklif|Bu qahva maxsus taklifda.|спецпредложение|Этот кофе по спецпредложению.
+bargain|B1|Shopping|These boots were a real bargain.|arzon xarid|Bu etiklar haqiqatan arzonga tushdi.|выгодная покупка|Эти ботинки — настоящая находка.
+voucher|B1|Shopping|You can pay with this voucher.|kupon / vaucher|Bu kupon bilan to'lashingiz mumkin.|ваучер / сертификат|Вы можете оплатить этим сертификатом.
+gift card|A2|Shopping|I bought her a gift card.|sovg'a kartasi|Men unga sovg'a kartasi sotib oldim.|подарочная карта|Я купил ей подарочную карту.
+loyalty card|B1|Shopping|Do you have a loyalty card?|mijoz kartasi|Sizda mijoz kartasi bormi?|карта лояльности|У вас есть карта лояльности?
+brand|B1|Shopping|Which brand do you prefer?|brend|Qaysi brendni afzal ko'rasiz?|бренд|Какой бренд вы предпочитаете?
+quality|B1|Shopping|The quality of this shirt is great.|sifat|Bu ko'ylakning sifati a'lo.|качество|Качество этой рубашки отличное.
+warranty|B1|Shopping|The phone has a two-year warranty.|kafolat|Telefonning ikki yillik kafolati bor.|гарантия|На телефон гарантия два года.
+return|A2|Shopping|I'd like to return this jacket.|qaytarmoq|Men bu kurtkani qaytarmoqchiman.|вернуть|Я хотел бы вернуть эту куртку.
+complaint|B1|Work|The manager dealt with the complaint.|shikoyat|Menejer shikoyatni hal qildi.|жалоба|Менеджер разобрался с жалобой.
+store manager|B1|Work|The store manager makes the schedule.|do'kon menejeri|Do'kon menejeri jadvalni tuzadi.|директор магазина|Директор магазина составляет график.
+shift|A2|Work|My shift starts at seven.|smena|Mening smenam yettida boshlanadi.|смена|Моя смена начинается в семь.
+opening hours|A2|Shopping|What are your opening hours?|ish vaqti|Ish vaqtingiz qanday?|часы работы|Какие у вас часы работы?
+closed|A1|Shopping|The shop is closed on Sundays.|yopiq|Do'kon yakshanba kunlari yopiq.|закрыто|По воскресеньям магазин закрыт.
+display|B1|Work|We change the window display every week.|vitrina / ko'rgazma|Vitrinani har hafta o'zgartiramiz.|выкладка / витрина|Мы меняем витрину каждую неделю.
+shop window|A2|Shopping|I saw the dress in the shop window.|vitrina|Ko'ylakni vitrinada ko'rdim.|витрина|Я увидел платье на витрине.
+counter|A2|Work|Please wait at the counter.|peshtaxta|Iltimos, peshtaxta oldida kuting.|прилавок|Пожалуйста, подождите у прилавка.
+customer service|B1|Work|Call customer service for help.|mijozlarga xizmat|Yordam uchun mijozlarga xizmat bo'limiga qo'ng'iroq qiling.|служба поддержки клиентов|Позвоните в службу поддержки.
+staff|B1|Work|Our staff are very friendly.|xodimlar|Bizning xodimlarimiz juda samimiy.|персонал|Наш персонал очень дружелюбный.
+uniform|A2|Work|We wear a blue uniform.|forma|Biz ko'k forma kiyamiz.|униформа|Мы носим синюю униформу.
+name tag|B1|Work|Don't forget your name tag.|ism yorlig'i (beyjik)|Beyjigingni unutma.|бейдж|Не забудь свой бейдж.
+delivery|A2|Work|The delivery arrives on Monday.|yetkazib berish|Yetkazib berish dushanba kuni.|поставка / доставка|Поставка будет в понедельник.
+stocktaking|B2|Work|We do stocktaking once a year.|inventarizatsiya|Biz yiliga bir marta inventarizatsiya qilamiz.|инвентаризация|Мы проводим инвентаризацию раз в год.
+expiry date|B1|Food|Check the expiry date on the milk.|yaroqlilik muddati|Sutning yaroqlilik muddatini tekshir.|срок годности|Проверь срок годности молока.
+fresh|A2|Food|The bread is fresh every morning.|yangi|Non har kuni ertalab yangi.|свежий|Хлеб свежий каждое утро.
+in cash|A2|Money|Are you paying in cash?|naqd pulda|Naqd pulda to'laysizmi?|наличными|Вы платите наличными?
+by card|A2|Money|Can I pay by card?|karta orqali|Karta orqali to'lasam bo'ladimi?|картой|Можно оплатить картой?
+contactless|B1|Money|Contactless payment is fast.|kontaktsiz|Kontaktsiz to'lov tez.|бесконтактный|Бесконтактная оплата быстрая.
+PIN|A2|Money|Please enter your PIN.|PIN-kod|Iltimos, PIN-kodingizni kiriting.|ПИН-код|Пожалуйста, введите ПИН-код.
+total|A2|Money|The total is twenty dollars.|jami|Jami yigirma dollar.|итого|Итого двадцать долларов.
+half price|A2|Shopping|Everything is half price today.|yarim narx|Bugun hamma narsa yarim narxda.|за полцены|Сегодня всё за полцены.
+reduced|B1|Shopping|These jeans are reduced.|chegirmali|Bu jinsilar chegirmada.|уценённый|Эти джинсы со скидкой.
+sales target|B2|Work|We reached our sales target.|savdo rejasi|Biz savdo rejasini bajardik.|план продаж|Мы выполнили план продаж.
+commission|B2|Money|Salespeople get a commission.|komissiya (foiz)|Sotuvchilar komissiya olishadi.|комиссионные|Продавцы получают комиссионные.
+salesperson|A2|Work|The salesperson helped me choose.|sotuvchi|Sotuvchi tanlashga yordam berdi.|продавец|Продавец помог мне выбрать.
+recommend|B1|Work|Can you recommend a good phone?|tavsiya qilmoq|Yaxshi telefon tavsiya qila olasizmi?|рекомендовать|Можете порекомендовать хороший телефон?
+available|A2|Shopping|Is this available in black?|mavjud|Bu qora rangda mavjudmi?|доступный / в наличии|Есть это в чёрном?
+size chart|B1|Shopping|Look at the size chart online.|o'lchamlar jadvali|Onlayn o'lchamlar jadvaliga qarang.|таблица размеров|Посмотрите таблицу размеров онлайн.
+fit|A2|Shopping|These trousers fit perfectly.|mos kelmoq (o'lcham)|Bu shim juda yaxshi mos keldi.|подходить (по размеру)|Эти брюки сидят идеально.
+shoplifting|B2|Work|Shoplifting is a crime.|do'kondan o'g'irlik|Do'kondan o'g'irlik qilish jinoyat.|магазинная кража|Кража в магазине — преступление.
+security guard|B1|Work|The security guard stands at the door.|qo'riqchi|Qo'riqchi eshik oldida turadi.|охранник|Охранник стоит у двери.
+till receipt|B1|Shopping|Keep your till receipt.|kassa cheki|Kassa chekingizni saqlang.|кассовый чек|Сохраните кассовый чек.
+online order|B1|Shopping|Your online order is ready for pickup.|onlayn buyurtma|Onlayn buyurtmangiz olib ketishga tayyor.|онлайн-заказ|Ваш онлайн-заказ готов к выдаче.
+packaging|B1|Work|The packaging is damaged.|qadoq|Qadoq shikastlangan.|упаковка|Упаковка повреждена.
+wholesale|B2|Work|We buy our goods wholesale.|ulgurji|Biz tovarlarni ulgurji sotib olamiz.|оптом|Мы покупаем товар оптом.
+retail|B2|Work|I have five years of experience in retail.|chakana savdo|Chakana savdoda besh yillik tajribam bor.|розничная торговля|У меня пять лет опыта в рознице.
+branch|B1|Work|We opened a new branch downtown.|filial|Shahar markazida yangi filial ochdik.|филиал|Мы открыли новый филиал в центре.
+goods|B1|Work|The goods arrived this morning.|tovarlar|Tovarlar bugun ertalab keldi.|товары|Товары пришли сегодня утром.
+item|A2|Shopping|This item has no price.|mahsulot|Bu mahsulotning narxi yo'q.|товар / позиция|У этого товара нет цены.
+customer satisfaction|C1|Work|Customer satisfaction is our priority.|mijoz mamnunligi|Mijoz mamnunligi bizning ustuvor vazifamiz.|удовлетворённость клиентов|Удовлетворённость клиентов — наш приоритет.
+upsell|C1|Work|Try to upsell the larger size.|qimmatroq mahsulot taklif qilmoq|Kattaroq o'lchamni taklif qilib ko'r.|допродавать|Попробуй предложить больший размер.

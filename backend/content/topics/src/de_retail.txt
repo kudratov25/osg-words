@@ -1,0 +1,74 @@
+# Retail / Sales — German
+der Kunde|der|A1|Work|Der Kunde möchte bezahlen.|customer|The customer wants to pay.|mijoz|Mijoz to'lamoqchi.|клиент|Клиент хочет заплатить.
+die Kundin|die|A1|Work|Die Kundin sucht eine Jacke.|customer (female)|The customer is looking for a jacket.|mijoz (ayol)|Mijoz ayol kurtka qidiryapti.|клиентка|Клиентка ищет куртку.
+die Kasse|die|A1|Shopping|Bitte zahlen Sie an der Kasse.|checkout / till|Please pay at the checkout.|kassa|Iltimos, kassada to'lang.|касса|Пожалуйста, оплатите на кассе.
+der Kassierer|der|A2|Work|Der Kassierer gibt mir das Wechselgeld.|cashier|The cashier gives me the change.|kassir|Kassir menga qaytimni beradi.|кассир|Кассир даёт мне сдачу.
+der Verkäufer|der|A1|Work|Der Verkäufer hilft mir gern.|salesperson|The salesperson is happy to help me.|sotuvchi|Sotuvchi menga bajonidil yordam beradi.|продавец|Продавец охотно мне помогает.
+die Ware|die|A2|Shopping|Die Ware kommt morgen an.|goods / merchandise|The goods arrive tomorrow.|tovar|Tovar ertaga keladi.|товар|Товар придёт завтра.
+das Angebot|das|A2|Shopping|Heute haben wir ein gutes Angebot.|offer / special deal|Today we have a good offer.|taklif / aksiya|Bugun bizda yaxshi taklif bor.|предложение / акция|Сегодня у нас хорошее предложение.
+der Sonderpreis|der|B1|Shopping|Die Schuhe gibt es zum Sonderpreis.|special price|The shoes are available at a special price.|maxsus narx|Poyabzal maxsus narxda sotiladi.|специальная цена|Обувь продаётся по специальной цене.
+das Regal|das|A2|Work|Bitte räum das Regal ein.|shelf|Please stock the shelf.|javon|Iltimos, javonni to'ldir.|полка / стеллаж|Пожалуйста, разложи товар на полке.
+einräumen|-|B1|Work|Ich muss die Milch noch einräumen.|to stock / put away|I still have to put the milk away.|joylashtirmoq|Men hali sutni joylashtirishim kerak.|раскладывать|Мне ещё нужно разложить молоко.
+das Lager|das|B1|Work|Die Kartons stehen im Lager.|stockroom / warehouse|The boxes are in the stockroom.|ombor|Qutilar omborda turibdi.|склад|Коробки стоят на складе.
+der Karton|der|A2|Work|Der Karton ist sehr schwer.|cardboard box|The box is very heavy.|karton quti|Karton quti juda og'ir.|картонная коробка|Коробка очень тяжёлая.
+die Filiale|die|B1|Work|Ich arbeite in der Filiale am Bahnhof.|branch (store)|I work at the branch by the station.|filial|Men vokzal yonidagi filialda ishlayman.|филиал|Я работаю в филиале у вокзала.
+die Größe|die|A1|Shopping|Welche Größe brauchen Sie?|size|What size do you need?|o'lcham|Sizga qaysi o'lcham kerak?|размер|Какой размер вам нужен?
+die Umkleidekabine|die|A2|Shopping|Die Umkleidekabine ist dort hinten.|fitting room|The fitting room is back there.|kiyinish xonasi|Kiyinish xonasi u yerda, orqada.|примерочная|Примерочная там, сзади.
+anprobieren|-|A2|Shopping|Möchten Sie die Hose anprobieren?|to try on|Would you like to try the trousers on?|kiyib ko'rmoq|Shimni kiyib ko'rmoqchimisiz?|примерять|Хотите примерить брюки?
+der Kassenbon|der|B1|Shopping|Bitte heben Sie den Kassenbon auf.|receipt|Please keep the receipt.|chek|Iltimos, chekni saqlab qo'ying.|чек|Пожалуйста, сохраните чек.
+die Rückgabe|die|B1|Shopping|Für die Rückgabe brauchen Sie den Bon.|return (of goods)|You need the receipt for a return.|qaytarish|Qaytarish uchun sizga chek kerak.|возврат|Для возврата вам нужен чек.
+zurückgeben|-|A2|Shopping|Kann ich das Kleid zurückgeben?|to return / give back|Can I return the dress?|qaytarib bermoq|Ko'ylakni qaytarib bersam bo'ladimi?|вернуть|Можно вернуть платье?
+der Umtausch|der|B1|Shopping|Ein Umtausch ist innerhalb von 14 Tagen möglich.|exchange|An exchange is possible within 14 days.|almashtirish|Almashtirish 14 kun ichida mumkin.|обмен|Обмен возможен в течение 14 дней.
+die Kartenzahlung|die|B1|Money|Ist Kartenzahlung möglich?|card payment|Is card payment possible?|karta orqali to'lov|Karta orqali to'lash mumkinmi?|оплата картой|Можно оплатить картой?
+bar|-|A2|Money|Ich zahle bar.|in cash|I pay in cash.|naqd|Men naqd to'layman.|наличными|Я плачу наличными.
+die Tüte|die|A1|Shopping|Brauchen Sie eine Tüte?|bag (shopping)|Do you need a bag?|paket / xalta|Sizga paket kerakmi?|пакет|Вам нужен пакет?
+das Sonderangebot|das|B1|Shopping|Der Kaffee ist im Sonderangebot.|special offer|The coffee is on special offer.|maxsus taklif|Qahva maxsus taklifda.|спецпредложение|Кофе по спецпредложению.
+reduziert|-|B1|Shopping|Alle Jacken sind reduziert.|reduced / on sale|All jackets are reduced.|chegirmali|Barcha kurtkalar chegirmada.|со скидкой|Все куртки со скидкой.
+der Ausverkauf|der|B2|Shopping|Im Ausverkauf ist alles billiger.|clearance sale|Everything is cheaper in the clearance sale.|yakuniy chegirmali savdo|Yakuniy chegirmali savdoda hamma narsa arzonroq.|распродажа|На распродаже всё дешевле.
+ausverkauft|-|B1|Shopping|Diese Größe ist leider ausverkauft.|sold out|Unfortunately this size is sold out.|sotilib tugagan|Afsuski, bu o'lcham sotilib tugagan.|распродано|К сожалению, этот размер распродан.
+vorrätig|-|B2|Work|Das Modell ist nicht mehr vorrätig.|in stock|That model is no longer in stock.|mavjud (omborda)|Bu model endi omborda mavjud emas.|в наличии|Этой модели больше нет в наличии.
+bestellen|-|A1|Work|Wir können die Farbe für Sie bestellen.|to order|We can order the colour for you.|buyurtma bermoq|Biz bu rangni siz uchun buyurtma qilishimiz mumkin.|заказать|Мы можем заказать этот цвет для вас.
+die Lieferung|die|B1|Work|Die Lieferung kommt am Montag.|delivery|The delivery arrives on Monday.|yetkazib berish|Yetkazib berish dushanba kuni bo'ladi.|поставка / доставка|Поставка придёт в понедельник.
+der Lieferschein|der|B2|Work|Prüf bitte den Lieferschein.|delivery note|Please check the delivery note.|yetkazib berish varaqasi|Iltimos, yetkazib berish varaqasini tekshir.|накладная|Пожалуйста, проверь накладную.
+die Inventur|die|B2|Work|Am Samstag machen wir Inventur.|stocktaking|We do stocktaking on Saturday.|inventarizatsiya|Shanba kuni inventarizatsiya qilamiz.|инвентаризация|В субботу у нас инвентаризация.
+das Preisschild|das|A2|Shopping|Auf dem Preisschild steht 20 Euro.|price tag|The price tag says 20 euros.|narx yorlig'i|Narx yorlig'ida 20 yevro yozilgan.|ценник|На ценнике написано 20 евро.
+auszeichnen|-|B2|Work|Ich muss die neuen Waren auszeichnen.|to price / label goods|I have to price the new goods.|narx qo'ymoq|Men yangi tovarlarga narx qo'yishim kerak.|ставить ценники|Мне нужно поставить ценники на новый товар.
+die Öffnungszeiten|die|A2|Shopping|Unsere Öffnungszeiten sind von 8 bis 20 Uhr.|opening hours|Our opening hours are from 8 am to 8 pm.|ish vaqti|Bizning ish vaqtimiz 8 dan 20 gacha.|часы работы|Наши часы работы с 8 до 20.
+geöffnet|-|A1|Shopping|Der Laden ist sonntags nicht geöffnet.|open|The shop isn't open on Sundays.|ochiq|Do'kon yakshanba kunlari ochiq emas.|открыто|Магазин по воскресеньям не открыт.
+geschlossen|-|A1|Shopping|Heute ist das Geschäft geschlossen.|closed|The shop is closed today.|yopiq|Bugun do'kon yopiq.|закрыто|Сегодня магазин закрыт.
+die Schicht|die|A2|Work|Meine Schicht beginnt um sechs.|shift|My shift starts at six.|smena|Mening smenam oltida boshlanadi.|смена|Моя смена начинается в шесть.
+die Frühschicht|die|B1|Work|Diese Woche habe ich Frühschicht.|early shift|This week I'm on the early shift.|ertalabki smena|Bu hafta menda ertalabki smena.|утренняя смена|На этой неделе у меня утренняя смена.
+die Spätschicht|die|B1|Work|Nach der Spätschicht bin ich müde.|late shift|I'm tired after the late shift.|kechki smena|Kechki smenadan keyin charchayman.|вечерняя смена|После вечерней смены я устаю.
+der Filialleiter|der|B1|Work|Der Filialleiter macht den Dienstplan.|store manager|The store manager makes the rota.|filial rahbari|Filial rahbari ish jadvalini tuzadi.|директор филиала|Директор филиала составляет график.
+der Dienstplan|der|B1|Work|Hast du schon den Dienstplan gesehen?|work rota / schedule|Have you seen the rota yet?|ish jadvali|Ish jadvalini ko'rdingmi?|график работы|Ты уже видел график работы?
+die Beratung|die|B1|Work|Gute Beratung ist uns wichtig.|advice / consultation|Good advice is important to us.|maslahat|Yaxshi maslahat biz uchun muhim.|консультация|Хорошая консультация для нас важна.
+beraten|-|B1|Work|Darf ich Sie beraten?|to advise|May I advise you?|maslahat bermoq|Sizga maslahat bersam maylimi?|консультировать|Могу я вас проконсультировать?
+die Reklamation|die|B2|Work|Der Kunde hat eine Reklamation.|complaint (about a product)|The customer has a complaint.|shikoyat (tovar bo'yicha)|Mijozning shikoyati bor.|рекламация / жалоба|У клиента претензия.
+die Beschwerde|die|B1|Work|Ich möchte eine Beschwerde machen.|complaint|I'd like to make a complaint.|shikoyat|Men shikoyat qilmoqchiman.|жалоба|Я хочу подать жалобу.
+der Gutschein|der|A2|Shopping|Ich schenke dir einen Gutschein.|voucher / gift card|I'm giving you a voucher.|sovg'a kartasi / kupon|Men senga sovg'a kartasini sovg'a qilaman.|подарочный сертификат|Я дарю тебе сертификат.
+die Kundenkarte|die|B1|Shopping|Haben Sie eine Kundenkarte?|loyalty card|Do you have a loyalty card?|mijoz kartasi|Sizda mijoz kartasi bormi?|карта покупателя|У вас есть карта покупателя?
+das Pfand|das|B1|Shopping|Auf der Flasche sind 25 Cent Pfand.|deposit (on bottles)|There's a 25 cent deposit on the bottle.|garov puli (shisha uchun)|Shishada 25 sent garov puli bor.|залог (за бутылку)|За бутылку залог 25 центов.
+der Einkaufswagen|der|A2|Shopping|Der Einkaufswagen ist voll.|shopping trolley|The shopping trolley is full.|xarid aravachasi|Xarid aravachasi to'la.|тележка для покупок|Тележка полная.
+der Korb|der|A1|Shopping|Nimm bitte einen Korb.|basket|Please take a basket.|savat|Iltimos, savat ol.|корзина|Возьми, пожалуйста, корзину.
+die Abteilung|die|A2|Work|Die Schuhe sind in der Abteilung oben.|department|Shoes are in the department upstairs.|bo'lim|Poyabzal yuqoridagi bo'limda.|отдел|Обувь в отделе наверху.
+die Theke|die|B1|Work|Der Käse liegt an der Theke.|counter|The cheese is at the counter.|peshtaxta|Pishloq peshtaxtada.|прилавок|Сыр на прилавке.
+das Haltbarkeitsdatum|das|B2|Food|Prüf das Haltbarkeitsdatum.|best-before date|Check the best-before date.|yaroqlilik muddati|Yaroqlilik muddatini tekshir.|срок годности|Проверь срок годности.
+abgelaufen|-|B1|Food|Der Joghurt ist abgelaufen.|expired|The yogurt has expired.|muddati o'tgan|Yogurtning muddati o'tgan.|просроченный|Йогурт просрочен.
+die Qualität|die|B1|Shopping|Die Qualität ist sehr gut.|quality|The quality is very good.|sifat|Sifati juda yaxshi.|качество|Качество очень хорошее.
+die Marke|die|B1|Shopping|Welche Marke ist das?|brand|Which brand is that?|brend / marka|Bu qaysi brend?|марка / бренд|Какая это марка?
+günstig|-|A2|Shopping|Die Tasche ist sehr günstig.|cheap / good value|The bag is very good value.|arzon / qulay narxda|Sumka juda arzon.|недорогой / выгодный|Сумка очень выгодная.
+der Rabatt|der|B1|Money|Mitarbeiter bekommen zehn Prozent Rabatt.|discount|Staff get a ten percent discount.|chegirma|Xodimlar o'n foiz chegirma olishadi.|скидка|Сотрудники получают скидку десять процентов.
+der Umsatz|der|B2|Money|Der Umsatz war im Dezember hoch.|turnover / sales|Sales were high in December.|savdo hajmi|Dekabrda savdo hajmi yuqori bo'ldi.|оборот / выручка|В декабре выручка была высокой.
+die Kassenschublade|die|B2|Work|Die Kassenschublade klemmt.|cash drawer|The cash drawer is stuck.|kassa tortmasi|Kassa tortmasi qotib qoldi.|денежный ящик кассы|Ящик кассы заедает.
+scannen|-|A2|Work|Ich scanne jetzt Ihre Artikel.|to scan|I'm scanning your items now.|skanerlamoq|Hozir mahsulotlaringizni skanerlayman.|сканировать|Сейчас я отсканирую ваши товары.
+der Artikel|der|B1|Work|Dieser Artikel hat keinen Preis.|item / article|This item has no price.|mahsulot / tovar|Bu mahsulotning narxi yo'q.|товар / артикул|У этого товара нет цены.
+die Schlange|die|A2|Shopping|An der Kasse ist eine lange Schlange.|queue / line|There's a long queue at the checkout.|navbat|Kassada uzun navbat bor.|очередь|На кассе длинная очередь.
+der Diebstahl|der|B2|Work|Diebstahl melden wir der Polizei.|theft|We report theft to the police.|o'g'irlik|O'g'irlikni politsiyaga xabar qilamiz.|кража|О краже мы сообщаем в полицию.
+das Schaufenster|das|B1|Shopping|Das Kleid im Schaufenster gefällt mir.|shop window|I like the dress in the shop window.|vitrina|Vitrinadagi ko'ylak menga yoqdi.|витрина|Мне нравится платье на витрине.
+die Bedienung|die|B1|Work|Die Bedienung war sehr freundlich.|service / staff serving|The service was very friendly.|xizmat ko'rsatish|Xizmat ko'rsatish juda samimiy edi.|обслуживание|Обслуживание было очень дружелюбным.
+die Garantie|die|B1|Shopping|Der Fernseher hat zwei Jahre Garantie.|warranty / guarantee|The TV has a two-year warranty.|kafolat|Televizorga ikki yil kafolat bor.|гарантия|На телевизор гарантия два года.
+die Einkaufsliste|die|A2|Shopping|Ich schreibe eine Einkaufsliste.|shopping list|I'm writing a shopping list.|xaridlar ro'yxati|Men xaridlar ro'yxatini yozyapman.|список покупок|Я пишу список покупок.
+der Onlineshop|der|A2|Shopping|Wir haben auch einen Onlineshop.|online shop|We also have an online shop.|onlayn do'kon|Bizda onlayn do'kon ham bor.|интернет-магазин|У нас есть и интернет-магазин.
+das Paket|das|A1|Work|Das Paket ist für die Kundin.|parcel|The parcel is for the customer.|posilka|Posilka mijoz ayol uchun.|посылка|Посылка для клиентки.
+der Mitarbeiter|der|A2|Work|Wir suchen neue Mitarbeiter.|employee / staff member|We're looking for new staff.|xodim|Biz yangi xodimlar qidiryapmiz.|сотрудник|Мы ищем новых сотрудников.
+der Aushilfsjob|der|B1|Work|Im Sommer habe ich einen Aushilfsjob im Supermarkt.|temp / part-time job|In summer I have a temp job at the supermarket.|vaqtinchalik ish|Yozda supermarketda vaqtinchalik ishim bor.|подработка|Летом у меня подработка в супермаркете.

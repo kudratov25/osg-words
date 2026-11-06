@@ -1,0 +1,67 @@
+# Logistics / Driving — English
+truck|A2|Work|The truck is fully loaded.|yuk mashinasi|Yuk mashinasi to'la yuklangan.|грузовик|Грузовик полностью загружен.
+lorry|B1|Work|He drives a lorry across Europe.|yuk mashinasi|U Yevropa bo'ylab yuk mashinasi haydaydi.|грузовик|Он водит грузовик по Европе.
+driver|A1|Work|The driver is on a break.|haydovchi|Haydovchi tanaffusda.|водитель|Водитель на перерыве.
+driving licence|A2|Travel|Can I see your driving licence?|haydovchilik guvohnomasi|Haydovchilik guvohnomangizni ko'rsam bo'ladimi?|водительские права|Можно ваши права?
+warehouse|B1|Work|I work in a big warehouse.|ombor|Men katta omborda ishlayman.|склад|Я работаю на большом складе.
+warehouse worker|B1|Work|Warehouse workers start at six.|omborchi|Omborchilar oltida ishni boshlaydi.|работник склада|Работники склада начинают в шесть.
+pallet|B1|Work|There are forty boxes on each pallet.|poddon|Har bir poddonda qirqta quti bor.|поддон / паллета|На каждом поддоне сорок коробок.
+forklift|B1|Work|You need training to drive a forklift.|avtoyuklagich|Avtoyuklagich haydash uchun o'qish kerak.|погрузчик|Чтобы водить погрузчик, нужно обучение.
+load|B1|Work|We load the truck in the morning.|yuklamoq|Yuk mashinasini ertalab yuklaymiz.|загружать|Мы загружаем грузовик утром.
+unload|B1|Work|Help me unload the van.|tushirmoq|Furgondan yuk tushirishga yordam ber.|разгружать|Помоги мне разгрузить фургон.
+cargo|B2|Work|The ship carries cargo from Asia.|yuk|Kema Osiyodan yuk tashiydi.|груз|Корабль перевозит груз из Азии.
+shipment|B1|Work|The shipment arrives on Friday.|jo'natma|Jo'natma juma kuni keladi.|партия груза|Партия груза прибудет в пятницу.
+deliver|A2|Work|We deliver seven days a week.|yetkazib bermoq|Haftada yetti kun yetkazib beramiz.|доставлять|Мы доставляем семь дней в неделю.
+recipient|B2|Work|The recipient must sign for the parcel.|qabul qiluvchi|Qabul qiluvchi posilka uchun imzo qo'yishi kerak.|получатель|Получатель должен расписаться за посылку.
+sender|B1|Work|Write the sender's address here.|jo'natuvchi|Jo'natuvchining manzilini shu yerga yozing.|отправитель|Напишите здесь адрес отправителя.
+signature|A2|Work|I need your signature, please.|imzo|Imzongiz kerak, iltimos.|подпись|Мне нужна ваша подпись.
+route|B1|Work|My route is very long today.|yo'nalish|Bugun yo'nalishim juda uzun.|маршрут|Сегодня у меня очень длинный маршрут.
+sat nav|B1|Travel|The sat nav is showing the wrong way.|navigator|Navigator noto'g'ri yo'lni ko'rsatyapti.|навигатор|Навигатор показывает неправильный путь.
+traffic jam|A2|Travel|We were stuck in a traffic jam.|tirbandlik|Biz tirbandlikda qolib ketdik.|пробка|Мы застряли в пробке.
+motorway|B1|Travel|Take the motorway to the city.|avtomagistral|Shaharga avtomagistral orqali boring.|автомагистраль|Езжайте в город по автомагистрали.
+exit|A2|Travel|Take the next exit.|chiqish|Keyingi chiqishga buriling.|съезд|Сверните на следующий съезд.
+petrol station|A2|Travel|Let's stop at the petrol station.|yoqilg'i quyish shoxobchasi|Yoqilg'i quyish shoxobchasida to'xtaylik.|заправка|Давай остановимся на заправке.
+fill up|B1|Travel|I need to fill up the tank.|yoqilg'i quymoq|Bakni to'ldirishim kerak.|заправиться|Мне нужно заправить бак.
+diesel|B1|Travel|This truck runs on diesel.|dizel|Bu yuk mashinasi dizelda ishlaydi.|дизель|Этот грузовик работает на дизеле.
+parking space|A2|Travel|There's no parking space here.|to'xtash joyi|Bu yerda to'xtash joyi yo'q.|парковочное место|Здесь нет парковочного места.
+park|A1|Travel|Where can I park the van?|mashina qo'ymoq|Furgonni qayerga qo'ysam bo'ladi?|парковаться|Где можно поставить фургон?
+junction|B1|Travel|Turn left at the next junction.|chorraha|Keyingi chorrahada chapga buriling.|перекрёсток|На следующем перекрёстке поверните налево.
+turn|A2|Travel|Turn right after the bridge.|burilmoq|Ko'prikdan keyin o'ngga buriling.|поворачивать|После моста поверните направо.
+speed limit|B1|Travel|The speed limit here is fifty.|tezlik chegarasi|Bu yerda tezlik chegarasi ellik.|ограничение скорости|Здесь ограничение скорости пятьдесят.
+rest break|B1|Work|Drivers must take a rest break.|dam olish tanaffusi|Haydovchilar dam olish tanaffusi qilishi shart.|перерыв на отдых|Водители обязаны делать перерыв.
+tachograph|C1|Work|The tachograph records your driving hours.|taxograf|Taxograf haydash soatlaringizni yozib boradi.|тахограф|Тахограф записывает часы вождения.
+haulage company|C1|Work|I work for a haulage company.|yuk tashish kompaniyasi|Men yuk tashish kompaniyasida ishlayman.|транспортная компания|Я работаю в транспортной компании.
+customs|B2|Work|The goods are held at customs.|bojxona|Tovarlar bojxonada ushlab turilibdi.|таможня|Товар задержан на таможне.
+delivery note|B2|Work|Please sign the delivery note.|yetkazib berish varaqasi|Iltimos, yetkazib berish varaqasiga imzo qo'ying.|накладная|Пожалуйста, подпишите накладную.
+parcel|A2|Work|I have a parcel for you.|posilka|Sizga posilka bor.|посылка|У меня для вас посылка.
+courier|B1|Work|The courier will come before noon.|kuryer|Kuryer tushgacha keladi.|курьер|Курьер приедет до обеда.
+delivery driver|B1|Work|My brother is a delivery driver.|yetkazib beruvchi haydovchi|Akam yetkazib beruvchi haydovchi.|водитель-курьер|Мой брат — водитель-курьер.
+house number|A1|Work|I can't find the house number.|uy raqami|Uy raqamini topa olmayapman.|номер дома|Я не могу найти номер дома.
+doorbell|A2|Home|Nobody answers the doorbell.|eshik qo'ng'irog'i|Eshik qo'ng'irog'iga hech kim javob bermayapti.|дверной звонок|На звонок никто не отвечает.
+fragile|B1|Work|Be careful, this box is fragile.|sinuvchan|Ehtiyot bo'ling, bu quti sinuvchan.|хрупкий|Осторожно, эта коробка хрупкая.
+damaged|B1|Work|The parcel arrived damaged.|shikastlangan|Posilka shikastlangan holda keldi.|повреждённый|Посылка пришла повреждённой.
+weigh|A2|Work|We weigh every box.|tortmoq (tarozida)|Har bir qutini tortamiz.|взвешивать|Мы взвешиваем каждую коробку.
+loading dock|B2|Work|Drive to loading dock three.|yuklash maydonchasi|Uchinchi yuklash maydonchasiga yuring.|погрузочная рампа|Подъезжайте к рампе номер три.
+container|B1|Work|The container is from China.|konteyner|Konteyner Xitoydan.|контейнер|Контейнер из Китая.
+inventory|B2|Work|We check the inventory every week.|zaxira (inventar)|Har hafta zaxirani tekshiramiz.|запасы / инвентарь|Мы проверяем запасы каждую неделю.
+order picking|C1|Work|I do order picking in the warehouse.|buyurtma yig'ish|Men omborda buyurtma yig'aman.|комплектация заказов|Я занимаюсь комплектацией заказов на складе.
+scanner|A2|Work|The scanner reads the barcode.|skaner|Skaner shtrix-kodni o'qiydi.|сканер|Сканер считывает штрихкод.
+flat tyre|B1|Travel|I have a flat tyre.|teshik shina|Shinam teshildi.|спущенное колесо|У меня спустило колесо.
+breakdown|B1|Travel|We had a breakdown on the motorway.|buzilish|Avtomagistralda mashinamiz buzildi.|поломка|У нас была поломка на трассе.
+garage|A2|Travel|The van is at the garage.|ustaxona|Furgon ustaxonada.|автосервис|Фургон в автосервисе.
+number plate|B1|Travel|What's your number plate?|davlat raqami|Mashinangiz raqami qanday?|номерной знак|Какой у вас номер машины?
+vehicle|B1|Travel|Lock the vehicle when you leave.|transport vositasi|Ketayotganda transport vositasini qulflang.|транспортное средство|Закрывайте машину, когда уходите.
+trailer|B1|Work|The trailer is empty.|tirkama|Tirkama bo'sh.|прицеп|Прицеп пустой.
+reverse|B1|Travel|Reverse slowly into the dock.|orqaga yurmoq|Maydonchaga sekin orqaga kiring.|сдавать назад|Медленно сдавайте назад к рампе.
+van|A2|Travel|I drive a white van.|furgon|Men oq furgon haydayman.|фургон|Я вожу белый фургон.
+tracking number|B1|Work|Here is your tracking number.|kuzatuv raqami|Mana kuzatuv raqamingiz.|трек-номер|Вот ваш трек-номер.
+delivery time|B1|Work|The delivery time is two days.|yetkazib berish muddati|Yetkazib berish muddati ikki kun.|срок доставки|Срок доставки два дня.
+goods|B1|Work|The goods are ready to ship.|tovarlar|Tovarlar jo'natishga tayyor.|товары|Товары готовы к отправке.
+ship|B1|Work|We ship orders every day.|jo'natmoq|Biz buyurtmalarni har kuni jo'natamiz.|отправлять|Мы отправляем заказы каждый день.
+dispatch|B2|Work|The order was dispatched this morning.|jo'natmoq|Buyurtma bugun ertalab jo'natildi.|отгружать|Заказ отгрузили сегодня утром.
+supply chain|C1|Work|The supply chain was slow this year.|ta'minot zanjiri|Bu yil ta'minot zanjiri sekin ishladi.|цепочка поставок|В этом году цепочка поставок работала медленно.
+freight|B2|Work|We move freight by rail and road.|yuk|Biz yukni temir yo'l va avtomobil yo'li orqali tashiymiz.|груз / фрахт|Мы перевозим грузы по железной дороге и автодорогам.
+logistics|B2|Work|She works in logistics.|logistika|U logistikada ishlaydi.|логистика|Она работает в логистике.
+night shift|B1|Work|The warehouse night shift starts at ten.|tungi smena|Ombordagi tungi smena o'nda boshlanadi.|ночная смена|Ночная смена на складе начинается в десять.
+on schedule|B1|Work|The truck is on schedule.|jadval bo'yicha|Yuk mashinasi jadval bo'yicha kelyapti.|по графику|Грузовик идёт по графику.
+seatbelt|A2|Travel|Always wear your seatbelt.|xavfsizlik kamari|Doim xavfsizlik kamarini taqing.|ремень безопасности|Всегда пристёгивайтесь.

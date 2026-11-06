@@ -1,0 +1,67 @@
+# Medicine / Health care — English
+patient|A2|Health|The patient is waiting outside.|bemor|Bemor tashqarida kutyapti.|пациент|Пациент ждёт снаружи.
+nurse|A2|Health|The nurse checks my blood pressure.|hamshira|Hamshira qon bosimimni tekshiradi.|медсестра|Медсестра проверяет моё давление.
+clinic|A2|Health|The clinic opens at eight.|klinika|Klinika sakkizda ochiladi.|клиника|Клиника открывается в восемь.
+waiting room|A2|Health|Please sit in the waiting room.|kutish xonasi|Iltimos, kutish xonasida o'tiring.|зал ожидания|Пожалуйста, подождите в зале ожидания.
+prescription|B1|Health|The doctor gave me a prescription.|retsept|Shifokor menga retsept berdi.|рецепт|Врач выписал мне рецепт.
+tablet|A2|Health|Take one tablet after meals.|tabletka|Ovqatdan keyin bitta tabletka iching.|таблетка|Принимайте одну таблетку после еды.
+injection|B1|Health|You need an injection.|ukol|Sizga ukol kerak.|укол|Вам нужен укол.
+pain|A2|Health|Where is the pain?|og'riq|Og'riq qayerda?|боль|Где болит?
+painkiller|B1|Health|I took a painkiller.|og'riq qoldiruvchi dori|Men og'riq qoldiruvchi dori ichdim.|обезболивающее|Я принял обезболивающее.
+blood pressure|B1|Health|Your blood pressure is normal.|qon bosimi|Qon bosimingiz normal.|давление|У вас нормальное давление.
+blood test|B1|Health|The blood test is tomorrow morning.|qon tahlili|Qon tahlili ertaga ertalab.|анализ крови|Анализ крови завтра утром.
+check-up|B1|Health|I go for a check-up every year.|tibbiy ko'rik|Men har yili tibbiy ko'rikdan o'taman.|осмотр / обследование|Я прохожу обследование каждый год.
+examine|B1|Health|The doctor will examine you now.|tekshirmoq|Shifokor hozir sizni tekshiradi.|осматривать|Сейчас врач вас осмотрит.
+diagnosis|B2|Health|The diagnosis was a simple infection.|tashxis|Tashxis oddiy infeksiya edi.|диагноз|Диагноз — простая инфекция.
+treatment|B1|Health|The treatment takes two weeks.|davolash|Davolash ikki hafta davom etadi.|лечение|Лечение длится две недели.
+treat|B1|Health|We treat many children here.|davolamoq|Bu yerda ko'p bolalarni davolaymiz.|лечить|Мы лечим здесь много детей.
+wound|B1|Health|Clean the wound carefully.|yara|Yarani ehtiyotkorlik bilan tozalang.|рана|Аккуратно промойте рану.
+bandage|B1|Health|The nurse changed the bandage.|bint|Hamshira bintni almashtirdi.|повязка / бинт|Медсестра сменила повязку.
+plaster|A2|Health|Do you have a plaster?|leykoplastir|Sizda leykoplastir bormi?|пластырь|У вас есть пластырь?
+surgery|B1|Health|He needs surgery on his knee.|operatsiya|Uning tizzasiga operatsiya kerak.|операция|Ему нужна операция на колене.
+surgeon|B2|Health|The surgeon is very experienced.|jarroh|Jarroh juda tajribali.|хирург|Хирург очень опытный.
+ward|B1|Health|She is in ward six.|palata / bo'lim|U oltinchi palatada.|палата / отделение|Она в шестой палате.
+emergency room|B1|Health|We went straight to the emergency room.|shoshilinch yordam bo'limi|To'g'ri shoshilinch yordam bo'limiga bordik.|отделение неотложной помощи|Мы сразу поехали в неотложку.
+X-ray|B1|Health|The X-ray shows a broken bone.|rentgen|Rentgen singan suyakni ko'rsatyapti.|рентген|Рентген показывает перелом.
+broken bone|B1|Health|He has a broken bone in his arm.|singan suyak|Uning qo'lida singan suyak bor.|перелом|У него перелом руки.
+cold|A1|Health|I have a bad cold.|shamollash|Men qattiq shamolladim.|простуда|У меня сильная простуда.
+sore throat|A2|Health|I have a sore throat.|tomoq og'rig'i|Tomog'im og'riyapti.|боль в горле|У меня болит горло.
+dizzy|B1|Health|I feel dizzy.|boshi aylanmoq|Boshim aylanyapti.|кружится голова|У меня кружится голова.
+nausea|B2|Health|This medicine can cause nausea.|ko'ngil aynishi|Bu dori ko'ngil aynishiga sabab bo'lishi mumkin.|тошнота|Это лекарство может вызвать тошноту.
+breathe|A2|Health|Breathe in slowly.|nafas olmoq|Sekin nafas oling.|дышать|Медленно вдохните.
+lungs|B1|Health|Your lungs are clear.|o'pka|O'pkangiz toza.|лёгкие|Ваши лёгкие чистые.
+blood|A2|Health|We need to take some blood.|qon|Bir oz qon olishimiz kerak.|кровь|Нам нужно взять кровь.
+skin|A2|Health|My skin is very dry.|teri|Terim juda quruq.|кожа|У меня очень сухая кожа.
+back pain|A2|Health|I have back pain after work.|bel og'rig'i|Ishdan keyin belim og'riydi.|боль в спине|После работы у меня болит спина.
+vaccination|B1|Health|The vaccination is free.|emlash|Emlash bepul.|прививка|Прививка бесплатная.
+sick note|B1|Health|I need a sick note for my boss.|kasallik varaqasi|Rahbarim uchun kasallik varaqasi kerak.|больничный лист|Мне нужен больничный для начальника.
+referral|B2|Health|You need a referral to see a specialist.|yo'llanma|Mutaxassisga borish uchun yo'llanma kerak.|направление|Чтобы попасть к специалисту, нужно направление.
+specialist|B1|Health|I have an appointment with a specialist.|mutaxassis|Mutaxassisga qabulim bor.|специалист|У меня приём у специалиста.
+GP|B1|Health|My GP sent me to the hospital.|oilaviy shifokor|Oilaviy shifokorim meni kasalxonaga yubordi.|терапевт / семейный врач|Мой терапевт направил меня в больницу.
+side effect|B2|Health|Are there any side effects?|nojo'ya ta'sir|Nojo'ya ta'siri bormi?|побочный эффект|Есть ли побочные эффекты?
+dose|B2|Health|Don't take more than the normal dose.|doza|Odatdagi dozadan ko'p ichmang.|доза|Не принимайте больше обычной дозы.
+thermometer|A2|Health|Where is the thermometer?|termometr|Termometr qayerda?|градусник|Где градусник?
+gloves|A2|Health|Put on clean gloves.|qo'lqop|Toza qo'lqop kiying.|перчатки|Наденьте чистые перчатки.
+disinfect|B2|Health|Disinfect your hands before you enter.|dezinfeksiya qilmoq|Kirishdan oldin qo'llaringizni dezinfeksiya qiling.|дезинфицировать|Продезинфицируйте руки перед входом.
+hygiene|B1|Health|Good hygiene stops infections.|gigiyena|Yaxshi gigiyena infeksiyalarni to'xtatadi.|гигиена|Хорошая гигиена останавливает инфекции.
+infection|B1|Health|The wound has an infection.|infeksiya|Yaraga infeksiya tushgan.|инфекция|В рану попала инфекция.
+laboratory|B1|Health|The samples go to the laboratory.|laboratoriya|Namunalar laboratoriyaga yuboriladi.|лаборатория|Образцы отправляют в лабораторию.
+test results|B1|Health|Your test results are good.|tahlil natijalari|Tahlil natijalaringiz yaxshi.|результаты анализов|Ваши результаты анализов хорошие.
+night shift|B1|Work|Nurses often work the night shift.|tungi smena|Hamshiralar ko'pincha tungi smenada ishlaydi.|ночная смена|Медсёстры часто работают в ночную смену.
+pregnant|B1|Health|She is five months pregnant.|homilador|U besh oylik homilador.|беременная|Она на пятом месяце беременности.
+inflammation|B2|Health|The cream helps with inflammation.|yallig'lanish|Krem yallig'lanishga yordam beradi.|воспаление|Крем помогает при воспалении.
+drip|B2|Health|The patient is on a drip.|tomchi dori (kapelnitsa)|Bemorga kapelnitsa qo'yilgan.|капельница|Пациент под капельницей.
+wheelchair|B1|Health|Do you need a wheelchair?|nogironlar aravachasi|Sizga nogironlar aravachasi kerakmi?|инвалидная коляска|Вам нужна коляска?
+discharge|B2|Health|We'll discharge you tomorrow.|kasalxonadan chiqarmoq|Sizni ertaga kasalxonadan chiqaramiz.|выписывать|Мы выпишем вас завтра.
+admit|B2|Health|They admitted him to hospital.|kasalxonaga yotqizmoq|Uni kasalxonaga yotqizishdi.|госпитализировать|Его госпитализировали.
+symptom|B1|Health|What are your symptoms?|alomat|Qanday alomatlaringiz bor?|симптом|Какие у вас симптомы?
+heart attack|B2|Health|He had a heart attack last year.|yurak xuruji|O'tgan yili unda yurak xuruji bo'ldi.|инфаркт|В прошлом году у него был инфаркт.
+diabetes|B2|Health|My father has diabetes.|qandli diabet|Otamning qandli diabeti bor.|диабет|У моего отца диабет.
+stethoscope|C1|Health|The doctor listens with a stethoscope.|stetoskop|Shifokor stetoskop bilan eshitadi.|стетоскоп|Врач слушает стетоскопом.
+paramedic|B2|Health|The paramedics arrived quickly.|tez yordam xodimi|Tez yordam xodimlari tez yetib kelishdi.|фельдшер скорой|Фельдшеры приехали быстро.
+health insurance|B1|Health|Do you have health insurance?|tibbiy sug'urta|Sizda tibbiy sug'urta bormi?|медицинская страховка|У вас есть медицинская страховка?
+medical record|B2|Health|Your medical record is confidential.|tibbiy karta|Tibbiy kartangiz maxfiy.|медицинская карта|Ваша медицинская карта конфиденциальна.
+sterile|C1|Health|All instruments must be sterile.|steril|Barcha asboblar steril bo'lishi kerak.|стерильный|Все инструменты должны быть стерильными.
+recover|B1|Health|She is recovering well.|tuzalmoq|U yaxshi tuzalyapti.|выздоравливать|Она хорошо выздоравливает.
+chronic|C1|Health|He has a chronic illness.|surunkali|Uning surunkali kasalligi bor.|хронический|У него хроническое заболевание.
+appointment|A1|Health|I'd like to make an appointment.|qabulga yozilish|Qabulga yozilmoqchiman.|запись на приём|Я хотел бы записаться на приём.

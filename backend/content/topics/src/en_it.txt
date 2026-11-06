@@ -1,0 +1,67 @@
+# IT — English
+computer|A1|Work|My computer is very slow today.|kompyuter|Bugun kompyuterim juda sekin.|компьютер|Мой компьютер сегодня очень медленный.
+laptop|A1|Work|I work on my laptop at home.|noutbuk|Men uyda noutbukda ishlayman.|ноутбук|Я работаю дома на ноутбуке.
+screen|A2|Work|The screen is too dark.|ekran|Ekran juda qorong'i.|экран|Экран слишком тёмный.
+keyboard|A2|Work|This keyboard is very loud.|klaviatura|Bu klaviatura juda shovqinli.|клавиатура|Эта клавиатура очень громкая.
+mouse|A1|Work|The mouse isn't working.|sichqoncha|Sichqoncha ishlamayapti.|мышь|Мышь не работает.
+file|A2|Work|Please save the file.|fayl|Iltimos, faylni saqlang.|файл|Пожалуйста, сохраните файл.
+folder|A2|Work|The photos are in this folder.|papka|Rasmlar shu papkada.|папка|Фотографии в этой папке.
+download|A2|Work|I'm downloading the update.|yuklab olmoq|Men yangilanishni yuklab olyapman.|скачивать|Я скачиваю обновление.
+upload|B1|Work|Upload the document to the shared drive.|yuklamoq|Hujjatni umumiy diskka yuklang.|загружать|Загрузите документ на общий диск.
+password|A2|Work|Your password is too weak.|parol|Parolingiz juda kuchsiz.|пароль|Ваш пароль слишком слабый.
+log in|A2|Work|I can't log in to my account.|tizimga kirmoq|Hisobimga kira olmayapman.|войти|Я не могу войти в аккаунт.
+log out|A2|Work|Always log out on shared computers.|tizimdan chiqmoq|Umumiy kompyuterlarda doim tizimdan chiqing.|выйти|Всегда выходите из системы на общих компьютерах.
+username|A2|Work|Enter your username and password.|foydalanuvchi nomi|Foydalanuvchi nomi va parolingizni kiriting.|имя пользователя|Введите имя пользователя и пароль.
+user|B1|Work|Every user gets an email address.|foydalanuvchi|Har bir foydalanuvchi elektron manzil oladi.|пользователь|Каждый пользователь получает адрес почты.
+network|B1|Work|The network is down.|tarmoq|Tarmoq ishlamayapti.|сеть|Сеть не работает.
+Wi-Fi|A1|Work|What's the Wi-Fi password?|Wi-Fi|Wi-Fi paroli qanday?|вай-фай|Какой пароль от вай-фая?
+server|B1|Work|The server is back online.|server|Server yana ishlayapti.|сервер|Сервер снова в сети.
+database|B1|Work|The data is stored in a database.|ma'lumotlar bazasi|Ma'lumotlar bazada saqlanadi.|база данных|Данные хранятся в базе данных.
+software|B1|Work|We need to update the software.|dasturiy ta'minot|Dasturiy ta'minotni yangilashimiz kerak.|программное обеспечение|Нам нужно обновить программы.
+hardware|B1|Work|The problem is with the hardware.|apparat ta'minoti|Muammo apparat qismida.|оборудование / железо|Проблема в оборудовании.
+app|A1|Work|Download our app for free.|ilova|Ilovamizni bepul yuklab oling.|приложение|Скачайте наше приложение бесплатно.
+install|B1|Work|I'll install the program for you.|o'rnatmoq|Dasturni siz uchun o'rnataman.|устанавливать|Я установлю вам программу.
+update|B1|Work|There's a new update for your phone.|yangilanish|Telefoningiz uchun yangi yangilanish bor.|обновление|Для вашего телефона есть обновление.
+bug|B1|Work|We found a bug in the code.|xato (bag)|Kodda xato topdik.|баг / ошибка|Мы нашли баг в коде.
+error message|B1|Work|I keep getting an error message.|xato xabari|Menga doim xato xabari chiqyapti.|сообщение об ошибке|У меня всё время сообщение об ошибке.
+crash|B1|Work|The app crashes when I open it.|ishdan chiqmoq|Ochganimda ilova ishdan chiqyapti.|падать / вылетать|Приложение вылетает, когда я его открываю.
+restart|A2|Work|Restart your computer and try again.|qayta ishga tushirmoq|Kompyuterni qayta ishga tushirib, yana urinib ko'ring.|перезагрузить|Перезагрузите компьютер и попробуйте снова.
+code|B1|Work|She writes code every day.|kod|U har kuni kod yozadi.|код|Она пишет код каждый день.
+programming|B1|Work|I'm learning programming online.|dasturlash|Men onlayn dasturlashni o'rganyapman.|программирование|Я учу программирование онлайн.
+developer|B1|Work|Our team needs another developer.|dasturchi|Jamoamizga yana bir dasturchi kerak.|разработчик|Нашей команде нужен ещё один разработчик.
+test|A2|Work|We test every new feature.|sinamoq|Har bir yangi funksiyani sinaymiz.|тестировать|Мы тестируем каждую новую функцию.
+feature|B1|Work|This feature saves a lot of time.|funksiya|Bu funksiya ko'p vaqtni tejaydi.|функция|Эта функция экономит много времени.
+version|B1|Work|Which version are you using?|versiya|Qaysi versiyadan foydalanyapsiz?|версия|Какую версию вы используете?
+security|B1|Work|Online security is very important.|xavfsizlik|Onlayn xavfsizlik juda muhim.|безопасность|Безопасность в интернете очень важна.
+backup|B1|Work|Make a backup of your files.|zaxira nusxa|Fayllaringizning zaxira nusxasini oling.|резервная копия|Сделайте резервную копию файлов.
+virus|B1|Work|My laptop has a virus.|virus|Noutbukimda virus bor.|вирус|В моём ноутбуке вирус.
+printer|A2|Work|The printer is out of paper.|printer|Printerda qog'oz tugadi.|принтер|В принтере закончилась бумага.
+cable|A2|Work|I need a longer cable.|kabel|Menga uzunroq kabel kerak.|кабель|Мне нужен кабель подлиннее.
+screenshot|B1|Work|Send me a screenshot of the error.|skrinshot|Xatoning skrinshotini yuboring.|скриншот|Пришлите мне скриншот ошибки.
+storage|B1|Work|My phone storage is full.|xotira|Telefonimning xotirasi to'la.|память / хранилище|Память моего телефона заполнена.
+settings|A2|Work|Go to settings and turn on Bluetooth.|sozlamalar|Sozlamalarga kiring va Bluetooth'ni yoqing.|настройки|Зайдите в настройки и включите блютуз.
+website|A2|Work|Our website is down.|veb-sayt|Saytimiz ishlamayapti.|сайт|Наш сайт не работает.
+link|A2|Work|Click on the link in the email.|havola|Xatdagi havolani bosing.|ссылка|Нажмите на ссылку в письме.
+attachment|B1|Work|I forgot to add the attachment.|ilova fayl|Ilova faylni qo'shishni unutibman.|вложение|Я забыл добавить вложение.
+cloud|B1|Work|All our files are in the cloud.|bulut|Barcha fayllarimiz bulutda.|облако|Все наши файлы в облаке.
+access|B1|Work|I don't have access to this folder.|kirish huquqi|Bu papkaga kirish huquqim yo'q.|доступ|У меня нет доступа к этой папке.
+permission|B2|Work|You need permission to edit this file.|ruxsat|Bu faylni tahrirlash uchun ruxsat kerak.|разрешение|Для редактирования нужно разрешение.
+support ticket|B1|Work|Please open a support ticket.|yordam so'rovi|Iltimos, yordam so'rovini oching.|заявка в поддержку|Пожалуйста, создайте заявку в поддержку.
+help desk|B1|Work|Call the help desk if you have problems.|yordam xizmati|Muammo bo'lsa, yordam xizmatiga qo'ng'iroq qiling.|служба поддержки|Позвоните в поддержку, если есть проблемы.
+video call|A2|Work|We have a video call at ten.|videoqo'ng'iroq|O'nda videoqo'ng'iroqimiz bor.|видеозвонок|У нас видеозвонок в десять.
+mute|B1|Work|You're on mute.|ovozni o'chirmoq|Ovozingiz o'chiq.|выключить звук|У вас выключен микрофон.
+share screen|B1|Work|Can you share your screen?|ekranni ulashmoq|Ekraningizni ulasha olasizmi?|показать экран|Можете показать свой экран?
+remote work|B1|Work|Remote work is popular in IT.|masofaviy ish|IT sohasida masofaviy ish ommabop.|удалённая работа|Удалённая работа популярна в IT.
+encrypt|C1|Work|We encrypt all customer data.|shifrlamoq|Barcha mijoz ma'lumotlarini shifrlaymiz.|шифровать|Мы шифруем все данные клиентов.
+artificial intelligence|B2|Work|Artificial intelligence is changing many jobs.|sun'iy intellekt|Sun'iy intellekt ko'p kasblarni o'zgartirmoqda.|искусственный интеллект|Искусственный интеллект меняет многие профессии.
+algorithm|B2|Work|The algorithm sorts the results.|algoritm|Algoritm natijalarni saralaydi.|алгоритм|Алгоритм сортирует результаты.
+data|B1|Work|We never sell your data.|ma'lumotlar|Biz hech qachon ma'lumotlaringizni sotmaymiz.|данные|Мы никогда не продаём ваши данные.
+requirements|B2|Work|The client changed the requirements.|talablar|Mijoz talablarni o'zgartirdi.|требования|Клиент изменил требования.
+release|B2|Work|The next release is in March.|chiqarish (reliz)|Keyingi reliz martda.|релиз|Следующий релиз в марте.
+deploy|C1|Work|We deploy the new version tonight.|ishga tushirmoq (deploy)|Yangi versiyani bugun kechqurun ishga tushiramiz.|развернуть / задеплоить|Сегодня вечером мы выкатываем новую версию.
+interface|B2|Work|The new interface is easy to use.|interfeys|Yangi interfeysdan foydalanish oson.|интерфейс|Новый интерфейс удобен.
+troubleshoot|C1|Work|Let's troubleshoot the problem together.|nosozlikni aniqlamoq|Keling, muammoni birga aniqlaymiz.|искать неисправность|Давайте вместе найдём причину проблемы.
+outage|B2|Work|There was a two-hour outage last night.|uzilish|Kecha tunda ikki soatlik uzilish bo'ldi.|сбой / отключение|Вчера ночью был двухчасовой сбой.
+spreadsheet|B1|Work|The numbers are in the spreadsheet.|elektron jadval|Raqamlar elektron jadvalda.|электронная таблица|Цифры в таблице.
+browser|A2|Work|Open the link in your browser.|brauzer|Havolani brauzeringizda oching.|браузер|Откройте ссылку в браузере.
+two-factor authentication|C1|Work|Turn on two-factor authentication.|ikki bosqichli tasdiqlash|Ikki bosqichli tasdiqlashni yoqing.|двухфакторная аутентификация|Включите двухфакторную аутентификацию.

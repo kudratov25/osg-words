@@ -1,0 +1,66 @@
+# Construction — English
+construction site|A2|Work|I work on a construction site.|qurilish maydoni|Men qurilish maydonida ishlayman.|стройка|Я работаю на стройке.
+builder|A2|Work|The builder is fixing the roof.|quruvchi|Quruvchi tomni tuzatyapti.|строитель|Строитель чинит крышу.
+hard hat|B1|Work|Always wear a hard hat on site.|kaska|Qurilishda doim kaska kiying.|каска|На стройке всегда носите каску.
+safety boots|B1|Work|My safety boots are very heavy.|himoya etiklari|Himoya etiklarim juda og'ir.|защитные ботинки|Мои защитные ботинки очень тяжёлые.
+hi-vis vest|B1|Work|Put on your hi-vis vest.|signal jilet|Signal jiletingni kiy.|сигнальный жилет|Надень сигнальный жилет.
+tools|A2|Work|The tools are in the van.|asboblar|Asboblar furgonda.|инструменты|Инструменты в фургоне.
+hammer|A1|Work|Pass me the hammer, please.|bolg'a|Iltimos, bolg'ani uzat.|молоток|Передай мне, пожалуйста, молоток.
+nail|A2|Work|This nail is too short.|mix|Bu mix juda kalta.|гвоздь|Этот гвоздь слишком короткий.
+screw|A2|Work|I need a bigger screw.|shurup|Menga kattaroq shurup kerak.|шуруп|Мне нужен шуруп побольше.
+screwdriver|B1|Work|Where's the screwdriver?|otvyortka|Otvyortka qayerda?|отвёртка|Где отвёртка?
+drill|B1|Work|The drill needs a new battery.|drel|Drelga yangi batareya kerak.|дрель|Дрели нужен новый аккумулятор.
+ladder|A2|Work|Hold the ladder for me.|narvon|Men uchun narvonni ushlab tur.|лестница / стремянка|Подержи мне лестницу.
+scaffolding|B2|Work|They're putting up scaffolding.|havoza|Ular havoza o'rnatishyapti.|строительные леса|Они ставят леса.
+crane|B1|Work|The crane lifts the steel beams.|kran|Kran po'lat to'sinlarni ko'taradi.|кран|Кран поднимает стальные балки.
+digger|B1|Work|The digger is making a big hole.|ekskavator|Ekskavator katta chuqur qazyapti.|экскаватор|Экскаватор роет большую яму.
+cement|B1|Work|Mix the cement with water.|sement|Sementni suv bilan aralashtiring.|цемент|Смешайте цемент с водой.
+concrete|B1|Work|The concrete is still wet.|beton|Beton hali nam.|бетон|Бетон ещё мокрый.
+brick|A2|Work|The house is made of red brick.|g'isht|Uy qizil g'ishtdan qurilgan.|кирпич|Дом из красного кирпича.
+ceiling|A2|Home|The ceiling needs painting.|ship|Shipni bo'yash kerak.|потолок|Потолок нужно покрасить.
+foundation|B2|Work|The foundation is finished.|poydevor|Poydevor tayyor.|фундамент|Фундамент готов.
+storey|A2|Work|The building has ten floors.|qavat|Bino o'n qavatli.|этаж|В здании десять этажей.
+wood|A2|Work|This table is made of wood.|yog'och|Bu stol yog'ochdan.|дерево (материал)|Этот стол из дерева.
+plank|B1|Work|We need a longer plank.|taxta|Bizga uzunroq taxta kerak.|доска|Нам нужна доска подлиннее.
+steel|B2|Work|The frame is made of steel.|po'lat|Karkas po'latdan.|сталь|Каркас из стали.
+pipe|B1|Work|The water pipe is leaking.|quvur|Suv quvuri oqyapti.|труба|Водопроводная труба течёт.
+plumber|B1|Work|We called a plumber.|santexnik|Biz santexnik chaqirdik.|сантехник|Мы вызвали сантехника.
+electrician|A2|Work|The electrician is coming tomorrow.|elektrik|Elektrik ertaga keladi.|электрик|Электрик придёт завтра.
+painter|A2|Work|The painter finished the kitchen.|bo'yoqchi|Bo'yoqchi oshxonani tugatdi.|маляр|Маляр закончил кухню.
+paint|A1|Work|We're painting the walls white.|bo'yamoq|Devorlarni oq rangga bo'yayapmiz.|красить|Мы красим стены в белый.
+electricity|A2|Work|The electricity is off.|elektr|Elektr o'chirilgan.|электричество|Электричество отключено.
+socket|A2|Home|The socket is behind the sofa.|rozetka|Rozetka divan orqasida.|розетка|Розетка за диваном.
+switch|B1|Home|The light switch is broken.|o'chirgich|Chiroq o'chirgichi buzilgan.|выключатель|Выключатель сломан.
+measure|A2|Work|Measure the window first.|o'lchamoq|Avval derazani o'lchang.|измерять|Сначала измерьте окно.
+tape measure|B1|Work|Have you got a tape measure?|ruletka|Senda ruletka bormi?|рулетка|У тебя есть рулетка?
+heavy lifting|B1|Work|Heavy lifting is part of the job.|og'ir yuk ko'tarish|Og'ir yuk ko'tarish ishning bir qismi.|подъём тяжестей|Подъём тяжестей — часть работы.
+build|A1|Work|They're building a new school.|qurmoq|Ular yangi maktab qurishyapti.|строить|Они строят новую школу.
+repair|A2|Work|Can you repair this door?|ta'mirlamoq|Bu eshikni ta'mirlay olasizmi?|ремонтировать|Вы можете починить эту дверь?
+renovation|B2|Work|The renovation will take a month.|ta'mirlash|Ta'mirlash bir oy davom etadi.|ремонт|Ремонт займёт месяц.
+blueprint|C1|Work|Check the blueprint before you start.|chizma|Boshlashdan oldin chizmani tekshiring.|чертёж|Проверьте чертёж перед началом.
+site manager|B2|Work|The site manager checks our work.|qurilish boshlig'i|Qurilish boshlig'i ishimizni tekshiradi.|начальник участка|Начальник участка проверяет нашу работу.
+health and safety|B2|Work|Health and safety rules are strict here.|mehnat xavfsizligi|Bu yerda mehnat xavfsizligi qoidalari qat'iy.|охрана труда|Здесь строгие правила охраны труда.
+careful|A2|Work|Be careful, the floor is wet.|ehtiyotkor|Ehtiyot bo'ling, pol nam.|осторожный|Осторожно, пол мокрый.
+gloves|A2|Work|Wear gloves when you cut metal.|qo'lqop|Metall kesganda qo'lqop kiying.|перчатки|Надевайте перчатки, когда режете металл.
+wheelbarrow|B1|Work|Put the sand in the wheelbarrow.|tachka|Qumni tachkaga sol.|тачка|Положи песок в тачку.
+sand|A2|Work|We need more sand.|qum|Bizga ko'proq qum kerak.|песок|Нам нужно больше песка.
+shovel|B1|Work|Dig here with the shovel.|belkurak|Shu yerni belkurak bilan qaz.|лопата|Копай здесь лопатой.
+saw|B1|Work|This saw is very sharp.|arra|Bu arra juda o'tkir.|пила|Эта пила очень острая.
+tile|B1|Home|We're putting new tiles in the bathroom.|kafel|Hammomga yangi kafel yotqizyapmiz.|плитка|Мы кладём новую плитку в ванной.
+insulation|C1|Work|Good insulation keeps the house warm.|izolyatsiya|Yaxshi izolyatsiya uyni issiq saqlaydi.|утеплитель / изоляция|Хорошая изоляция сохраняет тепло в доме.
+materials|A2|Work|The materials arrive on Monday.|materiallar|Materiallar dushanba kuni keladi.|материалы|Материалы привезут в понедельник.
+overtime|B1|Work|We worked overtime this week.|qo'shimcha ish vaqti|Bu hafta qo'shimcha ishladik.|сверхурочные|На этой неделе мы работали сверхурочно.
+wage|B1|Money|The hourly wage is fifteen dollars.|ish haqi|Soatlik ish haqi o'n besh dollar.|зарплата / ставка|Почасовая ставка пятнадцать долларов.
+demolition|C1|Work|The demolition starts next week.|buzish|Buzish ishlari keyingi hafta boshlanadi.|снос|Снос начнётся на следующей неделе.
+gravel|B2|Work|Spread the gravel on the path.|shag'al|Yo'lakka shag'al seping.|гравий|Рассыпьте гравий по дорожке.
+spirit level|B2|Work|Use a spirit level to check the shelf.|daraja o'lchagich (shovun)|Javonni tekshirish uchun shovundan foydalan.|уровень (инструмент)|Проверь полку уровнем.
+cut|A2|Work|Cut the wood into two pieces.|kesmoq|Yog'ochni ikki bo'lakka kes.|резать|Разрежь доску на две части.
+glue|A2|Work|Use strong glue for this.|yelim|Buning uchun kuchli yelim ishlating.|клей|Используй для этого крепкий клей.
+roof tile|B1|Home|A roof tile fell off.|tom cherepitsasi|Tomdan bitta cherepitsa tushib ketdi.|черепица|С крыши упала черепица.
+wall plaster|B2|Work|The plaster on the wall is cracked.|suvoq|Devordagi suvoq yorilgan.|штукатурка|Штукатурка на стене треснула.
+carpenter|B1|Work|The carpenter made new doors.|duradgor|Duradgor yangi eshiklar yasadi.|плотник|Плотник сделал новые двери.
+welder|B2|Work|The welder joins the metal parts.|payvandchi|Payvandchi metall qismlarni payvandlaydi.|сварщик|Сварщик соединяет металлические детали.
+bricklayer|B2|Work|The bricklayer builds the walls.|g'isht teruvchi|G'isht teruvchi devorlarni teradi.|каменщик|Каменщик кладёт стены.
+crack|B1|Work|There's a crack in the wall.|yoriq|Devorda yoriq bor.|трещина|В стене трещина.
+leak|B1|Work|We need to fix the leak.|oqish|Oqishni tuzatishimiz kerak.|протечка|Нужно устранить протечку.
+building permit|C1|Work|You need a building permit first.|qurilish ruxsatnomasi|Avval qurilish ruxsatnomasi kerak.|разрешение на строительство|Сначала нужно разрешение на строительство.

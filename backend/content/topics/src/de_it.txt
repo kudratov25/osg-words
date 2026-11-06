@@ -1,0 +1,73 @@
+# IT — German
+Rechner|der|A2|Work|Mein Rechner ist sehr langsam.|computer|My computer is very slow.|kompyuter|Mening kompyuterim juda sekin.|компьютер|Мой компьютер очень медленный.
+Bildschirm|der|A2|Work|Der Bildschirm ist schwarz.|screen / monitor|The screen is black.|ekran / monitor|Ekran qora.|экран / монитор|Экран чёрный.
+Tastatur|die|A2|Work|Die Tastatur ist neu.|keyboard|The keyboard is new.|klaviatura|Klaviatura yangi.|клавиатура|Клавиатура новая.
+Maus|die|A1|Work|Die Maus funktioniert nicht.|mouse|The mouse doesn't work.|sichqoncha|Sichqoncha ishlamayapti.|мышь|Мышь не работает.
+Datei|die|A2|Work|Speichere die Datei bitte.|file|Please save the file.|fayl|Iltimos, faylni saqla.|файл|Сохрани, пожалуйста, файл.
+Ordner|der|A2|Work|Der Ordner ist auf dem Server.|folder|The folder is on the server.|papka|Papka serverda.|папка|Папка на сервере.
+speichern|-|A2|Work|Hast du das Dokument gespeichert?|to save|Have you saved the document?|saqlamoq|Hujjatni saqladingmi?|сохранять|Ты сохранил документ?
+löschen|-|A2|Work|Bitte lösch die alte Version nicht.|to delete|Please don't delete the old version.|o'chirmoq|Iltimos, eski versiyani o'chirma.|удалять|Пожалуйста, не удаляй старую версию.
+herunterladen|-|B1|Work|Ich lade das Update herunter.|to download|I'm downloading the update.|yuklab olmoq|Men yangilanishni yuklab olyapman.|скачивать|Я скачиваю обновление.
+hochladen|-|B1|Work|Lade die Bilder in den Ordner hoch.|to upload|Upload the pictures to the folder.|yuklamoq (serverga)|Rasmlarni papkaga yukla.|загружать|Загрузи картинки в папку.
+Passwort|das|A2|Work|Das Passwort ist zu kurz.|password|The password is too short.|parol|Parol juda qisqa.|пароль|Пароль слишком короткий.
+anmelden|-|A2|Work|Ich kann mich nicht anmelden.|to log in|I can't log in.|tizimga kirmoq|Tizimga kira olmayapman.|войти (в систему)|Я не могу войти.
+abmelden|-|B1|Work|Melde dich am Abend ab.|to log out|Log out in the evening.|tizimdan chiqmoq|Kechqurun tizimdan chiq.|выйти (из системы)|Выходи из системы вечером.
+Benutzer|der|B1|Work|Jeder Benutzer hat ein Konto.|user|Every user has an account.|foydalanuvchi|Har bir foydalanuvchining hisobi bor.|пользователь|У каждого пользователя есть аккаунт.
+Konto|das|A2|Work|Ich erstelle ein neues Konto.|account|I'm creating a new account.|hisob / akkaunt|Men yangi hisob yaratyapman.|аккаунт / учётная запись|Я создаю новый аккаунт.
+Netzwerk|das|B1|Work|Das Netzwerk ist ausgefallen.|network|The network is down.|tarmoq|Tarmoq ishdan chiqdi.|сеть|Сеть упала.
+WLAN|das|A1|Work|Wie ist das WLAN-Passwort?|Wi-Fi|What's the Wi-Fi password?|Wi-Fi|Wi-Fi paroli qanday?|вай-фай|Какой пароль от вай-фая?
+Verbindung|die|B1|Work|Die Verbindung ist sehr schlecht.|connection|The connection is very bad.|ulanish|Ulanish juda yomon.|соединение|Соединение очень плохое.
+Server|der|B1|Work|Der Server läuft wieder.|server|The server is running again.|server|Server yana ishlayapti.|сервер|Сервер снова работает.
+Datenbank|die|B1|Work|Die Daten stehen in der Datenbank.|database|The data is in the database.|ma'lumotlar bazasi|Ma'lumotlar bazada.|база данных|Данные в базе данных.
+Daten|die|B1|Work|Wir schützen Ihre Daten.|data|We protect your data.|ma'lumotlar|Biz sizning ma'lumotlaringizni himoya qilamiz.|данные|Мы защищаем ваши данные.
+Programm|das|A2|Work|Welches Programm benutzt du?|program / software|Which program do you use?|dastur|Qaysi dasturdan foydalanasan?|программа|Какой программой ты пользуешься?
+Software|die|B1|Work|Die Software ist veraltet.|software|The software is out of date.|dasturiy ta'minot|Dasturiy ta'minot eskirgan.|программное обеспечение|Программное обеспечение устарело.
+Anwendung|die|B1|Work|Die Anwendung startet nicht.|application|The application won't start.|ilova|Ilova ishga tushmayapti.|приложение|Приложение не запускается.
+installieren|-|B1|Work|Ich installiere das Programm.|to install|I'm installing the program.|o'rnatmoq|Men dasturni o'rnatyapman.|устанавливать|Я устанавливаю программу.
+aktualisieren|-|B1|Work|Bitte aktualisieren Sie die App.|to update|Please update the app.|yangilamoq|Iltimos, ilovani yangilang.|обновлять|Пожалуйста, обновите приложение.
+Fehler|der|A2|Work|Im Code ist ein Fehler.|error / bug|There's an error in the code.|xato|Kodda xato bor.|ошибка|В коде ошибка.
+Fehlermeldung|die|B1|Work|Ich bekomme eine Fehlermeldung.|error message|I get an error message.|xato xabari|Menga xato xabari chiqyapti.|сообщение об ошибке|У меня сообщение об ошибке.
+abstürzen|-|B1|Work|Das Programm stürzt immer ab.|to crash|The program keeps crashing.|ishdan chiqmoq (dastur)|Dastur doim ishdan chiqyapti.|зависать / падать|Программа всё время падает.
+neu starten|-|B1|Work|Starte den Rechner neu.|to restart|Restart the computer.|qayta ishga tushirmoq|Kompyuterni qayta ishga tushir.|перезагрузить|Перезагрузи компьютер.
+Code|der|B1|Work|Ich schreibe den Code in Python.|code|I'm writing the code in Python.|kod|Men kodni Python'da yozyapman.|код|Я пишу код на Python.
+programmieren|-|B1|Work|Sie programmiert eine neue App.|to program / code|She is programming a new app.|dasturlamoq|U yangi ilova dasturlayapti.|программировать|Она программирует новое приложение.
+Entwickler|der|B1|Work|Wir suchen einen Entwickler.|developer|We're looking for a developer.|dasturchi|Biz dasturchi qidiryapmiz.|разработчик|Мы ищем разработчика.
+testen|-|A2|Work|Wir testen die Funktion morgen.|to test|We'll test the feature tomorrow.|sinab ko'rmoq|Funksiyani ertaga sinab ko'ramiz.|тестировать|Мы протестируем функцию завтра.
+Funktion|die|B1|Work|Diese Funktion ist neu.|function / feature|This feature is new.|funksiya|Bu funksiya yangi.|функция|Эта функция новая.
+Version|die|B1|Work|Welche Version hast du installiert?|version|Which version have you installed?|versiya|Qaysi versiyani o'rnatding?|версия|Какую версию ты установил?
+Sicherheit|die|B1|Work|Sicherheit ist sehr wichtig.|security|Security is very important.|xavfsizlik|Xavfsizlik juda muhim.|безопасность|Безопасность очень важна.
+Sicherung|die|B2|Work|Mach jeden Tag eine Sicherung.|backup|Make a backup every day.|zaxira nusxa|Har kuni zaxira nusxa ol.|резервная копия|Делай резервную копию каждый день.
+Virus|der|B1|Work|Der Rechner hat einen Virus.|virus|The computer has a virus.|virus|Kompyuterda virus bor.|вирус|В компьютере вирус.
+Drucker|der|A2|Work|Der Drucker hat kein Papier.|printer|The printer has no paper.|printer|Printerda qog'oz yo'q.|принтер|В принтере нет бумаги.
+Kabel|das|A2|Work|Wo ist das Kabel?|cable|Where's the cable?|kabel / sim|Kabel qayerda?|кабель|Где кабель?
+Bildschirmfoto|das|B1|Work|Schick mir bitte ein Bildschirmfoto.|screenshot|Please send me a screenshot.|skrinshot|Iltimos, menga skrinshot yubor.|скриншот|Пришли мне, пожалуйста, скриншот.
+Laptop|der|A1|Work|Ich arbeite heute mit dem Laptop.|laptop|I'm working on the laptop today.|noutbuk|Bugun noutbukda ishlayapman.|ноутбук|Сегодня я работаю на ноутбуке.
+Speicher|der|B1|Work|Der Speicher ist voll.|storage / memory|The storage is full.|xotira|Xotira to'la.|память|Память заполнена.
+Einstellungen|die|B1|Work|Öffne die Einstellungen.|settings|Open the settings.|sozlamalar|Sozlamalarni och.|настройки|Открой настройки.
+Benutzeroberfläche|die|B2|Work|Die Benutzeroberfläche ist sehr klar.|user interface|The user interface is very clear.|foydalanuvchi interfeysi|Foydalanuvchi interfeysi juda tushunarli.|пользовательский интерфейс|Интерфейс очень понятный.
+Schnittstelle|die|C1|Work|Die Schnittstelle liefert die Daten.|interface / API|The interface delivers the data.|interfeys / API|Interfeys ma'lumotlarni beradi.|интерфейс / API|Интерфейс отдаёт данные.
+Anforderung|die|B2|Work|Der Kunde hat neue Anforderungen.|requirement|The client has new requirements.|talab|Mijozning yangi talablari bor.|требование|У клиента новые требования.
+Aufwand|der|B2|Work|Wie groß ist der Aufwand?|effort|How much effort is it?|sarflanadigan mehnat|Qancha mehnat talab qiladi?|трудозатраты|Каковы трудозатраты?
+Frist|die|B2|Work|Die Frist ist am Freitag.|deadline|The deadline is on Friday.|muddat|Muddat juma kuni.|срок / дедлайн|Срок в пятницу.
+Besprechung|die|B1|Work|Die Besprechung beginnt um zehn.|meeting|The meeting starts at ten.|majlis / uchrashuv|Majlis o'nda boshlanadi.|совещание|Совещание начинается в десять.
+Kollegin|die|A2|Work|Meine Kollegin testet den Code.|colleague (female)|My colleague is testing the code.|hamkasb (ayol)|Hamkasbim kodni sinayapti.|коллега (женщина)|Моя коллега тестирует код.
+Homeoffice|das|A2|Work|Morgen arbeite ich im Homeoffice.|working from home|Tomorrow I'm working from home.|uydan ishlash|Ertaga uydan ishlayman.|удалённая работа|Завтра я работаю из дома.
+Videokonferenz|die|B1|Work|Die Videokonferenz startet gleich.|video call|The video call is about to start.|videokonferensiya|Videokonferensiya hozir boshlanadi.|видеоконференция|Видеоконференция сейчас начнётся.
+Mikrofon|das|A2|Work|Dein Mikrofon ist stumm.|microphone|Your microphone is muted.|mikrofon|Mikrofoning o'chiq.|микрофон|Твой микрофон выключен.
+teilen|-|A2|Work|Kannst du deinen Bildschirm teilen?|to share|Can you share your screen?|ulashmoq|Ekraningni ulasha olasanmi?|делиться / показывать|Можешь показать свой экран?
+Zugang|der|B1|Work|Ich habe keinen Zugang zum System.|access|I have no access to the system.|kirish huquqi|Menda tizimga kirish huquqi yo'q.|доступ|У меня нет доступа к системе.
+Berechtigung|die|B2|Work|Dir fehlt die Berechtigung.|permission|You don't have permission.|ruxsat|Senda ruxsat yo'q.|права доступа|У тебя нет прав.
+Störung|die|B1|Work|Es gibt eine Störung im Netz.|outage / fault|There's a fault in the network.|nosozlik|Tarmoqda nosozlik bor.|сбой|В сети сбой.
+Ticket|das|B1|Work|Bitte erstell ein Ticket.|ticket (support)|Please create a ticket.|so'rov (tiket)|Iltimos, tiket yarat.|тикет / заявка|Пожалуйста, создай заявку.
+Support|der|B1|Work|Ruf den Support an.|support|Call support.|qo'llab-quvvatlash xizmati|Qo'llab-quvvatlash xizmatiga qo'ng'iroq qil.|техподдержка|Позвони в техподдержку.
+Schulung|die|B1|Work|Nächste Woche gibt es eine Schulung.|training (course)|There's a training next week.|o'quv mashg'uloti|Keyingi hafta o'quv mashg'uloti bor.|обучение / тренинг|На следующей неделе будет обучение.
+Lösung|die|B1|Work|Wir brauchen schnell eine Lösung.|solution|We need a solution quickly.|yechim|Bizga tezda yechim kerak.|решение|Нам нужно быстро найти решение.
+Problem|das|A1|Work|Ich habe ein Problem mit dem Drucker.|problem|I have a problem with the printer.|muammo|Printer bilan muammom bor.|проблема|У меня проблема с принтером.
+verschlüsseln|-|C1|Work|Wir verschlüsseln alle Daten.|to encrypt|We encrypt all data.|shifrlamoq|Biz barcha ma'lumotlarni shifrlaymiz.|шифровать|Мы шифруем все данные.
+Webseite|die|A2|Work|Die Webseite lädt nicht.|website|The website won't load.|veb-sayt|Veb-sayt ochilmayapti.|сайт|Сайт не загружается.
+Link|der|A2|Work|Ich schicke dir den Link.|link|I'll send you the link.|havola|Senga havolani yuboraman.|ссылка|Я пришлю тебе ссылку.
+Anhang|der|B1|Work|Der Anhang ist zu groß.|attachment|The attachment is too big.|ilova (fayl)|Ilova fayl juda katta.|вложение|Вложение слишком большое.
+Cloud|die|B1|Work|Die Dateien liegen in der Cloud.|cloud|The files are in the cloud.|bulut|Fayllar bulutda.|облако|Файлы в облаке.
+Algorithmus|der|B2|Work|Der Algorithmus sortiert die Daten.|algorithm|The algorithm sorts the data.|algoritm|Algoritm ma'lumotlarni saralaydi.|алгоритм|Алгоритм сортирует данные.
+Bereitstellung|die|C1|Work|Die Bereitstellung ist heute Abend.|deployment|The deployment is tonight.|ishga tushirish (deploy)|Ishga tushirish bugun kechqurun.|развёртывание / деплой|Деплой сегодня вечером.
+Rückmeldung|die|B2|Work|Danke für die schnelle Rückmeldung.|feedback / reply|Thanks for the quick feedback.|javob / fikr|Tez javob uchun rahmat.|обратная связь|Спасибо за быструю обратную связь.
