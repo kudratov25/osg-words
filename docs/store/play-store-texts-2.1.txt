@@ -1,0 +1,60 @@
+OSG - Google Play store listing texts (version 2.1)
+(copy each part into Play Console -> Store presence -> Main store listing)
+Old 2.0 texts: 3-store-texts-2.0-old.txt
+
+**English (en-US)**
+- Name: `OSG — German & English words`
+- Short: `3 words a day for your level and job. German or English, in your widget.`
+- Full:
+OSG puts one new word in front of you at 08:00, 12:00 and 18:00 — in a notification and right on your Home and Lock Screen widget. No lessons to sit through: just three words a day in moments you already spend on your phone.
+
+• Learn German or English — about 1,000 words each, with example sentences
+• Pick your level (A1–C1): you get words at your level and a little above
+• Words for your job: retail, IT, medicine, hotels & restaurants, construction, logistics, office or care work
+• Translations and the whole app in English, O'zbekcha or Русский
+• German nouns with coloured articles (der / die / das)
+• Your own reminders on the same calm schedule — once, daily, weekdays, weekly or monthly
+• Plans the next 7 days, so words keep arriving even if you don't open the app
+• Seen words come back after about a week so they stick
+• Spotted a wrong translation? Tap the flag on a word — fixes reach your phone within minutes (pull down to update)
+• No account needed. Works offline once your words are downloaded
+
+Free. No ads. Only anonymous usage statistics, which you can turn off in Settings. Privacy policy: https://osg.kudratov.uz/privacy
+
+**Oʻzbekcha (uz)**
+- Name: `OSG — nemis va ingliz so'zlari`
+- Short: `Darajangiz va ishingiz uchun kuniga 3 ta so'z. Nemis yoki ingliz tili.`
+- Full:
+OSG sizga har kuni 08:00, 12:00 va 18:00 da bittadan yangi so'z ko'rsatadi — bildirishnomada va bosh ekrandagi vidjetda. Darslar yo'q: telefoningizga qaragan paytlaringizda kuniga atigi uchta so'z.
+
+• Nemis yoki ingliz tilini o'rganing — har birida 1000 ga yaqin so'z va misol gaplar
+• Darajangizni tanlang (A1–C1): o'z darajangizdagi va biroz yuqoriroq so'zlar
+• Ishingiz uchun so'zlar: savdo, IT, tibbiyot, mehmonxona va restoran, qurilish, logistika, ofis yoki parvarish ishi
+• Tarjimalar va butun ilova o'zbek, rus yoki ingliz tilida
+• Nemis otlari rangli artikllar bilan (der / die / das)
+• O'z eslatmalaringiz ham shu jadvalda — bir marta, har kuni, ish kunlari, haftada yoki oyda bir
+• Keyingi 7 kunni oldindan rejalaydi — ilovani ochmasangiz ham so'zlar kelaveradi
+• Ko'rilgan so'zlar taxminan bir haftadan keyin qaytadi, shunda yodda qoladi
+• Tarjimada xato ko'rdingizmi? So'zdagi bayroqchani bosing — tuzatish bir necha daqiqada telefoningizga keladi (yangilash uchun pastga torting)
+• Hisob shart emas. So'zlar yuklangach internetsiz ishlaydi
+
+Bepul. Reklama yo'q. Faqat anonim foydalanish statistikasi, uni Sozlamalarda o'chirish mumkin. Maxfiylik siyosati: https://osg.kudratov.uz/privacy
+
+**Русский (ru-RU)**
+- Name: `OSG — немецкий и английский`
+- Short: `3 слова в день под ваш уровень и работу. Немецкий или английский.`
+- Full:
+OSG показывает вам одно новое слово в 08:00, 12:00 и 18:00 — в уведомлении и прямо в виджете на экране «Домой» и экране блокировки. Никаких уроков: всего три слова в день в те моменты, когда вы и так смотрите в телефон.
+
+• Учите немецкий или английский — около 1000 слов в каждом, с примерами
+• Выберите свой уровень (A1–C1): слова вашего уровня и чуть выше
+• Слова для вашей работы: торговля, IT, медицина, отели и рестораны, строительство, логистика, офис или уход за людьми
+• Переводы и всё приложение на русском, узбекском или английском
+• Немецкие существительные с цветными артиклями (der / die / das)
+• Ваши напоминания в том же спокойном расписании — один раз, ежедневно, по будням, еженедельно или ежемесячно
+• Планирует 7 дней вперёд — слова приходят, даже если не открывать приложение
+• Знакомые слова возвращаются примерно через неделю, чтобы запомнились
+• Нашли ошибку в переводе? Нажмите на флажок у слова — исправление придёт на телефон за несколько минут (потяните вниз, чтобы обновить)
+• Аккаунт не нужен. Работает без интернета после загрузки слов
+
+Бесплатно. Без рекламы. Только анонимная статистика использования, её можно отключить в настройках. Политика конфиденциальности: https://osg.kudratov.uz/privacy
