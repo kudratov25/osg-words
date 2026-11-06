@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="osg_widget_placeholder_title">Откройте OSG</string>
+    <string name="osg_widget_placeholder_translation">Загрузите новые слова</string>
+    <string name="osg_widget_show_meaning">Показать значение</string>
+    <string name="osg_widget_description">Ваше текущее слово, обновляется в течение дня.</string>
+</resources>

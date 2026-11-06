@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="osg_widget_placeholder_title">OSG ni oching</string>
+    <string name="osg_widget_placeholder_translation">Keyingi so\'zlaringizni yuklang</string>
+    <string name="osg_widget_show_meaning">Ma\'nosini ko\'rsatish</string>
+    <string name="osg_widget_description">Hozirgi so\'zingiz, kun davomida yangilanadi.</string>
+</resources>

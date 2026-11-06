@@ -1,0 +1,303 @@
+{
+  "@@locale": "en",
+  "appTitle": "OSG — Words every day",
+  "navHome": "Home",
+  "navSchedule": "Schedule",
+  "navVocabulary": "Vocabulary",
+  "navHistory": "History",
+  "navSettings": "Settings",
+  "homeToday": "Today",
+  "statWordsLearned": "Words learned",
+  "statTodaysDone": "Today's done",
+  "statStreak": "Streak",
+  "streakValue": "{days}d",
+  "@streakValue": {
+    "placeholders": {
+      "days": {
+        "type": "int"
+      }
+    }
+  },
+  "homeUpcomingReminder": "Upcoming reminder",
+  "homeNothingLeft": "Nothing left scheduled today.",
+  "homeTodaysSchedule": "Today's schedule",
+  "homeNoRemindersToday": "No reminders today.",
+  "homeWordRightNow": "Word right now",
+  "homeNoVocabulary": "No vocabulary loaded yet.",
+  "homeTodaysWords": "Today's words",
+  "homeSince": "since {time}",
+  "@homeSince": {
+    "placeholders": {
+      "time": {
+        "type": "String"
+      }
+    }
+  },
+  "homeFromYesterday": "from yesterday",
+  "homeFromLastNight": "from last night · next at {time}",
+  "@homeFromLastNight": {
+    "placeholders": {
+      "time": {
+        "type": "String"
+      }
+    }
+  },
+  "homeNoPeeking": "This word arrives at {time} — no peeking 🙂",
+  "@homeNoPeeking": {
+    "placeholders": {
+      "time": {
+        "type": "String"
+      }
+    }
+  },
+  "homeSlotWord": "{time} word",
+  "@homeSlotWord": {
+    "placeholders": {
+      "time": {
+        "type": "String"
+      }
+    }
+  },
+  "homeOpenWord": "Open {word}",
+  "@homeOpenWord": {
+    "placeholders": {
+      "word": {
+        "type": "String"
+      }
+    }
+  },
+  "homeWordArriving": "Word arriving at {time}",
+  "@homeWordArriving": {
+    "placeholders": {
+      "time": {
+        "type": "String"
+      }
+    }
+  },
+  "homeArrivesAt": "Arrives at {time}",
+  "@homeArrivesAt": {
+    "placeholders": {
+      "time": {
+        "type": "String"
+      }
+    }
+  },
+  "homeNow": "now",
+  "scheduleTitle": "Schedule",
+  "scheduleEmpty": "No reminders yet. Tap + to add one.",
+  "reminderEdit": "Edit Reminder",
+  "reminderNew": "New Reminder",
+  "reminderTitleLabel": "Title",
+  "reminderDescLabel": "Description (optional)",
+  "reminderTime": "Time",
+  "reminderRepeat": "Repeat",
+  "reminderDate": "Date",
+  "reminderDayOfMonth": "Day of month:",
+  "reminderSave": "Save changes",
+  "reminderCreate": "Create reminder",
+  "reminderDelete": "Delete",
+  "repeatOnce": "Once",
+  "repeatDaily": "Daily",
+  "repeatWeekdays": "Weekdays",
+  "repeatWeekly": "Weekly",
+  "repeatMonthly": "Monthly",
+  "vocabTitle": "Vocabulary",
+  "tabToday": "Today",
+  "tabYesterday": "Yesterday",
+  "tabFavorites": "Favorites",
+  "vocabNoToday": "No words assigned yet today.",
+  "vocabNoYesterday": "No words shown yesterday.",
+  "vocabNoFavorites": "No favorites yet — tap the star on a word.",
+  "historyTitle": "History",
+  "historyCurrentStreak": "Current streak",
+  "historyEmpty": "No activity yet — history fills in once reminders and words start being delivered.",
+  "historyVocabulary": "Vocabulary",
+  "historyReminder": "Reminder",
+  "historyWord": "word",
+  "dayToday": "Today",
+  "dayYesterday": "Yesterday",
+  "settingsTitle": "Settings",
+  "settingsTelemetryTitle": "Share anonymous usage data",
+  "settingsTelemetrySubtitle": "Device model, OS version, language pair and app-open activity only — no account, no personal data.",
+  "settingsNotificationsTitle": "Notifications",
+  "settingsNotificationsSubtitle": "Vocabulary words and reminders are delivered via local notifications, scheduled entirely on this device.",
+  "settingsFixPermissions": "Fix notification permissions",
+  "settingsPermissionsDone": "Permissions requested and notifications rescheduled.",
+  "settingsAbout": "About",
+  "settingsAboutVersion": "OSG — focus & vocabulary — v{version}",
+  "@settingsAboutVersion": {
+    "placeholders": {
+      "version": {
+        "type": "String"
+      }
+    }
+  },
+  "settingsLanguages": "Languages",
+  "settingsISpeak": "I speak",
+  "settingsILearn": "I'm learning",
+  "settingsPairChanged": "Languages updated.",
+  "settingsPairFailed": "Couldn't download the words for this language. Check your connection and try again.",
+  "settingsNoOtherTargets": "No other languages are available for this right now.",
+  "downloadingWords": "Downloading words…",
+  "accountTitle": "Account",
+  "accountIntro": "Optional. Keep your progress if you change phones — we only need your email.",
+  "accountEmailLabel": "Email",
+  "accountSendCode": "Send code",
+  "accountCodeSent": "We sent a 6-digit code to {email}.",
+  "@accountCodeSent": {
+    "placeholders": {
+      "email": {
+        "type": "String"
+      }
+    }
+  },
+  "accountCodeLabel": "6-digit code",
+  "accountVerify": "Verify",
+  "accountOtherEmail": "Use a different email",
+  "accountSignedInAs": "Signed in as {email}",
+  "@accountSignedInAs": {
+    "placeholders": {
+      "email": {
+        "type": "String"
+      }
+    }
+  },
+  "accountSignOut": "Sign out",
+  "accountDelete": "Delete account",
+  "accountDeleteConfirmTitle": "Delete account?",
+  "accountDeleteConfirmBody": "This deletes your account and the data linked to it on our server. Words and reminders on this phone stay.",
+  "cancel": "Cancel",
+  "delete": "Delete",
+  "accountDeleted": "Account deleted.",
+  "accountSignedOut": "Signed out.",
+  "accountInvalidEmail": "Please enter a valid email address.",
+  "accountWrongCode": "That code didn't work. Check it and try again.",
+  "accountTooMany": "Too many attempts. Please wait a few minutes and try again.",
+  "accountCodeExpired": "That code has expired. Request a new one.",
+  "networkError": "No connection. Please try again when you're online.",
+  "genericError": "Something went wrong. Please try again.",
+  "reportTitle": "Report a mistake",
+  "reportKindTranslation": "Wrong translation",
+  "reportKindArticle": "Wrong article",
+  "reportKindExample": "Wrong example",
+  "reportKindOther": "Something else",
+  "reportNoteHint": "Add a note (optional)",
+  "reportSend": "Send",
+  "reportThanks": "Thanks! We'll check this word.",
+  "reportOffline": "You're offline — please try again later.",
+  "reportTooMany": "You've sent a lot of reports today. Please try again tomorrow.",
+  "notifTodaysGoal": "Today's goal:",
+  "notifReminder": "Reminder",
+  "notifTodaysWord": "Today's word:",
+  "notifNudgeTitle": "Your next words are waiting",
+  "notifNudgeBody": "Open OSG to keep your daily words and reminders coming.",
+  "notifChannelName": "Reminders & Vocabulary",
+  "notifChannelDescription": "Vocabulary words and task reminders",
+  "onbISpeak": "I speak",
+  "onbIWantToLearn": "I want to learn",
+  "onbHowItWorks": "Here's how it works",
+  "onbContinue": "Continue",
+  "onbBack": "Back",
+  "onbStart": "Start",
+  "onbWordCount": "{count, plural, =1{1 word} other{{count} words}}",
+  "@onbWordCount": {
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "onbOfflineNote": "You're offline — more languages appear once you're connected.",
+  "onbOfflineOnlyBuiltIn": "Offline: for now only German with English translations. Your language's words download automatically once you're online.",
+  "onbPreviewIntro": "Three words a day arrive as notifications — at 08:00, 12:00 and 18:00 — and on your home-screen widget.",
+  "onbNotificationLabel": "Notification",
+  "onbWidgetLabel": "Widget",
+  "onbPermissionWhy": "Allow notifications so your words and reminders can reach you.",
+  "onbAllow": "Allow notifications",
+  "onbAllowed": "Notifications allowed",
+  "onbDownloaded": "{count, plural, =1{1 word ready} other{{count} words ready}}",
+  "@onbDownloaded": {
+    "placeholders": {
+      "count": {
+        "type": "int"
+      }
+    }
+  },
+  "onbDownloadFailed": "Couldn't download this language — starting with English translations for now. OSG will try again automatically.",
+  "onbLoadingPairs": "Loading languages…",
+  "showMeaning": "Show meaning",
+  "catDailyLife": "Daily Life",
+  "catWork": "Work",
+  "catFood": "Food",
+  "catCommonVerbs": "Common Verbs",
+  "catTravel": "Travel",
+  "catEmotions": "Emotions",
+  "catAdjectives": "Adjectives",
+  "catTime": "Time",
+  "catMoney": "Money",
+  "catHealth": "Health",
+  "catWeather": "Weather",
+  "catSocial": "Social",
+  "catHome": "Home",
+  "catFamily": "Family",
+  "catEducation": "Education",
+  "catShopping": "Shopping",
+  "catNature": "Nature",
+  "refreshUpdated": "Words updated",
+  "refreshUpToDate": "Words are up to date",
+  "refreshFailed": "Couldn't check for new words. Check your connection.",
+  "levelA1": "Beginner",
+  "levelA1Desc": "I know only a few words",
+  "levelA2": "Elementary",
+  "levelA2Desc": "I manage simple everyday situations",
+  "levelB1": "Intermediate",
+  "levelB1Desc": "I can talk about familiar topics",
+  "levelB2": "Upper intermediate",
+  "levelB2Desc": "I speak fairly fluently",
+  "levelC1": "Advanced",
+  "levelC1Desc": "I understand almost everything",
+  "topicRetail": "Retail & sales",
+  "topicIt": "IT",
+  "topicMedicine": "Medicine",
+  "topicHospitality": "Hotels & restaurants",
+  "topicConstruction": "Construction",
+  "topicLogistics": "Logistics & driving",
+  "topicOffice": "Office & business",
+  "topicCare": "Care work",
+  "settingsLearning": "LEARNING",
+  "settingsLevel": "My level",
+  "settingsTopics": "Work areas",
+  "settingsTopicsNone": "None",
+  "settingsLearningChanged": "Saved. Today's words were updated.",
+  "onbYourLevel": "Your level",
+  "onbYourLevelHint": "You'll get words of this level and a little above.",
+  "onbYourWork": "Your work",
+  "onbYourWorkHint": "Pick any that fit — we'll add words for your job. You can skip this.",
+  "done": "Done",
+  "skip": "Skip",
+  "tourRefreshTitle": "Pull down to update",
+  "tourRefreshBody": "New and corrected words arrive right away when you pull down here.",
+  "tourWordTitle": "Your word right now",
+  "tourWordBody": "3 words a day as notifications: 08:00, 12:00 and 18:00. Tap ⚑ on a card to report a mistake.",
+  "tourVocabTitle": "All your words",
+  "tourVocabBody": "Today's and yesterday's words and your favourites.",
+  "tourScheduleTitle": "Your reminders",
+  "tourScheduleBody": "Add your own reminders — they come together with your words.",
+  "tourSettingsTitle": "Make it yours",
+  "tourSettingsBody": "Change your level, work areas and languages any time.",
+  "tourNext": "Next",
+  "tourGotIt": "Got it",
+  "widgetTitle": "Add the OSG widget",
+  "widgetBody": "See your word on the Home Screen without opening the app.",
+  "widgetAddButton": "Add widget",
+  "widgetLater": "Later",
+  "widgetIosStep1": "Touch and hold an empty spot on the Home Screen",
+  "widgetIosStep2": "Tap + in the top corner",
+  "widgetIosStep3": "Find OSG and tap Add Widget",
+  "widgetIosLock": "Lock Screen: touch and hold it, tap Customize, then add OSG.",
+  "widgetAndroidManual": "Touch and hold an empty spot on the Home Screen, tap Widgets, then find OSG.",
+  "settingsHelp": "HELP",
+  "settingsShowGuide": "Show the app guide again",
+  "settingsAddWidget": "Add the widget",
+  "widgetAndroidMove": "Some phones (e.g. Xiaomi) put it on a later page. To place it exactly where you want: touch and hold an empty spot on your main screen → Widgets → OSG, and drag it there."
+}

@@ -1,0 +1,4 @@
+// Widget extension build settings. Pulls in Flutter's generated values so the
+// widget's version (Info.plist) always equals the app's - App Store Connect
+// rejects an extension whose version differs from its app.
+#include "../Flutter/Generated.xcconfig"

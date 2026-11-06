@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<appwidget-provider xmlns:android="http://schemas.android.com/apk/res/android"
+    android:initialLayout="@layout/osg_widget"
+    android:minWidth="280dp"
+    android:minHeight="120dp"
+    android:targetCellWidth="4"
+    android:targetCellHeight="2"
+    android:resizeMode="horizontal|vertical"
+    android:widgetCategory="home_screen"
+    android:description="@string/osg_widget_description"
+    android:updatePeriodMillis="1800000">
+    <!-- 1800000ms = 30min - the OS-enforced minimum for updatePeriodMillis;
+         set explicitly rather than relying on the (also 30min) implicit
+         default so the intent ("refresh roughly every slot") is obvious.
+         An explicit HomeWidget.updateWidget() call from Dart on every app
+         open/resume covers the gap between periodic ticks. -->
+</appwidget-provider>

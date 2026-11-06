@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- RemoteViews port of lib/widgets/word_card.dart: flag inline with the
+     word (bold, textPrimary), translation (accent blue), example (italic,
+     textSecondary) - same three lines, same colors, same order. No
+     category line (not part of the data widget_sync.dart sends) and no
+     favorite star (RemoteViews click targets are single pending-intents
+     per view; not worth the plumbing for a glanceable widget).
+
+     Tap-to-reveal: by default only the word and a "Show meaning" pill are
+     visible; translation + example start GONE. Tapping the pill sends a
+     broadcast to OsgWidgetProvider, which swaps the pill for the two
+     meaning lines until the next word slot arrives (the new word starts
+     hidden again). Taps anywhere else still open the app via the
+     container's launch intent. The placeholder ("Open OSG") shows
+     translation-as-subtitle and no pill. Visibility is driven entirely
+     from OsgWidgetProvider.onUpdate; the defaults below are the hidden
+     state. -->
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/widget_container"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:gravity="center_vertical"
+    android:background="@drawable/osg_widget_background"
+    android:paddingHorizontal="18dp"
+    android:paddingVertical="8dp">
+
+    <TextView
+        android:id="@+id/widget_title"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/osg_widget_placeholder_title"
+        android:textColor="#F2F4F8"
+        android:textSize="17sp"
+        android:textStyle="bold"
+        android:maxLines="1"
+        android:ellipsize="end" />
+
+    <TextView
+        android:id="@+id/widget_translation"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="1dp"
+        android:text="@string/osg_widget_placeholder_translation"
+        android:textColor="#7FB3FF"
+        android:textSize="14sp"
+        android:maxLines="1"
+        android:ellipsize="end"
+        android:visibility="gone" />
+
+    <TextView
+        android:id="@+id/widget_example"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="2dp"
+        android:text=""
+        android:textColor="#A3ADC2"
+        android:textStyle="italic"
+        android:textSize="13sp"
+        android:maxLines="1"
+        android:ellipsize="end"
+        android:visibility="gone" />
+
+    <!-- Compact pill, left-aligned under the word. A TextView rather than
+         a Button so no platform button chrome (min height, caps, ripple
+         background) fights the custom shape. -->
+    <TextView
+        android:id="@+id/widget_reveal_button"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="6dp"
+        android:background="@drawable/osg_widget_reveal_button"
+        android:paddingHorizontal="12dp"
+        android:paddingVertical="4dp"
+        android:text="@string/osg_widget_show_meaning"
+        android:textColor="#7FB3FF"
+        android:textSize="12sp"
+        android:textStyle="bold"
+        android:maxLines="1"
+        android:clickable="true"
+        android:focusable="true"
+        android:visibility="gone" />
+
+</LinearLayout>

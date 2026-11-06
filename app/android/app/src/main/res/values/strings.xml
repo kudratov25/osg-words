@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="osg_widget_placeholder_title">Open OSG</string>
+    <string name="osg_widget_placeholder_translation">Load your next words</string>
+    <string name="osg_widget_show_meaning">Show meaning</string>
+    <string name="osg_widget_description">Your current vocabulary word, updated through the day.</string>
+</resources>
