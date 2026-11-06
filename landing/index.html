@@ -1,0 +1,320 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>OSG — Learn German in the moments you already have</title>
+  <meta name="description" content="OSG sends you 3 German (or English) words a day at 08:00, 12:00 and 18:00, matched to your level (A1–C1) and your job, shows the current word on your Home and Lock Screen, and keeps your own reminders on the same schedule. In English, Uzbek or Russian. No account needed." />
+  <meta name="theme-color" content="#0B0E14" />
+  <meta property="og:title" content="OSG — German &amp; English words every day" />
+  <meta property="og:description" content="Three German words a day, right where you already look: notifications and your Lock Screen. Plus your own reminders, on one calm schedule." />
+  <meta property="og:type" content="website" />
+  <meta property="og:url" content="https://osg.kudratov.uz/" />
+  <link rel="canonical" href="https://osg.kudratov.uz/" />
+  <link rel="icon" href="/site/favicon.svg" type="image/svg+xml" />
+  <script>
+    // Theme before first paint (same rule as the admin panel): saved choice, else device setting.
+    (function () {
+      var t = null
+      try { t = localStorage.getItem('osg_site_theme') } catch (e) {}
+      if (t !== 'light' && t !== 'dark') t = window.matchMedia && matchMedia('(prefers-color-scheme: light)').matches ? 'light' : 'dark'
+      document.documentElement.dataset.theme = t
+      document.documentElement.classList.add('js')
+    })()
+  </script>
+  <link rel="stylesheet" href="/site/style.css" />
+</head>
+<body>
+  <div class="bg" aria-hidden="true"><span class="b1"></span><span class="b2"></span><span class="b3"></span></div>
+
+  <header class="site-header">
+    <div class="wrap">
+      <a class="brand" href="/" aria-label="OSG home"><span class="osg">OSG</span><span class="tag">Words every day</span></a>
+      <nav class="nav" aria-label="Sections">
+        <a href="#how">How it works</a>
+        <a href="#features">Features</a>
+        <a href="#privacy">Privacy</a>
+        <a href="#faq">FAQ</a>
+      </nav>
+      <div class="header-right">
+        <button class="icon-btn" id="theme-toggle" type="button" aria-label="Switch theme" title="Switch theme">
+          <svg class="theme-icon-sun" width="18" height="18" viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path d="M12 7a5 5 0 100 10 5 5 0 000-10zm0-5a1 1 0 011 1v2a1 1 0 11-2 0V3a1 1 0 011-1zm0 17a1 1 0 011 1v1a1 1 0 11-2 0v-1a1 1 0 011-1zM4.2 4.2a1 1 0 011.4 0l1.4 1.4a1 1 0 01-1.4 1.4L4.2 5.6a1 1 0 010-1.4zm12.8 12.8a1 1 0 011.4 0l1.4 1.4a1 1 0 01-1.4 1.4L17 18.4a1 1 0 010-1.4zM2 12a1 1 0 011-1h2a1 1 0 110 2H3a1 1 0 01-1-1zm17 0a1 1 0 011-1h1a1 1 0 110 2h-1a1 1 0 01-1-1zM5.6 17a1 1 0 011.4 1.4l-1.4 1.4a1 1 0 01-1.4-1.4L5.6 17zM18.4 4.2a1 1 0 011.4 1.4L18.4 7A1 1 0 0117 5.6l1.4-1.4z"/></svg>
+          <svg class="theme-icon-moon" width="18" height="18" viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path d="M21 14.5A9 9 0 019.5 3a.9.9 0 00-1.1-1.1A10 10 0 1022.1 15.6a.9.9 0 00-1.1-1.1z"/></svg>
+        </button>
+        <a class="btn btn-primary" href="#get">Get OSG</a>
+      </div>
+    </div>
+  </header>
+
+  <main>
+    <!-- ================= HERO ================= -->
+    <section class="hero" aria-labelledby="hero-title">
+      <div class="wrap">
+        <div>
+          <span class="eyebrow">🇩🇪 3 words a day · zero effort</span>
+          <h1 id="hero-title">Learn German in the moments you <span class="grad">already have.</span></h1>
+          <p class="lead">OSG puts one German word in front of you at 08:00, 12:00 and 18:00 — in a notification and right on your Home and Lock Screen. Pick your level and your job, and the words fit you. Your own reminders run on the same calm schedule. No lessons to sit through. Prefer English? Learn that instead — with translations and the whole app in English, O'zbekcha or Русский.</p>
+          <div class="cta" id="get">
+            <span class="store" aria-label="Google Play: coming soon">
+              <svg width="22" height="22" viewBox="0 0 24 24" aria-hidden="true"><path fill="#34A853" d="M3.6 2.2l10.7 10.7L3.6 23.6c-.4-.2-.6-.6-.6-1.1V3.3c0-.5.2-.9.6-1.1z"/><path fill="#FBBC04" d="M17.8 9.4l-3.5 3.5 3.5 3.5 3.9-2.2c.8-.5.8-1.6 0-2.1l-3.9-2.7z"/><path fill="#4285F4" d="M3.6 2.2c.3-.2.8-.2 1.2 0l13 7.2-3.5 3.5L3.6 2.2z"/><path fill="#EA4335" d="M14.3 12.9l3.5 3.5-13 7.2c-.4.2-.9.2-1.2 0l10.7-10.7z"/></svg>
+              <span><small>Coming soon to</small><strong>Google Play</strong></span>
+            </span>
+            <span class="store" aria-label="App Store: coming soon">
+              <svg width="22" height="22" viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path d="M16.4 12.6c0-2.4 2-3.6 2.1-3.7-1.2-1.7-3-1.9-3.6-2-1.5-.2-3 .9-3.8.9-.8 0-2-.9-3.3-.9-1.7 0-3.3 1-4.2 2.5-1.8 3.1-.5 7.7 1.3 10.2.9 1.2 1.9 2.6 3.2 2.6 1.3-.1 1.8-.8 3.3-.8s2 .8 3.3.8c1.4 0 2.3-1.3 3.1-2.5 1-1.4 1.4-2.8 1.4-2.9 0 0-2.8-1.1-2.8-4.2zM14 5.4c.7-.8 1.2-2 1-3.1-1 0-2.2.7-2.9 1.5-.6.7-1.2 1.9-1 3 1.1.1 2.2-.6 2.9-1.4z"/></svg>
+              <span><small>Coming soon to</small><strong>App Store</strong></span>
+            </span>
+          </div>
+          <p class="hero-note">Android first, then iPhone.</p>
+          <div class="facts">
+            <span><svg width="16" height="16" viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path d="M9 16.2l-3.5-3.5L4 14.2l5 5 11-11-1.5-1.5z"/></svg>No account needed</span>
+            <span><svg width="16" height="16" viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path d="M9 16.2l-3.5-3.5L4 14.2l5 5 11-11-1.5-1.5z"/></svg>Words for your job</span>
+            <span><svg width="16" height="16" viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path d="M9 16.2l-3.5-3.5L4 14.2l5 5 11-11-1.5-1.5z"/></svg>English · O'zbekcha · Русский</span>
+            <span><svg width="16" height="16" viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path d="M9 16.2l-3.5-3.5L4 14.2l5 5 11-11-1.5-1.5z"/></svg>Keeps going for a week without opening it</span>
+          </div>
+        </div>
+
+        <div class="phone-stage" aria-label="Example: the OSG widget and notifications on a phone's lock screen">
+          <div class="phone">
+            <div class="screen">
+              <div class="glare" aria-hidden="true"></div>
+              <div class="notch"></div>
+              <div class="lock-time">
+                <div class="date">Wednesday, 4 November</div>
+                <div class="clock" id="ph-clock">12:00</div>
+              </div>
+              <div class="widget" id="ph-widget" aria-hidden="true">
+                <div class="w-body">
+                  <div class="w-title">🇩🇪 die Besprechung</div>
+                  <div class="w-tr">meeting</div>
+                  <div class="w-ex">Die Besprechung beginnt um zehn Uhr.</div>
+                </div>
+              </div>
+              <div class="notifs" id="ph-notifs" aria-hidden="true">
+                <div class="notif older">
+                  <div class="n-head"><span class="n-app"></span>OSG<span class="n-time">08:00</span></div>
+                  <strong>🇩🇪 der Schlüssel</strong>
+                  key · Wo ist mein Schlüssel?
+                </div>
+                <div class="notif newest">
+                  <div class="n-head"><span class="n-app"></span>OSG<span class="n-time">now</span></div>
+                  <strong>🇩🇪 die Besprechung</strong>
+                  meeting · Die Besprechung beginnt um zehn Uhr.
+                </div>
+              </div>
+            </div>
+          </div>
+          <div class="float-card glass a" aria-hidden="true"><span class="faint">Next word</span><strong id="ph-next">18:00</strong></div>
+          <div class="float-card glass b" aria-hidden="true"><span class="faint">Today</span><strong id="ph-count">2 of 3 words</strong></div>
+        </div>
+      </div>
+    </section>
+
+    <!-- ================= TIMELINE ================= -->
+    <section id="how" aria-labelledby="how-title">
+      <div class="wrap">
+        <div class="section-head reveal-up">
+          <div class="kicker">How a day looks</div>
+          <h2 id="how-title">Three words. Three moments.</h2>
+          <p>Morning coffee, lunch break, the way home. Each word comes with its article, a translation and a real sentence — and stays on your screen until the next one.</p>
+        </div>
+        <div class="timeline">
+          <article class="slot glass reveal-up">
+            <div class="when"><b>08:00</b> morning</div>
+            <div class="word"><span class="art art-der">der</span> Schlüssel</div>
+            <div class="tr">key</div>
+            <p class="ex">Wo ist mein Schlüssel?</p>
+          </article>
+          <article class="slot glass reveal-up">
+            <div class="when"><b>12:00</b> midday</div>
+            <div class="word"><span class="art art-die">die</span> Besprechung</div>
+            <div class="tr">meeting</div>
+            <p class="ex">Die Besprechung beginnt um zehn Uhr.</p>
+          </article>
+          <article class="slot glass reveal-up">
+            <div class="when"><b>18:00</b> evening</div>
+            <div class="word"><span class="art art-das">das</span> Brot</div>
+            <div class="tr">bread</div>
+            <p class="ex">Ich kaufe frisches Brot.</p>
+          </article>
+        </div>
+      </div>
+    </section>
+
+    <!-- ================= TRY IT ================= -->
+    <section aria-labelledby="try-title">
+      <div class="wrap try">
+        <div class="reveal-up">
+          <div class="kicker">Try it</div>
+          <div class="section-head" style="margin-bottom:0">
+            <h2 id="try-title">Guess first, then peek.</h2>
+            <p>That tiny moment of recall is what makes a word stick. OSG brings new words first, then quietly brings older ones back after about a week so they don't fade.</p>
+          </div>
+          <div class="legend" aria-label="Article colours">
+            <span><span class="art art-der">der</span> masculine</span>
+            <span><span class="art art-die">die</span> feminine</span>
+            <span><span class="art art-das">das</span> neuter</span>
+          </div>
+        </div>
+        <div class="flash glass reveal-up" id="flash" aria-live="polite">
+          <div class="meta"><span class="chip" id="f-cat">Daily Life</span><span class="chip" id="f-level">beginner</span></div>
+          <div class="big" id="f-word"><span class="art art-der">der</span> Bahnhof</div>
+          <div class="reveal" id="f-reveal" hidden>
+            <div class="tr" id="f-tr">train station</div>
+            <div class="ex" id="f-ex">Der Bahnhof ist ganz in der Nähe.</div>
+          </div>
+          <div class="actions">
+            <button class="btn btn-primary" id="f-show" type="button">Show meaning</button>
+            <button class="btn" id="f-next" type="button">Next word →</button>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- ================= FEATURES ================= -->
+    <section id="features" aria-labelledby="features-title">
+      <div class="wrap">
+        <div class="section-head reveal-up">
+          <div class="kicker">Features</div>
+          <h2 id="features-title">Small, calm, and it just keeps working.</h2>
+          <p>Built for people who are busy — not for people who need another app to manage.</p>
+        </div>
+        <div class="features">
+          <article class="feature glass reveal-up">
+            <div class="ico"><svg width="22" height="22" viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path d="M12 22a2 2 0 002-2h-4a2 2 0 002 2zm6-6V11c0-3.1-1.6-5.6-4.5-6.3V4a1.5 1.5 0 00-3 0v.7C7.6 5.4 6 7.9 6 11v5l-2 2v1h16v-1l-2-2z"/></svg></div>
+            <h3>Words in your notifications</h3>
+            <p>08:00, 12:00 and 18:00 — the word, its article, the meaning and an example sentence, right in the notification. Nothing to open.</p>
+          </article>
+          <article class="feature glass reveal-up">
+            <div class="ico"><svg width="22" height="22" viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path d="M7 2h10a2 2 0 012 2v16a2 2 0 01-2 2H7a2 2 0 01-2-2V4a2 2 0 012-2zm0 3v13h10V5H7zm2 2h6v4H9V7z"/></svg></div>
+            <h3>Home &amp; Lock Screen widget</h3>
+            <p>The current word sits where you look a hundred times a day, and switches at the exact moment its notification arrives.</p>
+          </article>
+          <article class="feature glass reveal-up">
+            <div class="ico"><svg width="22" height="22" viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path d="M19 4h-1V2h-2v2H8V2H6v2H5a2 2 0 00-2 2v14a2 2 0 002 2h14a2 2 0 002-2V6a2 2 0 00-2-2zm0 16H5V9h14v11zM7 11h5v5H7z"/></svg></div>
+            <h3>Your reminders, same schedule</h3>
+            <p>Once, daily, weekdays, weekly or monthly. If one lands near a word, you get a single combined notification — not two pings.</p>
+          </article>
+          <article class="feature glass reveal-up">
+            <div class="ico"><svg width="22" height="22" viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path d="M13 3a9 9 0 00-9 9H1l3.9 3.9L9 12H6a7 7 0 112 4.9l-1.4 1.4A9 9 0 1013 3zm-1 5v5l4.3 2.5.7-1.2-3.5-2.1V8z"/></svg></div>
+            <h3>A week ahead, always</h3>
+            <p>Every time you open OSG it plans the next 7 days. Forget about it for a few days — your words and reminders still arrive.</p>
+          </article>
+          <article class="feature glass reveal-up">
+            <div class="ico"><svg width="22" height="22" viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path d="M17.6 6.3a8 8 0 00-11.3 0L4.9 4.9a10 10 0 0114.2 0l-1.5 1.4zM15.5 8.5a5 5 0 00-7 0L7.1 7.1a7 7 0 019.8 0l-1.4 1.4zM12 11a2 2 0 110 4 2 2 0 010-4zM3 3l18 18-1.4 1.4-18-18L3 3z"/></svg></div>
+            <h3>Offline, no account needed</h3>
+            <p>Your progress lives on your phone. Your words download once and then work offline; new and corrected words arrive by themselves when you're online — or pull down to update right away.</p>
+          </article>
+          <article class="feature glass reveal-up">
+            <div class="ico"><svg width="22" height="22" viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path d="M13 2.1v2c3.9.5 7 3.9 7 7.9 0 3.2-1.9 6-4.7 7.3l-1-1.7A6 6 0 0018 12a6 6 0 00-5-5.9V8L9.5 5 13 2.1zM11 21.9v-2C7.1 19.4 4 16 4 12c0-3.2 1.9-6 4.7-7.3l1 1.7A6 6 0 006 12a6 6 0 005 5.9V16l3.5 3-3.5 2.9z"/></svg></div>
+            <h3>Smart review</h3>
+            <p>New words first. Seen words come back after about a week, oldest first — never the same word twice in a day.</p>
+          </article>
+        </div>
+      </div>
+    </section>
+
+    <!-- ================= STEPS ================= -->
+    <section aria-labelledby="steps-title">
+      <div class="wrap">
+        <div class="section-head reveal-up">
+          <div class="kicker">Getting started</div>
+          <h2 id="steps-title">Thirty seconds, then forget about it.</h2>
+        </div>
+        <div class="steps">
+          <article class="step glass reveal-up">
+            <h3>Install &amp; allow notifications</h3>
+            <p>That's the whole setup. Your first three words are ready the moment it opens.</p>
+          </article>
+          <article class="step glass reveal-up">
+            <h3>Add the widget</h3>
+            <p>Long-press your Home Screen → Widgets → OSG. On iPhone, add it to your Lock Screen.</p>
+          </article>
+          <article class="step glass reveal-up">
+            <h3>Add a reminder or two</h3>
+            <p>Gym, water, call mum. They arrive on the same calm schedule as your words.</p>
+          </article>
+        </div>
+      </div>
+    </section>
+
+    <!-- ================= PRIVACY ================= -->
+    <section id="privacy" aria-labelledby="privacy-title">
+      <div class="wrap">
+        <div class="privacy-band glass reveal-up">
+          <div>
+            <div class="kicker">Privacy</div>
+            <h2 id="privacy-title" style="font-size:clamp(26px,3vw,34px)">No account needed. No ads. No tracking you.</h2>
+            <ul>
+              <li><svg width="16" height="16" viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path d="M9 16.2l-3.5-3.5L4 14.2l5 5 11-11-1.5-1.5z"/></svg>Your reminders and progress never leave your phone.</li>
+              <li><svg width="16" height="16" viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path d="M9 16.2l-3.5-3.5L4 14.2l5 5 11-11-1.5-1.5z"/></svg>No name, email, contacts or location — ever.</li>
+              <li><svg width="16" height="16" viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path d="M9 16.2l-3.5-3.5L4 14.2l5 5 11-11-1.5-1.5z"/></svg>Optional anonymous usage counts, with a switch to turn them off.</li>
+              <li><svg width="16" height="16" viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path d="M9 16.2l-3.5-3.5L4 14.2l5 5 11-11-1.5-1.5z"/></svg>No third-party analytics or advertising SDKs.</li>
+            </ul>
+          </div>
+          <a class="btn" href="/privacy">Read the privacy policy</a>
+        </div>
+      </div>
+    </section>
+
+    <!-- ================= FAQ ================= -->
+    <section id="faq" aria-labelledby="faq-title">
+      <div class="wrap">
+        <div class="section-head reveal-up">
+          <div class="kicker">FAQ</div>
+          <h2 id="faq-title">Questions</h2>
+        </div>
+        <div class="faq">
+          <details class="glass reveal-up">
+            <summary>What level is it for?</summary>
+            <div class="answer">You pick your level (A1–C1) and get words at that level and a little above. About 1,000 German and 1,000 English words: everyday vocabulary — home, food, travel, time, money, health and more — plus words for 8 work areas (retail, IT, medicine, hotels &amp; restaurants, construction, logistics, office, care work). Every word comes with an example sentence and its translation (German words with their article).</div>
+          </details>
+          <details class="glass reveal-up">
+            <summary>Do I need to open the app every day?</summary>
+            <div class="answer">No. Each time you open it, OSG schedules the next 7 days of words and reminders. If you haven't opened it for a whole week, it sends one friendly nudge.</div>
+          </details>
+          <details class="glass reveal-up">
+            <summary>Can I change the times?</summary>
+            <div class="answer">Words arrive at 08:00, 12:00 and 18:00 for now. Your own reminders can be at any time you like, and one close to a word time is merged into a single notification.</div>
+          </details>
+          <details class="glass reveal-up">
+            <summary>Does it work without internet?</summary>
+            <div class="answer">Yes, once your words are on the phone. English→German is built in; other languages download once during setup. When you're online the app picks up new and corrected words by itself — or pull down on the Home screen to update right away.</div>
+          </details>
+          <details class="glass reveal-up">
+            <summary>Android or iPhone?</summary>
+            <div class="answer">Both. Android has a Home Screen widget; iPhone has Home Screen (small and wide) and Lock Screen widgets.</div>
+          </details>
+        </div>
+      </div>
+    </section>
+
+    <!-- ================= FINAL CTA ================= -->
+    <section aria-labelledby="final-title">
+      <div class="wrap">
+        <div class="final glass reveal-up">
+          <h2 id="final-title">Three words a day adds up.</h2>
+          <p>Twenty-one words a week, picked up in moments you were going to spend looking at your phone anyway.</p>
+          <div class="cta">
+            <span class="store"><span><small>Coming soon to</small><strong>Google Play</strong></span></span>
+            <span class="store"><span><small>Coming soon to</small><strong>App Store</strong></span></span>
+          </div>
+        </div>
+      </div>
+    </section>
+  </main>
+
+  <footer class="site-footer">
+    <div class="wrap">
+      <a class="brand" href="/"><span class="osg">OSG</span><span class="tag">Words every day</span></a>
+      <span>© <span id="year">2026</span> OSG</span>
+      <nav aria-label="Footer">
+        <a href="/privacy">Privacy</a>
+        <a href="#faq">FAQ</a>
+        <a href="https://kudratov.uz">kudratov.uz</a>
+      </nav>
+    </div>
+  </footer>
+
+  <script src="/site/main.js" defer></script>
+</body>
+</html>

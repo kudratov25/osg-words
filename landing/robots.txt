@@ -1,0 +1,10 @@
+User-agent: *
+Allow: /$
+Allow: /privacy
+Allow: /site/
+Disallow: /panel/
+Disallow: /admin/
+Disallow: /docs
+Disallow: /openapi.json
+Disallow: /content/
+Disallow: /telemetry/

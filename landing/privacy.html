@@ -1,0 +1,116 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Privacy Policy — OSG</title>
+  <meta name="description" content="What the OSG app and website collect, why, and for how long." />
+  <meta name="theme-color" content="#0B0E14" />
+  <link rel="canonical" href="https://osg.kudratov.uz/privacy" />
+  <link rel="icon" href="/site/favicon.svg" type="image/svg+xml" />
+  <script>
+    (function () {
+      var t = null
+      try { t = localStorage.getItem('osg_site_theme') } catch (e) {}
+      if (t !== 'light' && t !== 'dark') t = window.matchMedia && matchMedia('(prefers-color-scheme: light)').matches ? 'light' : 'dark'
+      document.documentElement.dataset.theme = t
+    })()
+  </script>
+  <link rel="stylesheet" href="/site/style.css" />
+</head>
+<body>
+  <div class="bg" aria-hidden="true"><span class="b1"></span><span class="b2"></span><span class="b3"></span></div>
+
+  <header class="site-header">
+    <div class="wrap">
+      <a class="brand" href="/" aria-label="OSG home"><span class="osg">OSG</span><span class="tag">Words every day</span></a>
+      <div class="header-right">
+        <button class="icon-btn" id="theme-toggle" type="button" aria-label="Switch theme" title="Switch theme">
+          <svg class="theme-icon-sun" width="18" height="18" viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path d="M12 7a5 5 0 100 10 5 5 0 000-10zm0-5a1 1 0 011 1v2a1 1 0 11-2 0V3a1 1 0 011-1zm0 17a1 1 0 011 1v1a1 1 0 11-2 0v-1a1 1 0 011-1zM4.2 4.2a1 1 0 011.4 0l1.4 1.4a1 1 0 01-1.4 1.4L4.2 5.6a1 1 0 010-1.4zm12.8 12.8a1 1 0 011.4 0l1.4 1.4a1 1 0 01-1.4 1.4L17 18.4a1 1 0 010-1.4zM2 12a1 1 0 011-1h2a1 1 0 110 2H3a1 1 0 01-1-1zm17 0a1 1 0 011-1h1a1 1 0 110 2h-1a1 1 0 01-1-1zM5.6 17a1 1 0 011.4 1.4l-1.4 1.4a1 1 0 01-1.4-1.4L5.6 17zM18.4 4.2a1 1 0 011.4 1.4L18.4 7A1 1 0 0117 5.6l1.4-1.4z"/></svg>
+          <svg class="theme-icon-moon" width="18" height="18" viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path d="M21 14.5A9 9 0 019.5 3a.9.9 0 00-1.1-1.1A10 10 0 1022.1 15.6a.9.9 0 00-1.1-1.1z"/></svg>
+        </button>
+        <a class="btn" href="/">← Back</a>
+      </div>
+    </div>
+  </header>
+
+  <main>
+    <article class="prose glass">
+      <h1>Privacy Policy</h1>
+      <p class="faint">Last updated: 6 November 2026 · Applies to the OSG app and osg.kudratov.uz.</p>
+
+      <p>Short version: OSG works without an account and keeps your reminders and learning progress on your phone. It can send an optional, anonymous usage count (you can switch that off) and, only if you tap “Report a mistake”, your report about a word. An account is optional; if you create one, we store your email address so you can sign in.</p>
+
+      <h2>What stays on your phone</h2>
+      <p>These are stored only in the app's local storage and are never uploaded:</p>
+      <ul>
+        <li>Your reminders (titles, descriptions, times, repeat settings)</li>
+        <li>Which words you've seen, your favourites, and your notification history and streak</li>
+        <li>Your settings, including the languages you chose (“I speak … / I'm learning …”)</li>
+      </ul>
+      <p>Uninstalling the app deletes all of it.</p>
+
+      <h2>What the app sends to our server</h2>
+      <table>
+        <thead><tr><th>What</th><th>Why</th><th>Details</th></tr></thead>
+        <tbody>
+          <tr>
+            <td>Word list check</td>
+            <td>To get new or corrected words</td>
+            <td>When you open the app (at most every 30 minutes), when you pull down to update, and when you change languages, the app asks for the current word list of your language pair and, if there's a newer one, downloads it. The request contains only the language pair (e.g. Uzbek → German) — no information about you.</td>
+          </tr>
+          <tr>
+            <td>Anonymous usage pings <span class="faint">(optional)</span></td>
+            <td>To know roughly how many people use the app and whether notifications are useful</td>
+            <td>
+              Sent when the app is opened and when you tap one of its notifications. Each ping contains: a random ID created by the app on first use (not linked to your name, phone number, Google/Apple account or advertising ID), the event type, your phone's operating system and version (e.g. “android 13”), the app version, your language pair (e.g. “uz-de”), and the time it arrives.
+              Turn it off any time in <strong>Settings → Share anonymous usage data</strong>; nothing is sent after that.
+            </td>
+          </tr>
+          <tr>
+            <td>Word mistake reports <span class="faint">(only when you send one)</span></td>
+            <td>To fix wrong translations, articles or example sentences</td>
+            <td>When you tap “Report a mistake” on a word: the app's random ID, which word, your language pair, the kind of mistake you picked, an optional note you type, and the time. Please don't put personal information in the note.</td>
+          </tr>
+          <tr>
+            <td>Account <span class="faint">(optional)</span></td>
+            <td>To let you sign in</td>
+            <td>
+              Only if you choose to create an account: your email address, the time you signed up, and a sign-in session. We email you a 6-digit code to sign in (no password). Your account is linked to the app's random ID on that phone.
+              We don't ask for your name or age. Delete your account any time in <strong>Settings → Account → Delete account</strong>: this deletes your email, your sessions and the usage pings linked to your account.
+            </td>
+          </tr>
+        </tbody>
+      </table>
+      <p>We do <strong>not</strong> collect your phone number, contacts, location, photos, or advertising ID — and no email address unless you create an account. The app contains no advertising or third-party analytics SDKs.</p>
+
+      <h2>Server logs</h2>
+      <p>Like almost every website, our web server records each request it receives — IP address, time, requested address and browser/app name — to keep the service secure and fix problems. These logs are deleted automatically after 14 days.</p>
+
+      <h2>This website</h2>
+      <p>osg.kudratov.uz uses no cookies, no analytics and no trackers. Your day/night theme choice is saved in your own browser (local storage) and never sent to us.</p>
+
+      <h2>Where data is stored and who sees it</h2>
+      <p>Usage pings, mistake reports, accounts and server logs are stored on our own server in Frankfurt, Germany. We don't sell or share them with anyone. Sign-in codes are sent through an email delivery service, which receives only your email address and the code. Usage pings are kept to measure usage over time; unless you have an account, they aren't linked to you and we can't look them up by person. Account data is kept until you delete your account.</p>
+
+      <h2>Children</h2>
+      <p>OSG isn't directed at children under 13 and doesn't knowingly collect personal information from anyone.</p>
+
+      <h2>Changes</h2>
+      <p>If this policy changes, we'll update this page and the date at the top.</p>
+
+      <h2>Contact</h2>
+      <p>Questions about privacy? Get in touch via <a href="https://kudratov.uz">kudratov.uz</a>.</p>
+    </article>
+  </main>
+
+  <footer class="site-footer">
+    <div class="wrap">
+      <a class="brand" href="/"><span class="osg">OSG</span><span class="tag">Words every day</span></a>
+      <span>© <span id="year">2026</span> OSG</span>
+      <nav aria-label="Footer"><a href="/">Home</a><a href="https://kudratov.uz">kudratov.uz</a></nav>
+    </div>
+  </footer>
+  <script src="/site/main.js" defer></script>
+</body>
+</html>
