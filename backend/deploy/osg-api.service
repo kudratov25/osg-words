@@ -1,0 +1,22 @@
+[Unit]
+Description=OSG backend API (FastAPI)
+After=network.target
+
+[Service]
+User=osg
+Group=osg
+WorkingDirectory=/srv/osg-backend
+EnvironmentFile=/srv/osg-backend/.env
+ExecStart=/srv/osg-backend/.venv/bin/uvicorn app.main:app --host 127.0.0.1 --port 8010 --proxy-headers --forwarded-allow-ips=127.0.0.1 --no-access-log
+Restart=always
+RestartSec=3
+# Hardening: read-only system, only the data dir is writable
+NoNewPrivileges=true
+ProtectSystem=strict
+ProtectHome=true
+PrivateTmp=true
+ReadWritePaths=/srv/osg-backend/data
+MemoryMax=200M
+
+[Install]
+WantedBy=multi-user.target
